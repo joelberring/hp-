@@ -30,8 +30,9 @@ export async function POST(request: Request) {
 export async function GET() {
     try {
         const scoresRef = collection(db, "scores");
-        // Prioritize accuracy percentage, then total volume
-        const q = query(scoresRef, orderBy("percentage", "desc"), orderBy("total", "desc"), limit(20));
+        // Simplify to single orderBy to avoid missing index error in Firestore
+        // You can add composite index later in Firebase Console
+        const q = query(scoresRef, orderBy("percentage", "desc"), limit(20));
         const querySnapshot = await getDocs(q);
 
         const leaderboard = querySnapshot.docs.map(doc => ({
@@ -40,7 +41,8 @@ export async function GET() {
         }));
 
         return NextResponse.json({ leaderboard });
-    } catch (error) {
-        return NextResponse.json({ error: "Failed to fetch leaderboard" }, { status: 500 });
+    } catch (error: any) {
+        console.error("Failed to fetch leaderboard:", error);
+        return NextResponse.json({ error: "Failed to fetch leaderboard", details: error.message }, { status: 500 });
     }
 }
