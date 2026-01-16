@@ -30438,5 +30438,9845 @@
     "year": 1989,
     "term": "ht",
     "source": "1989ht-ord.pdf"
+  },
+  {
+    "word": "hesitera",
+    "options": {
+      "A": "viska",
+      "B": "följa",
+      "C": "vårda",
+      "D": "tveka",
+      "E": "skynda"
+    },
+    "answer": "D",
+    "questionNumber": 1,
+    "year": 1989,
+    "term": "vt",
+    "source": "1989vt-ord.pdf"
+  },
+  {
+    "word": "allegori",
+    "options": {
+      "A": "liknelse",
+      "B": "förtydligande",
+      "C": "överdrift",
+      "D": "förbund",
+      "E": "motsats"
+    },
+    "answer": "A",
+    "questionNumber": 2,
+    "year": 1989,
+    "term": "vt",
+    "source": "1989vt-ord.pdf"
+  },
+  {
+    "word": "malplacerad",
+    "options": {
+      "A": "alldaglig",
+      "B": "egendomlig",
+      "C": "opassande",
+      "D": "uppseendeväckande",
+      "E": "ålderdomlig"
+    },
+    "answer": "C",
+    "questionNumber": 3,
+    "year": 1989,
+    "term": "vt",
+    "source": "1989vt-ord.pdf"
+  },
+  {
+    "word": "rotel",
+    "options": {
+      "A": "uppdrag",
+      "B": "avdelning",
+      "C": "utskott",
+      "D": "översikt",
+      "E": "utredning"
+    },
+    "answer": "B",
+    "questionNumber": 4,
+    "year": 1989,
+    "term": "vt",
+    "source": "1989vt-ord.pdf"
+  },
+  {
+    "word": "visualisera",
+    "options": {
+      "A": "visa sig skicklig",
+      "B": "skapa en bild av",
+      "C": "ge bevis på",
+      "D": "dra fram i ljuset",
+      "E": "fästa uppmärksamheten på"
+    },
+    "answer": "B",
+    "questionNumber": 5,
+    "year": 1989,
+    "term": "vt",
+    "source": "1989vt-ord.pdf"
+  },
+  {
+    "word": "agg",
+    "options": {
+      "A": "svek",
+      "B": "ursinne",
+      "C": "olydnad",
+      "D": "illvilja",
+      "E": "rädsla"
+    },
+    "answer": "D",
+    "questionNumber": 6,
+    "year": 1989,
+    "term": "vt",
+    "source": "1989vt-ord.pdf"
+  },
+  {
+    "word": "cineast",
+    "options": {
+      "A": "filmstjärna",
+      "B": "filmklubb",
+      "C": "filmkännare",
+      "D": "filmarkiv",
+      "E": "filmkritiker"
+    },
+    "answer": "C",
+    "questionNumber": 7,
+    "year": 1989,
+    "term": "vt",
+    "source": "1989vt-ord.pdf"
+  },
+  {
+    "word": "låta påskina",
+    "options": {
+      "A": "antyda",
+      "B": "belysa",
+      "C": "påpeka",
+      "D": "förneka",
+      "E": "avgöra"
+    },
+    "answer": "A",
+    "questionNumber": 8,
+    "year": 1989,
+    "term": "vt",
+    "source": "1989vt-ord.pdf"
+  },
+  {
+    "word": "inkonsekvens",
+    "options": {
+      "A": "självmotsägelse",
+      "B": "obetydlighet",
+      "C": "tveksamhet",
+      "D": "upphävande",
+      "E": "taktlöshet"
+    },
+    "answer": "A",
+    "questionNumber": 9,
+    "year": 1989,
+    "term": "vt",
+    "source": "1989vt-ord.pdf"
+  },
+  {
+    "word": "apatisk",
+    "options": {
+      "A": "känslig",
+      "B": "virrig",
+      "C": "obarmhärtig",
+      "D": "lättstött",
+      "E": "håglös"
+    },
+    "answer": "E",
+    "questionNumber": 10,
+    "year": 1989,
+    "term": "vt",
+    "source": "1989vt-ord.pdf"
+  },
+  {
+    "word": "accentuera",
+    "options": {
+      "A": "föreslå",
+      "B": "utöka",
+      "C": "godkänna",
+      "D": "påskynda",
+      "E": "betona"
+    },
+    "answer": "E",
+    "questionNumber": 11,
+    "year": 1989,
+    "term": "vt",
+    "source": "1989vt-ord.pdf"
+  },
+  {
+    "word": "jeremiad",
+    "options": {
+      "A": "spådom",
+      "B": "nödlögn",
+      "C": "klagovisa",
+      "D": "skällsord",
+      "E": "svammel"
+    },
+    "answer": "C",
+    "questionNumber": 12,
+    "year": 1989,
+    "term": "vt",
+    "source": "1989vt-ord.pdf"
+  },
+  {
+    "word": "depå",
+    "options": {
+      "A": "utförsel",
+      "B": "godsvagn",
+      "C": "bestämmelseort",
+      "D": "upplag",
+      "E": "hållplats"
+    },
+    "answer": "D",
+    "questionNumber": 13,
+    "year": 1989,
+    "term": "vt",
+    "source": "1989vt-ord.pdf"
+  },
+  {
+    "word": "neslig",
+    "options": {
+      "A": "rädd",
+      "B": "skamlig",
+      "C": "vek",
+      "D": "listig",
+      "E": "långsam"
+    },
+    "answer": "B",
+    "questionNumber": 14,
+    "year": 1989,
+    "term": "vt",
+    "source": "1989vt-ord.pdf"
+  },
+  {
+    "word": "pro forma",
+    "options": {
+      "A": "för syns skull",
+      "B": "för det mesta",
+      "C": "för det första",
+      "D": "för en kortare tid",
+      "E": "för säkerhets skull"
+    },
+    "answer": "A",
+    "questionNumber": 15,
+    "year": 1989,
+    "term": "vt",
+    "source": "1989vt-ord.pdf"
+  },
+  {
+    "word": "gissla",
+    "options": {
+      "A": "plåga",
+      "B": "klaga",
+      "C": "kräva",
+      "D": "hota",
+      "E": "hindra"
+    },
+    "answer": "A",
+    "questionNumber": 16,
+    "year": 1989,
+    "term": "vt",
+    "source": "1989vt-ord.pdf"
+  },
+  {
+    "word": "makaber",
+    "options": {
+      "A": "dålig",
+      "B": "ohygglig",
+      "C": "farlig",
+      "D": "galen",
+      "E": "rutten"
+    },
+    "answer": "B",
+    "questionNumber": 17,
+    "year": 1989,
+    "term": "vt",
+    "source": "1989vt-ord.pdf"
+  },
+  {
+    "word": "avans",
+    "options": {
+      "A": "avgift",
+      "B": "skuld",
+      "C": "lån",
+      "D": "vinst",
+      "E": "förlust"
+    },
+    "answer": "D",
+    "questionNumber": 18,
+    "year": 1989,
+    "term": "vt",
+    "source": "1989vt-ord.pdf"
+  },
+  {
+    "word": "internalisera",
+    "options": {
+      "A": "ingripa",
+      "B": "inleda",
+      "C": "införliva",
+      "D": "instämma",
+      "E": "inse"
+    },
+    "answer": "C",
+    "questionNumber": 19,
+    "year": 1989,
+    "term": "vt",
+    "source": "1989vt-ord.pdf"
+  },
+  {
+    "word": "egal",
+    "options": {
+      "A": "onyttig",
+      "B": "likgiltig",
+      "C": "olaglig",
+      "D": "tillfällig",
+      "E": "oföränderlig"
+    },
+    "answer": "B",
+    "questionNumber": 20,
+    "year": 1989,
+    "term": "vt",
+    "source": "1989vt-ord.pdf"
+  },
+  {
+    "word": "löpa amok",
+    "options": {
+      "A": "inte tänka sig för",
+      "B": "vägra finna sig i",
+      "C": "vara utsatt för fara",
+      "D": "få raserianfall",
+      "E": "vara lämnad åt sitt öde"
+    },
+    "answer": "D",
+    "questionNumber": 21,
+    "year": 1989,
+    "term": "vt",
+    "source": "1989vt-ord.pdf"
+  },
+  {
+    "word": "överdängare",
+    "options": {
+      "A": "lögnare",
+      "B": "beskyddare",
+      "C": "svindlare",
+      "D": "anhängare",
+      "E": "baddare"
+    },
+    "answer": "E",
+    "questionNumber": 22,
+    "year": 1989,
+    "term": "vt",
+    "source": "1989vt-ord.pdf"
+  },
+  {
+    "word": "thorax",
+    "options": {
+      "A": "ryggmärgen",
+      "B": "bukhålan",
+      "C": "bröstkorgen",
+      "D": "underlivet",
+      "E": "mellangärdet"
+    },
+    "answer": "C",
+    "questionNumber": 23,
+    "year": 1989,
+    "term": "vt",
+    "source": "1989vt-ord.pdf"
+  },
+  {
+    "word": "piké",
+    "options": {
+      "A": "soffa",
+      "B": "tyg",
+      "C": "vas",
+      "D": "borr",
+      "E": "mössa"
+    },
+    "answer": "B",
+    "questionNumber": 24,
+    "year": 1989,
+    "term": "vt",
+    "source": "1989vt-ord.pdf"
+  },
+  {
+    "word": "somatisk",
+    "options": {
+      "A": "lindrig",
+      "B": "själslig",
+      "C": "obotlig",
+      "D": "kroppslig",
+      "E": "ensidig"
+    },
+    "answer": "D",
+    "questionNumber": 25,
+    "year": 1989,
+    "term": "vt",
+    "source": "1989vt-ord.pdf"
+  },
+  {
+    "word": "anförvant",
+    "options": {
+      "A": "släkting",
+      "B": "fiende",
+      "C": "bekant",
+      "D": "arvtagare",
+      "E": "medmänniska"
+    },
+    "answer": "A",
+    "questionNumber": 26,
+    "year": 1989,
+    "term": "vt",
+    "source": "1989vt-ord.pdf"
+  },
+  {
+    "word": "briefa",
+    "options": {
+      "A": "göra slut på",
+      "B": "uttrycka ogillande",
+      "C": "informera kortfattat",
+      "D": "studera ingående",
+      "E": "knappa in på"
+    },
+    "answer": "C",
+    "questionNumber": 27,
+    "year": 1989,
+    "term": "vt",
+    "source": "1989vt-ord.pdf"
+  },
+  {
+    "word": "konglomerat",
+    "options": {
+      "A": "splittring",
+      "B": "genombrott",
+      "C": "samband",
+      "D": "uppställning",
+      "E": "hopgyttring"
+    },
+    "answer": "E",
+    "questionNumber": 28,
+    "year": 1989,
+    "term": "vt",
+    "source": "1989vt-ord.pdf"
+  },
+  {
+    "word": "pueril",
+    "options": {
+      "A": "klyftig",
+      "B": "känslig",
+      "C": "modig",
+      "D": "ordentlig",
+      "E": "barnslig"
+    },
+    "answer": "E",
+    "questionNumber": 29,
+    "year": 1989,
+    "term": "vt",
+    "source": "1989vt-ord.pdf"
+  },
+  {
+    "word": "vesper",
+    "options": {
+      "A": "vårsång",
+      "B": "folksång",
+      "C": "aftonsång",
+      "D": "kampsång",
+      "E": "vaggsång"
+    },
+    "answer": "C",
+    "questionNumber": 30,
+    "year": 1989,
+    "term": "vt",
+    "source": "1989vt-ord.pdf"
+  },
+  {
+    "word": "funtad",
+    "options": {
+      "A": "beskaffad",
+      "B": "obegåvad",
+      "C": "välgrundad",
+      "D": "förfelad",
+      "E": "påverkad"
+    },
+    "answer": "A",
+    "questionNumber": 1,
+    "year": 1988,
+    "term": "ht",
+    "source": "1988ht-facit_ord.pdf"
+  },
+  {
+    "word": "gastronom",
+    "options": {
+      "A": "spåman",
+      "B": "stjärntydare",
+      "C": "vinkännare",
+      "D": "naturkännare",
+      "E": "finsmakare"
+    },
+    "answer": "E",
+    "questionNumber": 2,
+    "year": 1988,
+    "term": "ht",
+    "source": "1988ht-facit_ord.pdf"
+  },
+  {
+    "word": "fundamental",
+    "options": {
+      "A": "överväldigande",
+      "B": "avgörande",
+      "C": "bestående",
+      "D": "motsvarande",
+      "E": "grundläggande"
+    },
+    "answer": "E",
+    "questionNumber": 3,
+    "year": 1988,
+    "term": "ht",
+    "source": "1988ht-facit_ord.pdf"
+  },
+  {
+    "word": "excellera",
+    "options": {
+      "A": "underkasta sig",
+      "B": "förhasta sig",
+      "C": "utmärka sig",
+      "D": "avsäga sig",
+      "E": "ursäkta sig"
+    },
+    "answer": "C",
+    "questionNumber": 4,
+    "year": 1988,
+    "term": "ht",
+    "source": "1988ht-facit_ord.pdf"
+  },
+  {
+    "word": "makramé",
+    "options": {
+      "A": "knytarbete",
+      "B": "teckenspråk",
+      "C": "bomullstyg",
+      "D": "skönskrift",
+      "E": "pappersvik-ningskonst"
+    },
+    "answer": "A",
+    "questionNumber": 5,
+    "year": 1988,
+    "term": "ht",
+    "source": "1988ht-facit_ord.pdf"
+  },
+  {
+    "word": "rappakalja",
+    "options": {
+      "A": "smörja",
+      "B": "lögn",
+      "C": "oväsen",
+      "D": "skäll",
+      "E": "skvaller"
+    },
+    "answer": "C",
+    "questionNumber": 6,
+    "year": 1988,
+    "term": "ht",
+    "source": "1988ht-facit_ord.pdf"
+  },
+  {
+    "word": "melankolisk",
+    "options": {
+      "A": "nedlåtande",
+      "B": "eftertänksam",
+      "C": "förvirrad",
+      "D": "svårmodig",
+      "E": "missbelåten"
+    },
+    "answer": "D",
+    "questionNumber": 7,
+    "year": 1988,
+    "term": "ht",
+    "source": "1988ht-facit_ord.pdf"
+  },
+  {
+    "word": "spjälka",
+    "options": {
+      "A": "ta bort",
+      "B": "fånga upp",
+      "C": "skärma av",
+      "D": "bryta ned",
+      "E": "byta ut"
+    },
+    "answer": "D",
+    "questionNumber": 8,
+    "year": 1988,
+    "term": "ht",
+    "source": "1988ht-facit_ord.pdf"
+  },
+  {
+    "word": "hurril",
+    "options": {
+      "A": "vindstöt",
+      "B": "örfil",
+      "C": "förråd",
+      "D": "skämt",
+      "E": "regnskur"
+    },
+    "answer": "B",
+    "questionNumber": 9,
+    "year": 1988,
+    "term": "ht",
+    "source": "1988ht-facit_ord.pdf"
+  },
+  {
+    "word": "malör",
+    "options": {
+      "A": "uppträde",
+      "B": "avsikt",
+      "C": "intrång",
+      "D": "missöde",
+      "E": "förtal"
+    },
+    "answer": "D",
+    "questionNumber": 10,
+    "year": 1988,
+    "term": "ht",
+    "source": "1988ht-facit_ord.pdf"
+  },
+  {
+    "word": "digna",
+    "options": {
+      "A": "yra",
+      "B": "slöa",
+      "C": "öka",
+      "D": "kasta",
+      "E": "svikta"
+    },
+    "answer": "E",
+    "questionNumber": 11,
+    "year": 1988,
+    "term": "ht",
+    "source": "1988ht-facit_ord.pdf"
+  },
+  {
+    "word": "juvenil",
+    "options": {
+      "A": "tokig",
+      "B": "glömsk",
+      "C": "omogen",
+      "D": "tråkig",
+      "E": "känslig"
+    },
+    "answer": "C",
+    "questionNumber": 12,
+    "year": 1988,
+    "term": "ht",
+    "source": "1988ht-facit_ord.pdf"
+  },
+  {
+    "word": "mitella",
+    "options": {
+      "A": "risrätt",
+      "B": "förbandsduk",
+      "C": "vinkaraff",
+      "D": "väggmålning",
+      "E": "biskopsmössa"
+    },
+    "answer": "B",
+    "questionNumber": 13,
+    "year": 1988,
+    "term": "ht",
+    "source": "1988ht-facit_ord.pdf"
+  },
+  {
+    "word": "trivialitet",
+    "options": {
+      "A": "enformighet",
+      "B": "betänklighet",
+      "C": "obetydlighet",
+      "D": "möjlighet",
+      "E": "väsentlighet"
+    },
+    "answer": "C",
+    "questionNumber": 14,
+    "year": 1988,
+    "term": "ht",
+    "source": "1988ht-facit_ord.pdf"
+  },
+  {
+    "word": "deskriptiv",
+    "options": {
+      "A": "övergripande",
+      "B": "upplysande",
+      "C": "utpekande",
+      "D": "förberedande",
+      "E": "beskrivande"
+    },
+    "answer": "E",
+    "questionNumber": 15,
+    "year": 1988,
+    "term": "ht",
+    "source": "1988ht-facit_ord.pdf"
+  },
+  {
+    "word": "hägn",
+    "options": {
+      "A": "oro",
+      "B": "synd",
+      "C": "skydd",
+      "D": "rättvisa",
+      "E": "motstånd"
+    },
+    "answer": "C",
+    "questionNumber": 1,
+    "year": 1988,
+    "term": "vt",
+    "source": "1988vt-ord.pdf"
+  },
+  {
+    "word": "sekretion",
+    "options": {
+      "A": "avsöndring",
+      "B": "missbildning",
+      "C": "förgiftning",
+      "D": "urholkning",
+      "E": "förlamning"
+    },
+    "answer": "A",
+    "questionNumber": 2,
+    "year": 1988,
+    "term": "vt",
+    "source": "1988vt-ord.pdf"
+  },
+  {
+    "word": "skönja",
+    "options": {
+      "A": "gilla",
+      "B": "bevisa",
+      "C": "urskilja",
+      "D": "dölja",
+      "E": "splittra"
+    },
+    "answer": "C",
+    "questionNumber": 3,
+    "year": 1988,
+    "term": "vt",
+    "source": "1988vt-ord.pdf"
+  },
+  {
+    "word": "dränera",
+    "options": {
+      "A": "bevattna",
+      "B": "avstycka",
+      "C": "uppodla",
+      "D": "förbränna",
+      "E": "torrlägga"
+    },
+    "answer": "E",
+    "questionNumber": 4,
+    "year": 1988,
+    "term": "vt",
+    "source": "1988vt-ord.pdf"
+  },
+  {
+    "word": "relikt",
+    "options": {
+      "A": "överflöd",
+      "B": "kvarleva",
+      "C": "återfall",
+      "D": "befrielse",
+      "E": "gottgörelse"
+    },
+    "answer": "B",
+    "questionNumber": 5,
+    "year": 1988,
+    "term": "vt",
+    "source": "1988vt-ord.pdf"
+  },
+  {
+    "word": "frustration",
+    "options": {
+      "A": "besvikelse",
+      "B": "ovilja",
+      "C": "strävan",
+      "D": "övertro",
+      "E": "medkänsla"
+    },
+    "answer": "A",
+    "questionNumber": 6,
+    "year": 1988,
+    "term": "vt",
+    "source": "1988vt-ord.pdf"
+  },
+  {
+    "word": "standar",
+    "options": {
+      "A": "sång",
+      "B": "rop",
+      "C": "tal",
+      "D": "fana",
+      "E": "svärd"
+    },
+    "answer": "D",
+    "questionNumber": 7,
+    "year": 1988,
+    "term": "vt",
+    "source": "1988vt-ord.pdf"
+  },
+  {
+    "word": "göra avkall på",
+    "options": {
+      "A": "ta itu med",
+      "B": "avstå från",
+      "C": "ge företräde åt",
+      "D": "invända mot",
+      "E": "dra fördel av"
+    },
+    "answer": "B",
+    "questionNumber": 8,
+    "year": 1988,
+    "term": "vt",
+    "source": "1988vt-ord.pdf"
+  },
+  {
+    "word": "påver",
+    "options": {
+      "A": "ledsen",
+      "B": "opålitlig",
+      "C": "torftig",
+      "D": "envis",
+      "E": "långsam"
+    },
+    "answer": "D",
+    "questionNumber": 9,
+    "year": 1988,
+    "term": "vt",
+    "source": "1988vt-ord.pdf"
+  },
+  {
+    "word": "raffinera",
+    "options": {
+      "A": "krossa",
+      "B": "ändra",
+      "C": "pröva",
+      "D": "rena",
+      "E": "härda"
+    },
+    "answer": "D",
+    "questionNumber": 10,
+    "year": 1988,
+    "term": "vt",
+    "source": "1988vt-ord.pdf"
+  },
+  {
+    "word": "essä",
+    "options": {
+      "A": "dikt",
+      "B": "saga",
+      "C": "roman",
+      "D": "uppsats",
+      "E": "visa"
+    },
+    "answer": "D",
+    "questionNumber": 11,
+    "year": 1988,
+    "term": "vt",
+    "source": "1988vt-ord.pdf"
+  },
+  {
+    "word": "yppa",
+    "options": {
+      "A": "komma ihåg",
+      "B": "fråga efter",
+      "C": "göra gällande",
+      "D": "hitta på",
+      "E": "tala om"
+    },
+    "answer": "E",
+    "questionNumber": 12,
+    "year": 1988,
+    "term": "vt",
+    "source": "1988vt-ord.pdf"
+  },
+  {
+    "word": "analogi",
+    "options": {
+      "A": "överensstämmelse",
+      "B": "bekräftelse",
+      "C": "överskattning",
+      "D": "motbevis",
+      "E": "underskattning"
+    },
+    "answer": "A",
+    "questionNumber": 13,
+    "year": 1988,
+    "term": "vt",
+    "source": "1988vt-ord.pdf"
+  },
+  {
+    "word": "intakt",
+    "options": {
+      "A": "välskött",
+      "B": "orörd",
+      "C": "påkostad",
+      "D": "artig",
+      "E": "behaglig"
+    },
+    "answer": "B",
+    "questionNumber": 14,
+    "year": 1988,
+    "term": "vt",
+    "source": "1988vt-ord.pdf"
+  },
+  {
+    "word": "rigid",
+    "options": {
+      "A": "stygg",
+      "B": "stel",
+      "C": "stor",
+      "D": "stolt",
+      "E": "stum"
+    },
+    "answer": "B",
+    "questionNumber": 15,
+    "year": 1988,
+    "term": "vt",
+    "source": "1988vt-ord.pdf"
+  },
+  {
+    "word": "spröjs",
+    "options": {
+      "A": "dörrkarm",
+      "B": "snedtak",
+      "C": "takfönster",
+      "D": "fönsterlist",
+      "E": "dörrfoder"
+    },
+    "answer": "D",
+    "questionNumber": 16,
+    "year": 1988,
+    "term": "vt",
+    "source": "1988vt-ord.pdf"
+  },
+  {
+    "word": "otillbörlig",
+    "options": {
+      "A": "omutbar",
+      "B": "ouppnåelig",
+      "C": "otvungen",
+      "D": "opassande",
+      "E": "omedveten"
+    },
+    "answer": "D",
+    "questionNumber": 17,
+    "year": 1988,
+    "term": "vt",
+    "source": "1988vt-ord.pdf"
+  },
+  {
+    "word": "taburett",
+    "options": {
+      "A": "pall",
+      "B": "hatt",
+      "C": "instrument",
+      "D": "duk",
+      "E": "lampa"
+    },
+    "answer": "A",
+    "questionNumber": 18,
+    "year": 1988,
+    "term": "vt",
+    "source": "1988vt-ord.pdf"
+  },
+  {
+    "word": "avyttra",
+    "options": {
+      "A": "sälja",
+      "B": "besvara",
+      "C": "förbättra",
+      "D": "utpeka",
+      "E": "kasta"
+    },
+    "answer": "A",
+    "questionNumber": 19,
+    "year": 1988,
+    "term": "vt",
+    "source": "1988vt-ord.pdf"
+  },
+  {
+    "word": "spjuver",
+    "options": {
+      "A": "syndare",
+      "B": "lycksökare",
+      "C": "skämtare",
+      "D": "ögontjänare",
+      "E": "bedragare"
+    },
+    "answer": "C",
+    "questionNumber": 20,
+    "year": 1988,
+    "term": "vt",
+    "source": "1988vt-ord.pdf"
+  },
+  {
+    "word": "recitation",
+    "options": {
+      "A": "hyllning",
+      "B": "uppläsning",
+      "C": "avskrift",
+      "D": "översättning",
+      "E": "inlevelse"
+    },
+    "answer": "B",
+    "questionNumber": 21,
+    "year": 1988,
+    "term": "vt",
+    "source": "1988vt-ord.pdf"
+  },
+  {
+    "word": "trankil",
+    "options": {
+      "A": "snäll",
+      "B": "ivrig",
+      "C": "lugn",
+      "D": "öppenhjärtig",
+      "E": "bekymrad"
+    },
+    "answer": "C",
+    "questionNumber": 22,
+    "year": 1988,
+    "term": "vt",
+    "source": "1988vt-ord.pdf"
+  },
+  {
+    "word": "förära",
+    "options": {
+      "A": "avfärda",
+      "B": "hälsa",
+      "C": "missunna",
+      "D": "påtvinga",
+      "E": "skänka"
+    },
+    "answer": "E",
+    "questionNumber": 23,
+    "year": 1988,
+    "term": "vt",
+    "source": "1988vt-ord.pdf"
+  },
+  {
+    "word": "baisse",
+    "options": {
+      "A": "kursfall",
+      "B": "fördyring",
+      "C": "jämkning",
+      "D": "felräkning",
+      "E": "avvikelse"
+    },
+    "answer": "A",
+    "questionNumber": 24,
+    "year": 1988,
+    "term": "vt",
+    "source": "1988vt-ord.pdf"
+  },
+  {
+    "word": "gravitetisk",
+    "options": {
+      "A": "taktlös",
+      "B": "vårdslös",
+      "C": "upprörande",
+      "D": "högtidlig",
+      "E": "bedrövad"
+    },
+    "answer": "D",
+    "questionNumber": 25,
+    "year": 1988,
+    "term": "vt",
+    "source": "1988vt-ord.pdf"
+  },
+  {
+    "word": "iterera",
+    "options": {
+      "A": "införa",
+      "B": "begära",
+      "C": "motarbeta",
+      "D": "upprepa",
+      "E": "befalla"
+    },
+    "answer": "D",
+    "questionNumber": 26,
+    "year": 1988,
+    "term": "vt",
+    "source": "1988vt-ord.pdf"
+  },
+  {
+    "word": "peristaltik",
+    "options": {
+      "A": "syreupptagning",
+      "B": "tarmrörelse",
+      "C": "balanssinne",
+      "D": "blodcirkulation",
+      "E": "ämnesomsättning"
+    },
+    "answer": "B",
+    "questionNumber": 27,
+    "year": 1988,
+    "term": "vt",
+    "source": "1988vt-ord.pdf"
+  },
+  {
+    "word": "huld",
+    "options": {
+      "A": "småaktig",
+      "B": "motsträvig",
+      "C": "lättsinnig",
+      "D": "uppriktig",
+      "E": "välvillig"
+    },
+    "answer": "E",
+    "questionNumber": 28,
+    "year": 1988,
+    "term": "vt",
+    "source": "1988vt-ord.pdf"
+  },
+  {
+    "word": "excess",
+    "options": {
+      "A": "avrättning",
+      "B": "överdrift",
+      "C": "sällsynthet",
+      "D": "övning",
+      "E": "landsflykt"
+    },
+    "answer": "B",
+    "questionNumber": 29,
+    "year": 1988,
+    "term": "vt",
+    "source": "1988vt-ord.pdf"
+  },
+  {
+    "word": "adstringerande",
+    "options": {
+      "A": "lösande",
+      "B": "frätande",
+      "C": "uppmjukande",
+      "D": "stärkande",
+      "E": "sammandragande"
+    },
+    "answer": "E",
+    "questionNumber": 30,
+    "year": 1988,
+    "term": "vt",
+    "source": "1988vt-ord.pdf"
+  },
+  {
+    "word": "dissekera",
+    "options": {
+      "A": "kasta bort",
+      "B": "sprida ut",
+      "C": "räkna ihop",
+      "D": "strunta i",
+      "E": "skära sönder"
+    },
+    "answer": "E",
+    "questionNumber": 1,
+    "year": 1987,
+    "term": "ht",
+    "source": "1987ht-ord.pdf"
+  },
+  {
+    "word": "plagiat",
+    "options": {
+      "A": "undantag",
+      "B": "inbillning",
+      "C": "misslyckande",
+      "D": "efterapning",
+      "E": "förändring"
+    },
+    "answer": "D",
+    "questionNumber": 2,
+    "year": 1987,
+    "term": "ht",
+    "source": "1987ht-ord.pdf"
+  },
+  {
+    "word": "instruktiv",
+    "options": {
+      "A": "grundläggande",
+      "B": "upplyssande",
+      "C": "omfattande",
+      "D": "omväxlande",
+      "E": "genomgående"
+    },
+    "answer": "B",
+    "questionNumber": 3,
+    "year": 1987,
+    "term": "ht",
+    "source": "1987ht-ord.pdf"
+  },
+  {
+    "word": "oavlåtligt",
+    "options": {
+      "A": "alltid",
+      "B": "ofta",
+      "C": "ibland",
+      "D": "sällan",
+      "E": "aldrig"
+    },
+    "answer": "A",
+    "questionNumber": 4,
+    "year": 1987,
+    "term": "ht",
+    "source": "1987ht-ord.pdf"
+  },
+  {
+    "word": "masochism",
+    "options": {
+      "A": "militärstyre",
+      "B": "massutrotning",
+      "C": "verklighetsflykt",
+      "D": "självplågeri",
+      "E": "storhetsvansinne"
+    },
+    "answer": "D",
+    "questionNumber": 5,
+    "year": 1987,
+    "term": "ht",
+    "source": "1987ht-ord.pdf"
+  },
+  {
+    "word": "prudentlig",
+    "options": {
+      "A": "saklig",
+      "B": "ärlig",
+      "C": "listig",
+      "D": "petig",
+      "E": "girig"
+    },
+    "answer": "D",
+    "questionNumber": 6,
+    "year": 1987,
+    "term": "ht",
+    "source": "1987ht-ord.pdf"
+  },
+  {
+    "word": "förebåda",
+    "options": {
+      "A": "förutsätta",
+      "B": "förebrå",
+      "C": "förelägga",
+      "D": "föreslå",
+      "E": "förutsäga"
+    },
+    "answer": "E",
+    "questionNumber": 7,
+    "year": 1987,
+    "term": "ht",
+    "source": "1987ht-ord.pdf"
+  },
+  {
+    "word": "likviditet",
+    "options": {
+      "A": "betalningsförmåga",
+      "B": "utlåningsränta",
+      "C": "kontobesked",
+      "D": "skuldförbindelse",
+      "E": "valutareserv"
+    },
+    "answer": "A",
+    "questionNumber": 8,
+    "year": 1987,
+    "term": "ht",
+    "source": "1987ht-ord.pdf"
+  },
+  {
+    "word": "resignera",
+    "options": {
+      "A": "ta hänsyn",
+      "B": "ge upp",
+      "C": "hämta sig",
+      "D": "göra upp",
+      "E": "ångra sig"
+    },
+    "answer": "B",
+    "questionNumber": 9,
+    "year": 1987,
+    "term": "ht",
+    "source": "1987ht-ord.pdf"
+  },
+  {
+    "word": "vankelmodig",
+    "options": {
+      "A": "obeslutsam",
+      "B": "inskränkt",
+      "C": "motvillig",
+      "D": "besvärad",
+      "E": "maktlös"
+    },
+    "answer": "A",
+    "questionNumber": 10,
+    "year": 1987,
+    "term": "ht",
+    "source": "1987ht-ord.pdf"
+  },
+  {
+    "word": "numismatiker",
+    "options": {
+      "A": "konstkännare",
+      "B": "filmexpert",
+      "C": "bildkonstnär",
+      "D": "frimärkssamlare",
+      "E": "myntkännare"
+    },
+    "answer": "E",
+    "questionNumber": 11,
+    "year": 1987,
+    "term": "ht",
+    "source": "1987ht-ord.pdf"
+  },
+  {
+    "word": "ympa",
+    "options": {
+      "A": "bekämpa",
+      "B": "avverka",
+      "C": "torrlägga",
+      "D": "utrensa",
+      "E": "förädla"
+    },
+    "answer": "E",
+    "questionNumber": 12,
+    "year": 1987,
+    "term": "ht",
+    "source": "1987ht-ord.pdf"
+  },
+  {
+    "word": "transparent",
+    "options": {
+      "A": "utstående",
+      "B": "självlysande",
+      "C": "utskuren",
+      "D": "genomskinlig",
+      "E": "förstärkt"
+    },
+    "answer": "D",
+    "questionNumber": 13,
+    "year": 1987,
+    "term": "ht",
+    "source": "1987ht-ord.pdf"
+  },
+  {
+    "word": "eftergift",
+    "options": {
+      "A": "medgivande",
+      "B": "erbjudande",
+      "C": "beklagande",
+      "D": "förnekande",
+      "E": "avståndstagande"
+    },
+    "answer": "A",
+    "questionNumber": 14,
+    "year": 1987,
+    "term": "ht",
+    "source": "1987ht-ord.pdf"
+  },
+  {
+    "word": "flankera",
+    "options": {
+      "A": "ändra",
+      "B": "avvisa",
+      "C": "omge",
+      "D": "ställa",
+      "E": "inta"
+    },
+    "answer": "C",
+    "questionNumber": 15,
+    "year": 1987,
+    "term": "ht",
+    "source": "1987ht-ord.pdf"
+  },
+  {
+    "word": "gemen",
+    "options": {
+      "A": "envis",
+      "B": "lumpen",
+      "C": "ombytlig",
+      "D": "trotsig",
+      "E": "argsint"
+    },
+    "answer": "B",
+    "questionNumber": 16,
+    "year": 1987,
+    "term": "ht",
+    "source": "1987ht-ord.pdf"
+  },
+  {
+    "word": "landå",
+    "options": {
+      "A": "vagn",
+      "B": "soffa",
+      "C": "båt",
+      "D": "skåp",
+      "E": "balkong"
+    },
+    "answer": "A",
+    "questionNumber": 17,
+    "year": 1987,
+    "term": "ht",
+    "source": "1987ht-ord.pdf"
+  },
+  {
+    "word": "amnesi",
+    "options": {
+      "A": "andnöd",
+      "B": "torgskräck",
+      "C": "minnesförlust",
+      "D": "förföljelsemani",
+      "E": "överansträngning"
+    },
+    "answer": "C",
+    "questionNumber": 18,
+    "year": 1987,
+    "term": "ht",
+    "source": "1987ht-ord.pdf"
+  },
+  {
+    "word": "prominent",
+    "options": {
+      "A": "frikostig",
+      "B": "framstående",
+      "C": "fristående",
+      "D": "förberedande",
+      "E": "framfusig"
+    },
+    "answer": "B",
+    "questionNumber": 19,
+    "year": 1987,
+    "term": "ht",
+    "source": "1987ht-ord.pdf"
+  },
+  {
+    "word": "konvention",
+    "options": {
+      "A": "överenskommelse",
+      "B": "samordning",
+      "C": "överläggning",
+      "D": "förordnande",
+      "E": "uppbyggnad"
+    },
+    "answer": "A",
+    "questionNumber": 20,
+    "year": 1987,
+    "term": "ht",
+    "source": "1987ht-ord.pdf"
+  },
+  {
+    "word": "segregation",
+    "options": {
+      "A": "avlagring",
+      "B": "underskattning",
+      "C": "åtskillnad",
+      "D": "överlåtelse",
+      "E": "urholkning"
+    },
+    "answer": "C",
+    "questionNumber": 21,
+    "year": 1987,
+    "term": "ht",
+    "source": "1987ht-ord.pdf"
+  },
+  {
+    "word": "kollationera",
+    "options": {
+      "A": "samarbeta",
+      "B": "jämföra",
+      "C": "förklara",
+      "D": "bestämma",
+      "E": "motverka"
+    },
+    "answer": "B",
+    "questionNumber": 22,
+    "year": 1987,
+    "term": "ht",
+    "source": "1987ht-ord.pdf"
+  },
+  {
+    "word": "diskrepans",
+    "options": {
+      "A": "avvikelse",
+      "B": "motsvarighet",
+      "C": "taktfullhet",
+      "D": "befrielse",
+      "E": "oförskämdhet"
+    },
+    "answer": "A",
+    "questionNumber": 23,
+    "year": 1987,
+    "term": "ht",
+    "source": "1987ht-ord.pdf"
+  },
+  {
+    "word": "härnad",
+    "options": {
+      "A": "jordbävning",
+      "B": "landsflykt",
+      "C": "krigståg",
+      "D": "blodbad",
+      "E": "landsförräderi"
+    },
+    "answer": "C",
+    "questionNumber": 24,
+    "year": 1987,
+    "term": "ht",
+    "source": "1987ht-ord.pdf"
+  },
+  {
+    "word": "kanonisera",
+    "options": {
+      "A": "omyndigförklara",
+      "B": "lämpligförklara",
+      "C": "helgonförklara",
+      "D": "dödförklara",
+      "E": "oskyldigförklara"
+    },
+    "answer": "C",
+    "questionNumber": 25,
+    "year": 1987,
+    "term": "ht",
+    "source": "1987ht-ord.pdf"
+  },
+  {
+    "word": "distingerad",
+    "options": {
+      "A": "oansenlig",
+      "B": "hotfull",
+      "C": "självgod",
+      "D": "taktlös",
+      "E": "förnäm"
+    },
+    "answer": "E",
+    "questionNumber": 26,
+    "year": 1987,
+    "term": "ht",
+    "source": "1987ht-ord.pdf"
+  },
+  {
+    "word": "städsla",
+    "options": {
+      "A": "rengöra",
+      "B": "hejda",
+      "C": "hjälpa",
+      "D": "anställa",
+      "E": "avskaffa"
+    },
+    "answer": "D",
+    "questionNumber": 27,
+    "year": 1987,
+    "term": "ht",
+    "source": "1987ht-ord.pdf"
+  },
+  {
+    "word": "discipel",
+    "options": {
+      "A": "läroämne",
+      "B": "lärare",
+      "C": "lärjunge",
+      "D": "lärobok",
+      "E": "lärosal"
+    },
+    "answer": "C",
+    "questionNumber": 28,
+    "year": 1987,
+    "term": "ht",
+    "source": "1987ht-ord.pdf"
+  },
+  {
+    "word": "ans",
+    "options": {
+      "A": "förnuft",
+      "B": "löfte",
+      "C": "krav",
+      "D": "skötsel",
+      "E": "förebråelse"
+    },
+    "answer": "D",
+    "questionNumber": 29,
+    "year": 1987,
+    "term": "ht",
+    "source": "1987ht-ord.pdf"
+  },
+  {
+    "word": "suckulent",
+    "options": {
+      "A": "metall",
+      "B": "gas",
+      "C": "växt",
+      "D": "berggart",
+      "E": "djur"
+    },
+    "answer": "C",
+    "questionNumber": 30,
+    "year": 1987,
+    "term": "ht",
+    "source": "1987ht-ord.pdf"
+  },
+  {
+    "word": "replikera",
+    "options": {
+      "A": "svara",
+      "B": "fråga",
+      "C": "kräva",
+      "D": "granska",
+      "E": "neka"
+    },
+    "answer": "A",
+    "questionNumber": 1,
+    "year": 1987,
+    "term": "vt",
+    "source": "1987vt-ord.pdf"
+  },
+  {
+    "word": "sporadisk",
+    "options": {
+      "A": "utdragen",
+      "B": "föränderlig",
+      "C": "regelbunden",
+      "D": "enstaka",
+      "E": "ständig"
+    },
+    "answer": "D",
+    "questionNumber": 2,
+    "year": 1987,
+    "term": "vt",
+    "source": "1987vt-ord.pdf"
+  },
+  {
+    "word": "värv",
+    "options": {
+      "A": "skada",
+      "B": "syssla",
+      "C": "sed",
+      "D": "skydd",
+      "E": "stil"
+    },
+    "answer": "B",
+    "questionNumber": 3,
+    "year": 1987,
+    "term": "vt",
+    "source": "1987vt-ord.pdf"
+  },
+  {
+    "word": "handlägga",
+    "options": {
+      "A": "flytta",
+      "B": "visa",
+      "C": "sköta",
+      "D": "lämna",
+      "E": "grunda"
+    },
+    "answer": "C",
+    "questionNumber": 4,
+    "year": 1987,
+    "term": "vt",
+    "source": "1987vt-ord.pdf"
+  },
+  {
+    "word": "gage",
+    "options": {
+      "A": "beställning",
+      "B": "avgift",
+      "C": "ersättning",
+      "D": "återbud",
+      "E": "räkning"
+    },
+    "answer": "C",
+    "questionNumber": 5,
+    "year": 1987,
+    "term": "vt",
+    "source": "1987vt-ord.pdf"
+  },
+  {
+    "word": "split",
+    "options": {
+      "A": "mod",
+      "B": "iver",
+      "C": "uppmuntran",
+      "D": "rädsla",
+      "E": "oenighet"
+    },
+    "answer": "E",
+    "questionNumber": 6,
+    "year": 1987,
+    "term": "vt",
+    "source": "1987vt-ord.pdf"
+  },
+  {
+    "word": "insinuera",
+    "options": {
+      "A": "bekänna",
+      "B": "antyda",
+      "C": "invända",
+      "D": "förtala",
+      "E": "uppmana"
+    },
+    "answer": "B",
+    "questionNumber": 7,
+    "year": 1987,
+    "term": "vt",
+    "source": "1987vt-ord.pdf"
+  },
+  {
+    "word": "damast",
+    "options": {
+      "A": "vävnad",
+      "B": "möbel",
+      "C": "åkdon",
+      "D": "verktyg",
+      "E": "bakverk"
+    },
+    "answer": "A",
+    "questionNumber": 8,
+    "year": 1987,
+    "term": "vt",
+    "source": "1987vt-ord.pdf"
+  },
+  {
+    "word": "intention",
+    "options": {
+      "A": "motstånd",
+      "B": "insikt",
+      "C": "samverkan",
+      "D": "avsikt",
+      "E": "frist"
+    },
+    "answer": "D",
+    "questionNumber": 9,
+    "year": 1987,
+    "term": "vt",
+    "source": "1987vt-ord.pdf"
+  },
+  {
+    "word": "renässans",
+    "options": {
+      "A": "återerövring",
+      "B": "återuppståndelse",
+      "C": "återfall",
+      "D": "återanvändning",
+      "E": "återblick"
+    },
+    "answer": "B",
+    "questionNumber": 10,
+    "year": 1987,
+    "term": "vt",
+    "source": "1987vt-ord.pdf"
+  },
+  {
+    "word": "perplex",
+    "options": {
+      "A": "trotsig",
+      "B": "ledsen",
+      "C": "häpen",
+      "D": "envis",
+      "E": "ilsken"
+    },
+    "answer": "C",
+    "questionNumber": 11,
+    "year": 1987,
+    "term": "vt",
+    "source": "1987vt-ord.pdf"
+  },
+  {
+    "word": "tråg",
+    "options": {
+      "A": "rep",
+      "B": "säck",
+      "C": "nät",
+      "D": "spö",
+      "E": "balja"
+    },
+    "answer": "E",
+    "questionNumber": 12,
+    "year": 1987,
+    "term": "vt",
+    "source": "1987vt-ord.pdf"
+  },
+  {
+    "word": "irrelevant",
+    "options": {
+      "A": "oåterkallelig",
+      "B": "ovidkommande",
+      "C": "oersättlig",
+      "D": "oförklarlig",
+      "E": "oregelbunden"
+    },
+    "answer": "B",
+    "questionNumber": 13,
+    "year": 1987,
+    "term": "vt",
+    "source": "1987vt-ord.pdf"
+  },
+  {
+    "word": "ohängd",
+    "options": {
+      "A": "ohyfsad",
+      "B": "orättvis",
+      "C": "ogästvänlig",
+      "D": "opålitlig",
+      "E": "oklok"
+    },
+    "answer": "A",
+    "questionNumber": 14,
+    "year": 1987,
+    "term": "vt",
+    "source": "1987vt-ord.pdf"
+  },
+  {
+    "word": "charlatan",
+    "options": {
+      "A": "bedragare",
+      "B": "syndare",
+      "C": "luffare",
+      "D": "krigare",
+      "E": "härskare"
+    },
+    "answer": "A",
+    "questionNumber": 15,
+    "year": 1987,
+    "term": "vt",
+    "source": "1987vt-ord.pdf"
+  },
+  {
+    "word": "vederkvicka",
+    "options": {
+      "A": "belöna",
+      "B": "godkänna",
+      "C": "beskydda",
+      "D": "uppfriska",
+      "E": "försköna"
+    },
+    "answer": "D",
+    "questionNumber": 16,
+    "year": 1987,
+    "term": "vt",
+    "source": "1987vt-ord.pdf"
+  },
+  {
+    "word": "diafragma",
+    "options": {
+      "A": "mellangärde",
+      "B": "magsäck",
+      "C": "lungsäck",
+      "D": "bröstben",
+      "E": "bukhåla"
+    },
+    "answer": "A",
+    "questionNumber": 17,
+    "year": 1987,
+    "term": "vt",
+    "source": "1987vt-ord.pdf"
+  },
+  {
+    "word": "intrikat",
+    "options": {
+      "A": "inåtvänd",
+      "B": "intetsägande",
+      "C": "invecklad",
+      "D": "inflytelserik",
+      "E": "intensiv"
+    },
+    "answer": "C",
+    "questionNumber": 18,
+    "year": 1987,
+    "term": "vt",
+    "source": "1987vt-ord.pdf"
+  },
+  {
+    "word": "varsna",
+    "options": {
+      "A": "vägra",
+      "B": "ifrågasätta",
+      "C": "uppmärksamma",
+      "D": "misstänka",
+      "E": "avslöja"
+    },
+    "answer": "C",
+    "questionNumber": 19,
+    "year": 1987,
+    "term": "vt",
+    "source": "1987vt-ord.pdf"
+  },
+  {
+    "word": "tillstädes",
+    "options": {
+      "A": "stillastående",
+      "B": "närvarande",
+      "C": "efterföljande",
+      "D": "övergående",
+      "E": "bestående"
+    },
+    "answer": "B",
+    "questionNumber": 20,
+    "year": 1987,
+    "term": "vt",
+    "source": "1987vt-ord.pdf"
+  },
+  {
+    "word": "viskositet",
+    "options": {
+      "A": "snabbhet",
+      "B": "rörlighet",
+      "C": "hållbarhet",
+      "D": "täthet",
+      "E": "seghet"
+    },
+    "answer": "E",
+    "questionNumber": 21,
+    "year": 1987,
+    "term": "vt",
+    "source": "1987vt-ord.pdf"
+  },
+  {
+    "word": "defilera",
+    "options": {
+      "A": "rycka ut",
+      "B": "hoppa av",
+      "C": "stanna upp",
+      "D": "tåga förbi",
+      "E": "gå tillbaka"
+    },
+    "answer": "D",
+    "questionNumber": 22,
+    "year": 1987,
+    "term": "vt",
+    "source": "1987vt-ord.pdf"
+  },
+  {
+    "word": "lapsus",
+    "options": {
+      "A": "hinder",
+      "B": "förbiseende",
+      "C": "tvång",
+      "D": "berömmelse",
+      "E": "anledning"
+    },
+    "answer": "B",
+    "questionNumber": 23,
+    "year": 1987,
+    "term": "vt",
+    "source": "1987vt-ord.pdf"
+  },
+  {
+    "word": "traktera",
+    "options": {
+      "A": "införliva",
+      "B": "berätta",
+      "C": "flytta",
+      "D": "förlöjliga",
+      "E": "bjuda"
+    },
+    "answer": "E",
+    "questionNumber": 24,
+    "year": 1987,
+    "term": "vt",
+    "source": "1987vt-ord.pdf"
+  },
+  {
+    "word": "kontamination",
+    "options": {
+      "A": "sammanfattning",
+      "B": "sammandrabbning",
+      "C": "sammanhållning",
+      "D": "sammansvärjning",
+      "E": "sammanblandning"
+    },
+    "answer": "E",
+    "questionNumber": 25,
+    "year": 1987,
+    "term": "vt",
+    "source": "1987vt-ord.pdf"
+  },
+  {
+    "word": "stringent",
+    "options": {
+      "A": "klar",
+      "B": "enkel",
+      "C": "djup",
+      "D": "ytlig",
+      "E": "svår"
+    },
+    "answer": "A",
+    "questionNumber": 26,
+    "year": 1987,
+    "term": "vt",
+    "source": "1987vt-ord.pdf"
+  },
+  {
+    "word": "initiera",
+    "options": {
+      "A": "motsätta sig",
+      "B": "dra nytta av",
+      "C": "upphöra med",
+      "D": "sätta i gång",
+      "E": "anpassa sig till"
+    },
+    "answer": "D",
+    "questionNumber": 27,
+    "year": 1987,
+    "term": "vt",
+    "source": "1987vt-ord.pdf"
+  },
+  {
+    "word": "exlibris",
+    "options": {
+      "A": "bokägarmärke",
+      "B": "protokollsutdrag",
+      "C": "frihetsberövande",
+      "D": "levnadsbeskrivning",
+      "E": "självständighets-förklaring"
+    },
+    "answer": "A",
+    "questionNumber": 28,
+    "year": 1987,
+    "term": "vt",
+    "source": "1987vt-ord.pdf"
+  },
+  {
+    "word": "säll",
+    "options": {
+      "A": "vemodig",
+      "B": "tråkig",
+      "C": "vänskaplig",
+      "D": "artig",
+      "E": "lycklig"
+    },
+    "answer": "A",
+    "questionNumber": 29,
+    "year": 1987,
+    "term": "vt",
+    "source": "1987vt-ord.pdf"
+  },
+  {
+    "word": "ruptur",
+    "options": {
+      "A": "svängning",
+      "B": "mätning",
+      "C": "bristning",
+      "D": "fyllning",
+      "E": "skiftning"
+    },
+    "answer": "C",
+    "questionNumber": 30,
+    "year": 1987,
+    "term": "vt",
+    "source": "1987vt-ord.pdf"
+  },
+  {
+    "word": "summarisk",
+    "options": {
+      "A": "utebliven",
+      "B": "bortkastad",
+      "C": "kortfattad",
+      "D": "avbruten",
+      "E": "avstängd"
+    },
+    "answer": "C",
+    "questionNumber": 1,
+    "year": 1986,
+    "term": "ht",
+    "source": "1986ht-ord.pdf"
+  },
+  {
+    "word": "legymer",
+    "options": {
+      "A": "grönsaker",
+      "B": "spindlar",
+      "C": "blommor",
+      "D": "fjärilar",
+      "E": "svampar"
+    },
+    "answer": "C",
+    "questionNumber": 2,
+    "year": 1986,
+    "term": "ht",
+    "source": "1986ht-ord.pdf"
+  },
+  {
+    "word": "idog",
+    "options": {
+      "A": "felfri",
+      "B": "fridsam",
+      "C": "osjälvisk",
+      "D": "pålitlig",
+      "E": "flitig"
+    },
+    "answer": "E",
+    "questionNumber": 3,
+    "year": 1986,
+    "term": "ht",
+    "source": "1986ht-ord.pdf"
+  },
+  {
+    "word": "skända",
+    "options": {
+      "A": "avslöja",
+      "B": "hota",
+      "C": "svika",
+      "D": "kränka",
+      "E": "dölja"
+    },
+    "answer": "D",
+    "questionNumber": 4,
+    "year": 1986,
+    "term": "ht",
+    "source": "1986ht-ord.pdf"
+  },
+  {
+    "word": "tonsill",
+    "options": {
+      "A": "sköldkörtel",
+      "B": "halsmandel",
+      "C": "luftstrupe",
+      "D": "struphuvud",
+      "E": "näshåla"
+    },
+    "answer": "B",
+    "questionNumber": 5,
+    "year": 1986,
+    "term": "ht",
+    "source": "1986ht-ord.pdf"
+  },
+  {
+    "word": "kliché",
+    "options": {
+      "A": "falskt rykte",
+      "B": "dåligt skämt",
+      "C": "gott råd",
+      "D": "fin vink",
+      "E": "sliten fras"
+    },
+    "answer": "E",
+    "questionNumber": 6,
+    "year": 1986,
+    "term": "ht",
+    "source": "1986ht-ord.pdf"
+  },
+  {
+    "word": "stagnera",
+    "options": {
+      "A": "falla ned",
+      "B": "stanna upp",
+      "C": "rasa ihop",
+      "D": "stötas bort",
+      "E": "gå tillbaka"
+    },
+    "answer": "B",
+    "questionNumber": 7,
+    "year": 1986,
+    "term": "ht",
+    "source": "1986ht-ord.pdf"
+  },
+  {
+    "word": "tes",
+    "options": {
+      "A": "fråga",
+      "B": "sammanfattning",
+      "C": "lärosats",
+      "D": "gissning",
+      "E": "motsats"
+    },
+    "answer": "C",
+    "questionNumber": 8,
+    "year": 1986,
+    "term": "ht",
+    "source": "1986ht-ord.pdf"
+  },
+  {
+    "word": "voluminös",
+    "options": {
+      "A": "skrytsam",
+      "B": "obeveklig",
+      "C": "tilldragande",
+      "D": "omfångsrik",
+      "E": "förskräcklig"
+    },
+    "answer": "D",
+    "questionNumber": 9,
+    "year": 1986,
+    "term": "ht",
+    "source": "1986ht-ord.pdf"
+  },
+  {
+    "word": "hägna",
+    "options": {
+      "A": "gripa",
+      "B": "skydda",
+      "C": "skada",
+      "D": "glädja",
+      "E": "straffa"
+    },
+    "answer": "B",
+    "questionNumber": 10,
+    "year": 1986,
+    "term": "ht",
+    "source": "1986ht-ord.pdf"
+  },
+  {
+    "word": "durk",
+    "options": {
+      "A": "kommandobrygga",
+      "B": "manskapsrum",
+      "C": "fartygsgolv",
+      "D": "segelduk",
+      "E": "passagerarhytt"
+    },
+    "answer": "C",
+    "questionNumber": 11,
+    "year": 1986,
+    "term": "ht",
+    "source": "1986ht-ord.pdf"
+  },
+  {
+    "word": "försåtlig",
+    "options": {
+      "A": "våldsam",
+      "B": "äcklig",
+      "C": "virrig",
+      "D": "slö",
+      "E": "lömsk"
+    },
+    "answer": "E",
+    "questionNumber": 12,
+    "year": 1986,
+    "term": "ht",
+    "source": "1986ht-ord.pdf"
+  },
+  {
+    "word": "kumulera",
+    "options": {
+      "A": "hjälpa",
+      "B": "stjälpa",
+      "C": "kräva",
+      "D": "hopa",
+      "E": "stoppa"
+    },
+    "answer": "D",
+    "questionNumber": 13,
+    "year": 1986,
+    "term": "ht",
+    "source": "1986ht-ord.pdf"
+  },
+  {
+    "word": "eskapism",
+    "options": {
+      "A": "storhetsvansinne",
+      "B": "självplågeri",
+      "C": "ödestro",
+      "D": "lyckorus",
+      "E": "verklighetsflykt"
+    },
+    "answer": "E",
+    "questionNumber": 14,
+    "year": 1986,
+    "term": "ht",
+    "source": "1986ht-ord.pdf"
+  },
+  {
+    "word": "avhända sig",
+    "options": {
+      "A": "utsätta sig för",
+      "B": "göra sig kvitt",
+      "C": "underkasta sig",
+      "D": "hålla sig undan",
+      "E": "sätta sig emot"
+    },
+    "answer": "B",
+    "questionNumber": 15,
+    "year": 1986,
+    "term": "ht",
+    "source": "1986ht-ord.pdf"
+  },
+  {
+    "word": "förebud",
+    "options": {
+      "A": "varsel",
+      "B": "frist",
+      "C": "vägran",
+      "D": "vädjan",
+      "E": "tillstånd"
+    },
+    "answer": "A",
+    "questionNumber": 16,
+    "year": 1986,
+    "term": "ht",
+    "source": "1986ht-ord.pdf"
+  },
+  {
+    "word": "åtbörd",
+    "options": {
+      "A": "minne",
+      "B": "stöd",
+      "C": "krav",
+      "D": "skryt",
+      "E": "gest"
+    },
+    "answer": "E",
+    "questionNumber": 17,
+    "year": 1986,
+    "term": "ht",
+    "source": "1986ht-ord.pdf"
+  },
+  {
+    "word": "konvertera",
+    "options": {
+      "A": "sammanföra",
+      "B": "förvandla",
+      "C": "tillägga",
+      "D": "samråda",
+      "E": "bibehålla"
+    },
+    "answer": "B",
+    "questionNumber": 18,
+    "year": 1986,
+    "term": "ht",
+    "source": "1986ht-ord.pdf"
+  },
+  {
+    "word": "fördragsam",
+    "options": {
+      "A": "överseende",
+      "B": "varlig",
+      "C": "förtrolig",
+      "D": "ängslig",
+      "E": "livlig"
+    },
+    "answer": "A",
+    "questionNumber": 19,
+    "year": 1986,
+    "term": "ht",
+    "source": "1986ht-ord.pdf"
+  },
+  {
+    "word": "lingvist",
+    "options": {
+      "A": "filmkännare",
+      "B": "vinprovare",
+      "C": "språkforskare",
+      "D": "hattmakare",
+      "E": "tullmästare"
+    },
+    "answer": "C",
+    "questionNumber": 20,
+    "year": 1986,
+    "term": "ht",
+    "source": "1986ht-ord.pdf"
+  },
+  {
+    "word": "sampel",
+    "options": {
+      "A": "antagande",
+      "B": "kännetecken",
+      "C": "bekräftelse",
+      "D": "förslag",
+      "E": "stickprov"
+    },
+    "answer": "E",
+    "questionNumber": 21,
+    "year": 1986,
+    "term": "ht",
+    "source": "1986ht-ord.pdf"
+  },
+  {
+    "word": "dryfta",
+    "options": {
+      "A": "avhandla",
+      "B": "avråda",
+      "C": "avfärda",
+      "D": "avvakta",
+      "E": "avsluta"
+    },
+    "answer": "A",
+    "questionNumber": 22,
+    "year": 1986,
+    "term": "ht",
+    "source": "1986ht-ord.pdf"
+  },
+  {
+    "word": "kuplett",
+    "options": {
+      "A": "visa",
+      "B": "kärra",
+      "C": "väst",
+      "D": "soffa",
+      "E": "häck"
+    },
+    "answer": "A",
+    "questionNumber": 23,
+    "year": 1986,
+    "term": "ht",
+    "source": "1986ht-ord.pdf"
+  },
+  {
+    "word": "oförvägen",
+    "options": {
+      "A": "korrekt",
+      "B": "sund",
+      "C": "djärv",
+      "D": "fri",
+      "E": "girig"
+    },
+    "answer": "C",
+    "questionNumber": 24,
+    "year": 1986,
+    "term": "ht",
+    "source": "1986ht-ord.pdf"
+  },
+  {
+    "word": "korrugerad",
+    "options": {
+      "A": "skuren",
+      "B": "slipad",
+      "C": "färgad",
+      "D": "veckad",
+      "E": "putsad"
+    },
+    "answer": "D",
+    "questionNumber": 25,
+    "year": 1986,
+    "term": "ht",
+    "source": "1986ht-ord.pdf"
+  },
+  {
+    "word": "hugsvalelse",
+    "options": {
+      "A": "ilska",
+      "B": "tröst",
+      "C": "varning",
+      "D": "rättelse",
+      "E": "löfte"
+    },
+    "answer": "B",
+    "questionNumber": 26,
+    "year": 1986,
+    "term": "ht",
+    "source": "1986ht-ord.pdf"
+  },
+  {
+    "word": "metabolism",
+    "options": {
+      "A": "blodcirkulation",
+      "B": "nervretning",
+      "C": "ämnesomsättning",
+      "D": "celldelning",
+      "E": "hormonrubbning"
+    },
+    "answer": "C",
+    "questionNumber": 27,
+    "year": 1986,
+    "term": "ht",
+    "source": "1986ht-ord.pdf"
+  },
+  {
+    "word": "chikanera",
+    "options": {
+      "A": "strunta i",
+      "B": "skämma ut",
+      "C": "dra nytta av",
+      "D": "ta avstånd från",
+      "E": "föra bakom ljuset"
+    },
+    "answer": "B",
+    "questionNumber": 28,
+    "year": 1986,
+    "term": "ht",
+    "source": "1986ht-ord.pdf"
+  },
+  {
+    "word": "städse",
+    "options": {
+      "A": "aldrig",
+      "B": "ofta",
+      "C": "sällan",
+      "D": "alltid",
+      "E": "förut"
+    },
+    "answer": "D",
+    "questionNumber": 29,
+    "year": 1986,
+    "term": "ht",
+    "source": "1986ht-ord.pdf"
+  },
+  {
+    "word": "aber",
+    "options": {
+      "A": "tvång",
+      "B": "motstånd",
+      "C": "hinder",
+      "D": "risk",
+      "E": "straff"
+    },
+    "answer": "C",
+    "questionNumber": 30,
+    "year": 1986,
+    "term": "ht",
+    "source": "1986ht-ord.pdf"
+  },
+  {
+    "word": "banér",
+    "options": {
+      "A": "tal",
+      "B": "fana",
+      "C": "sång",
+      "D": "svärd",
+      "E": "rop"
+    },
+    "answer": "B",
+    "questionNumber": 1,
+    "year": 1986,
+    "term": "vt",
+    "source": "1986vt-ord.pdf"
+  },
+  {
+    "word": "invertera",
+    "options": {
+      "A": "kasta om",
+      "B": "föra samman",
+      "C": "sätta igång",
+      "D": "stänga av",
+      "E": "stöta bort"
+    },
+    "answer": "A",
+    "questionNumber": 2,
+    "year": 1986,
+    "term": "vt",
+    "source": "1986vt-ord.pdf"
+  },
+  {
+    "word": "kategorisk",
+    "options": {
+      "A": "bestämd",
+      "B": "bildlig",
+      "C": "enkel",
+      "D": "mångtydig",
+      "E": "lämplig"
+    },
+    "answer": "A",
+    "questionNumber": 3,
+    "year": 1986,
+    "term": "vt",
+    "source": "1986vt-ord.pdf"
+  },
+  {
+    "word": "inkarnation",
+    "options": {
+      "A": "vidmakthållande",
+      "B": "upprepning",
+      "C": "återförening",
+      "D": "överträdelse",
+      "E": "förkroppsligande"
+    },
+    "answer": "E",
+    "questionNumber": 4,
+    "year": 1986,
+    "term": "vt",
+    "source": "1986vt-ord.pdf"
+  },
+  {
+    "word": "förgäta",
+    "options": {
+      "A": "dyrka",
+      "B": "kränka",
+      "C": "hindra",
+      "D": "glömma",
+      "E": "skona"
+    },
+    "answer": "D",
+    "questionNumber": 5,
+    "year": 1986,
+    "term": "vt",
+    "source": "1986vt-ord.pdf"
+  },
+  {
+    "word": "ekvivalent",
+    "options": {
+      "A": "tydlig",
+      "B": "likvärdig",
+      "C": "motstridig",
+      "D": "ofullständig",
+      "E": "tvetydig"
+    },
+    "answer": "B",
+    "questionNumber": 6,
+    "year": 1986,
+    "term": "vt",
+    "source": "1986vt-ord.pdf"
+  },
+  {
+    "word": "gastrit",
+    "options": {
+      "A": "magkatarr",
+      "B": "kallbrand",
+      "C": "benbrott",
+      "D": "liggsår",
+      "E": "skrumplever"
+    },
+    "answer": "A",
+    "questionNumber": 7,
+    "year": 1986,
+    "term": "vt",
+    "source": "1986vt-ord.pdf"
+  },
+  {
+    "word": "relegera",
+    "options": {
+      "A": "antaga",
+      "B": "ersätta",
+      "C": "utvälja",
+      "D": "avstänga",
+      "E": "återkalla"
+    },
+    "answer": "D",
+    "questionNumber": 8,
+    "year": 1986,
+    "term": "vt",
+    "source": "1986vt-ord.pdf"
+  },
+  {
+    "word": "annex",
+    "options": {
+      "A": "huvudbyggnad",
+      "B": "överbyggnad",
+      "C": "rundbyggnad",
+      "D": "sidobyggnad",
+      "E": "ombyggnad"
+    },
+    "answer": "D",
+    "questionNumber": 9,
+    "year": 1986,
+    "term": "vt",
+    "source": "1986vt-ord.pdf"
+  },
+  {
+    "word": "fjät",
+    "options": {
+      "A": "havsvik",
+      "B": "fotspår",
+      "C": "korvskinn",
+      "D": "himlavalv",
+      "E": "åkdon"
+    },
+    "answer": "B",
+    "questionNumber": 10,
+    "year": 1986,
+    "term": "vt",
+    "source": "1986vt-ord.pdf"
+  },
+  {
+    "word": "extraordinär",
+    "options": {
+      "A": "olämplig",
+      "B": "okänd",
+      "C": "ovanlig",
+      "D": "oersättlig",
+      "E": "oundviklig"
+    },
+    "answer": "C",
+    "questionNumber": 11,
+    "year": 1986,
+    "term": "vt",
+    "source": "1986vt-ord.pdf"
+  },
+  {
+    "word": "tredskas",
+    "options": {
+      "A": "avundas",
+      "B": "förtröttas",
+      "C": "trotsa",
+      "D": "hämnas",
+      "E": "plåga"
+    },
+    "answer": "C",
+    "questionNumber": 12,
+    "year": 1986,
+    "term": "vt",
+    "source": "1986vt-ord.pdf"
+  },
+  {
+    "word": "penibel",
+    "options": {
+      "A": "hopplös",
+      "B": "dyrbar",
+      "C": "pinsam",
+      "D": "förnäm",
+      "E": "sjuklig"
+    },
+    "answer": "C",
+    "questionNumber": 16,
+    "year": 1986,
+    "term": "vt",
+    "source": "1986vt-ord.pdf"
+  },
+  {
+    "word": "ackommodation",
+    "options": {
+      "A": "utsöndring",
+      "B": "hopklumpning",
+      "C": "utmattning",
+      "D": "bortstötning",
+      "E": "anpassning"
+    },
+    "answer": "E",
+    "questionNumber": 17,
+    "year": 1986,
+    "term": "vt",
+    "source": "1986vt-ord.pdf"
+  },
+  {
+    "word": "fryntlig",
+    "options": {
+      "A": "fördomsfri",
+      "B": "enfaldig",
+      "C": "anspråkslös",
+      "D": "gladlynt",
+      "E": "självgod"
+    },
+    "answer": "D",
+    "questionNumber": 18,
+    "year": 1986,
+    "term": "vt",
+    "source": "1986vt-ord.pdf"
+  },
+  {
+    "word": "inkorporera",
+    "options": {
+      "A": "uppskjuta",
+      "B": "inverka",
+      "C": "avspärra",
+      "D": "upprätta",
+      "E": "införliva"
+    },
+    "answer": "E",
+    "questionNumber": 19,
+    "year": 1986,
+    "term": "vt",
+    "source": "1986vt-ord.pdf"
+  },
+  {
+    "word": "tadel",
+    "options": {
+      "A": "varning",
+      "B": "svek",
+      "C": "klander",
+      "D": "bestraffning",
+      "E": "dom"
+    },
+    "answer": "C",
+    "questionNumber": 20,
+    "year": 1986,
+    "term": "vt",
+    "source": "1986vt-ord.pdf"
+  },
+  {
+    "word": "förslå",
+    "options": {
+      "A": "räcka till",
+      "B": "klara av",
+      "C": "bli över",
+      "D": "hjälpa upp",
+      "E": "stå ut"
+    },
+    "answer": "A",
+    "questionNumber": 21,
+    "year": 1986,
+    "term": "vt",
+    "source": "1986vt-ord.pdf"
+  },
+  {
+    "word": "soliditet",
+    "options": {
+      "A": "gemenskap",
+      "B": "pålitlighet",
+      "C": "ensamhet",
+      "D": "ersättning",
+      "E": "självständighet"
+    },
+    "answer": "B",
+    "questionNumber": 22,
+    "year": 1986,
+    "term": "vt",
+    "source": "1986vt-ord.pdf"
+  },
+  {
+    "word": "stoisk",
+    "options": {
+      "A": "underlig",
+      "B": "hänsynslös",
+      "C": "sorgsen",
+      "D": "behärskad",
+      "E": "skrytsam"
+    },
+    "answer": "D",
+    "questionNumber": 23,
+    "year": 1986,
+    "term": "vt",
+    "source": "1986vt-ord.pdf"
+  },
+  {
+    "word": "fobi",
+    "options": {
+      "A": "djup ånger",
+      "B": "stark längtan",
+      "C": "stor glädje",
+      "D": "stort vemod",
+      "E": "stark rädsla"
+    },
+    "answer": "E",
+    "questionNumber": 24,
+    "year": 1986,
+    "term": "vt",
+    "source": "1986vt-ord.pdf"
+  },
+  {
+    "word": "predisponerad",
+    "options": {
+      "A": "uttrycksfull",
+      "B": "tänkbar",
+      "C": "mottaglig",
+      "D": "anspråksfull",
+      "E": "tillfällig"
+    },
+    "answer": "C",
+    "questionNumber": 25,
+    "year": 1986,
+    "term": "vt",
+    "source": "1986vt-ord.pdf"
+  },
+  {
+    "word": "gensaga",
+    "options": {
+      "A": "invändning",
+      "B": "intyg",
+      "C": "samtycke",
+      "D": "förbud",
+      "E": "meddelande"
+    },
+    "answer": "A",
+    "questionNumber": 26,
+    "year": 1986,
+    "term": "vt",
+    "source": "1986vt-ord.pdf"
+  },
+  {
+    "word": "begabba",
+    "options": {
+      "A": "förlöjliga",
+      "B": "vilseleda",
+      "C": "förråda",
+      "D": "motsäga",
+      "E": "misstro"
+    },
+    "answer": "A",
+    "questionNumber": 27,
+    "year": 1986,
+    "term": "vt",
+    "source": "1986vt-ord.pdf"
+  },
+  {
+    "word": "sinekur",
+    "options": {
+      "A": "festlig ceremoni",
+      "B": "lindrig syssla",
+      "C": "vild hänförelse",
+      "D": "dagligt bruk",
+      "E": "tillfällig anordning"
+    },
+    "answer": "B",
+    "questionNumber": 28,
+    "year": 1986,
+    "term": "vt",
+    "source": "1986vt-ord.pdf"
+  },
+  {
+    "word": "potentat",
+    "options": {
+      "A": "vanelögnare",
+      "B": "härskare",
+      "C": "bedragare",
+      "D": "äventyrare",
+      "E": "bråkmakare"
+    },
+    "answer": "B",
+    "questionNumber": 29,
+    "year": 1986,
+    "term": "vt",
+    "source": "1986vt-ord.pdf"
+  },
+  {
+    "word": "befryndad",
+    "options": {
+      "A": "besatt",
+      "B": "begränsad",
+      "C": "begåvad",
+      "D": "bedräglig",
+      "E": "besläktad"
+    },
+    "answer": "E",
+    "questionNumber": 30,
+    "year": 1986,
+    "term": "vt",
+    "source": "1986vt-ord.pdf"
+  },
+  {
+    "word": "mutation",
+    "options": {
+      "A": "överföring",
+      "B": "sammanhållning",
+      "C": "hopklumpning",
+      "D": "bekämpning",
+      "E": "förändring"
+    },
+    "answer": "E",
+    "questionNumber": 1,
+    "year": 1985,
+    "term": "ht",
+    "source": "1985ht-ord.pdf"
+  },
+  {
+    "word": "understundom",
+    "options": {
+      "A": "sällan",
+      "B": "ibland",
+      "C": "samtidigt",
+      "D": "alltid",
+      "E": "ofta"
+    },
+    "answer": "B",
+    "questionNumber": 2,
+    "year": 1985,
+    "term": "ht",
+    "source": "1985ht-ord.pdf"
+  },
+  {
+    "word": "deportera",
+    "options": {
+      "A": "avslöja",
+      "B": "pantsätta",
+      "C": "förvisa",
+      "D": "förvara",
+      "E": "hemlighålla"
+    },
+    "answer": "C",
+    "questionNumber": 3,
+    "year": 1985,
+    "term": "ht",
+    "source": "1985ht-ord.pdf"
+  },
+  {
+    "word": "valhänt",
+    "options": {
+      "A": "respektlös",
+      "B": "erfaren",
+      "C": "illasinnad",
+      "D": "tafatt",
+      "E": "modig"
+    },
+    "answer": "D",
+    "questionNumber": 4,
+    "year": 1985,
+    "term": "ht",
+    "source": "1985ht-ord.pdf"
+  },
+  {
+    "word": "schatull",
+    "options": {
+      "A": "tunnel",
+      "B": "kärra",
+      "C": "koja",
+      "D": "täcke",
+      "E": "skrin"
+    },
+    "answer": "E",
+    "questionNumber": 5,
+    "year": 1985,
+    "term": "ht",
+    "source": "1985ht-ord.pdf"
+  },
+  {
+    "word": "grotesk",
+    "options": {
+      "A": "vidunderlig",
+      "B": "rörande",
+      "C": "fordrande",
+      "D": "missbelåten",
+      "E": "högtidlig"
+    },
+    "answer": "A",
+    "questionNumber": 6,
+    "year": 1985,
+    "term": "ht",
+    "source": "1985ht-ord.pdf"
+  },
+  {
+    "word": "rämna",
+    "options": {
+      "A": "smälta",
+      "B": "sina",
+      "C": "stupa",
+      "D": "spricka",
+      "E": "stelna"
+    },
+    "answer": "D",
+    "questionNumber": 7,
+    "year": 1985,
+    "term": "ht",
+    "source": "1985ht-ord.pdf"
+  },
+  {
+    "word": "utsaga",
+    "options": {
+      "A": "befallning",
+      "B": "antagande",
+      "C": "påstående",
+      "D": "förfrågan",
+      "E": "tillägg"
+    },
+    "answer": "C",
+    "questionNumber": 8,
+    "year": 1985,
+    "term": "ht",
+    "source": "1985ht-ord.pdf"
+  },
+  {
+    "word": "metronom",
+    "options": {
+      "A": "taktmätare",
+      "B": "höjdmätare",
+      "C": "bullermätare",
+      "D": "ljudmätare",
+      "E": "kraftmätare"
+    },
+    "answer": "A",
+    "questionNumber": 9,
+    "year": 1985,
+    "term": "ht",
+    "source": "1985ht-ord.pdf"
+  },
+  {
+    "word": "ansa",
+    "options": {
+      "A": "dölja",
+      "B": "sköta",
+      "C": "offra",
+      "D": "tvinga",
+      "E": "hjälpa"
+    },
+    "answer": "B",
+    "questionNumber": 10,
+    "year": 1985,
+    "term": "ht",
+    "source": "1985ht-ord.pdf"
+  },
+  {
+    "word": "saktmodig",
+    "options": {
+      "A": "stel",
+      "B": "beskedlig",
+      "C": "ängslig",
+      "D": "fånig",
+      "E": "noggrann"
+    },
+    "answer": "B",
+    "questionNumber": 11,
+    "year": 1985,
+    "term": "ht",
+    "source": "1985ht-ord.pdf"
+  },
+  {
+    "word": "iris",
+    "options": {
+      "A": "synnerven",
+      "B": "hornhinnan",
+      "C": "näthinnan",
+      "D": "regnbågshinnan",
+      "E": "linsen"
+    },
+    "answer": "D",
+    "questionNumber": 12,
+    "year": 1985,
+    "term": "ht",
+    "source": "1985ht-ord.pdf"
+  },
+  {
+    "word": "besudla",
+    "options": {
+      "A": "lägga beslag på",
+      "B": "föra bakom ljuset",
+      "C": "smutsa ner",
+      "D": "göra obrukbar",
+      "E": "slarva bort"
+    },
+    "answer": "C",
+    "questionNumber": 13,
+    "year": 1985,
+    "term": "ht",
+    "source": "1985ht-ord.pdf"
+  },
+  {
+    "word": "vandel",
+    "options": {
+      "A": "levnadssätt",
+      "B": "personlighet",
+      "C": "tidsfördriv",
+      "D": "livsåskådning",
+      "E": "dödsångest"
+    },
+    "answer": "A",
+    "questionNumber": 14,
+    "year": 1985,
+    "term": "ht",
+    "source": "1985ht-ord.pdf"
+  },
+  {
+    "word": "nitisk",
+    "options": {
+      "A": "obalanserad",
+      "B": "sparsam",
+      "C": "högdragen",
+      "D": "plikttrogen",
+      "E": "lättsinnig"
+    },
+    "answer": "D",
+    "questionNumber": 15,
+    "year": 1985,
+    "term": "ht",
+    "source": "1985ht-ord.pdf"
+  },
+  {
+    "word": "plissera",
+    "options": {
+      "A": "klippa",
+      "B": "kanta",
+      "C": "måtta",
+      "D": "stärka",
+      "E": "vecka"
+    },
+    "answer": "E",
+    "questionNumber": 16,
+    "year": 1985,
+    "term": "ht",
+    "source": "1985ht-ord.pdf"
+  },
+  {
+    "word": "baneman",
+    "options": {
+      "A": "fanbärare",
+      "B": "dråpare",
+      "C": "välgörare",
+      "D": "tjänare",
+      "E": "tiggare"
+    },
+    "answer": "B",
+    "questionNumber": 17,
+    "year": 1985,
+    "term": "ht",
+    "source": "1985ht-ord.pdf"
+  },
+  {
+    "word": "kräkla",
+    "options": {
+      "A": "biskopsstav",
+      "B": "hattnål",
+      "C": "griptång",
+      "D": "vattenödla",
+      "E": "sårskorpa"
+    },
+    "answer": "A",
+    "questionNumber": 18,
+    "year": 1985,
+    "term": "ht",
+    "source": "1985ht-ord.pdf"
+  },
+  {
+    "word": "yster",
+    "options": {
+      "A": "snäll",
+      "B": "virrig",
+      "C": "stolt",
+      "D": "vek",
+      "E": "livlig"
+    },
+    "answer": "E",
+    "questionNumber": 19,
+    "year": 1985,
+    "term": "ht",
+    "source": "1985ht-ord.pdf"
+  },
+  {
+    "word": "appellera",
+    "options": {
+      "A": "tvinga",
+      "B": "motverka",
+      "C": "nämna",
+      "D": "urskulda",
+      "E": "vädja"
+    },
+    "answer": "E",
+    "questionNumber": 20,
+    "year": 1985,
+    "term": "ht",
+    "source": "1985ht-ord.pdf"
+  },
+  {
+    "word": "batist",
+    "options": {
+      "A": "tygsort",
+      "B": "bergart",
+      "C": "kryddväxt",
+      "D": "verktyg",
+      "E": "fabeldjur"
+    },
+    "answer": "A",
+    "questionNumber": 21,
+    "year": 1985,
+    "term": "ht",
+    "source": "1985ht-ord.pdf"
+  },
+  {
+    "word": "amorf",
+    "options": {
+      "A": "bestämd",
+      "B": "fullständig",
+      "C": "hemlighetsfull",
+      "D": "obetydlig",
+      "E": "formlös"
+    },
+    "answer": "E",
+    "questionNumber": 22,
+    "year": 1985,
+    "term": "ht",
+    "source": "1985ht-ord.pdf"
+  },
+  {
+    "word": "tillmäle",
+    "options": {
+      "A": "upplysning",
+      "B": "samtycke",
+      "C": "fullmakt",
+      "D": "skällsord",
+      "E": "upprepning"
+    },
+    "answer": "D",
+    "questionNumber": 23,
+    "year": 1985,
+    "term": "ht",
+    "source": "1985ht-ord.pdf"
+  },
+  {
+    "word": "lisa",
+    "options": {
+      "A": "vrede",
+      "B": "tröst",
+      "C": "skam",
+      "D": "sorg",
+      "E": "ånger"
+    },
+    "answer": "B",
+    "questionNumber": 24,
+    "year": 1985,
+    "term": "ht",
+    "source": "1985ht-ord.pdf"
+  },
+  {
+    "word": "vital",
+    "options": {
+      "A": "skicklig",
+      "B": "munter",
+      "C": "spänstig",
+      "D": "klok",
+      "E": "modig"
+    },
+    "answer": "C",
+    "questionNumber": 25,
+    "year": 1985,
+    "term": "ht",
+    "source": "1985ht-ord.pdf"
+  },
+  {
+    "word": "karburator",
+    "options": {
+      "A": "kylare",
+      "B": "startmotor",
+      "C": "motorvärmare",
+      "D": "förgasare",
+      "E": "strömfördelare"
+    },
+    "answer": "D",
+    "questionNumber": 26,
+    "year": 1985,
+    "term": "ht",
+    "source": "1985ht-ord.pdf"
+  },
+  {
+    "word": "schackra",
+    "options": {
+      "A": "utpressa",
+      "B": "förskingra",
+      "C": "muta",
+      "D": "köpslå",
+      "E": "hota"
+    },
+    "answer": "D",
+    "questionNumber": 27,
+    "year": 1985,
+    "term": "ht",
+    "source": "1985ht-ord.pdf"
+  },
+  {
+    "word": "ränker",
+    "options": {
+      "A": "dåliga vanor",
+      "B": "falska löften",
+      "C": "listiga planer",
+      "D": "hårda ord",
+      "E": "slitna fraser"
+    },
+    "answer": "C",
+    "questionNumber": 28,
+    "year": 1985,
+    "term": "ht",
+    "source": "1985ht-ord.pdf"
+  },
+  {
+    "word": "succession",
+    "options": {
+      "A": "hjälp",
+      "B": "lycka",
+      "C": "följd",
+      "D": "början",
+      "E": "slut"
+    },
+    "answer": "C",
+    "questionNumber": 29,
+    "year": 1985,
+    "term": "ht",
+    "source": "1985ht-ord.pdf"
+  },
+  {
+    "word": "anamma",
+    "options": {
+      "A": "döma ut",
+      "B": "spjärna emot",
+      "C": "göra intryck på",
+      "D": "ansvara för",
+      "E": "tillägna sig"
+    },
+    "answer": "E",
+    "questionNumber": 30,
+    "year": 1985,
+    "term": "ht",
+    "source": "1985ht-ord.pdf"
+  },
+  {
+    "word": "kvalster",
+    "options": {
+      "A": "skruvmejsel",
+      "B": "duntäcke",
+      "C": "överrock",
+      "D": "spindeldjur",
+      "E": "kristallskål"
+    },
+    "answer": "D",
+    "questionNumber": 1,
+    "year": 1985,
+    "term": "vt",
+    "source": "1985vt-ord_facit.pdf"
+  },
+  {
+    "word": "fjättra",
+    "options": {
+      "A": "söndra",
+      "B": "skydda",
+      "C": "lämna",
+      "D": "binda",
+      "E": "jaga"
+    },
+    "answer": "D",
+    "questionNumber": 2,
+    "year": 1985,
+    "term": "vt",
+    "source": "1985vt-ord_facit.pdf"
+  },
+  {
+    "word": "fusion",
+    "options": {
+      "A": "sammanslagning",
+      "B": "tillstånd",
+      "C": "överlåtelse",
+      "D": "tillbakagång",
+      "E": "utsändning"
+    },
+    "answer": "A",
+    "questionNumber": 3,
+    "year": 1985,
+    "term": "vt",
+    "source": "1985vt-ord_facit.pdf"
+  },
+  {
+    "word": "karg",
+    "options": {
+      "A": "ojämn",
+      "B": "stenig",
+      "C": "platt",
+      "D": "övergiven",
+      "E": "ofruktbar"
+    },
+    "answer": "E",
+    "questionNumber": 4,
+    "year": 1985,
+    "term": "vt",
+    "source": "1985vt-ord_facit.pdf"
+  },
+  {
+    "word": "preludium",
+    "options": {
+      "A": "hyllningssång",
+      "B": "förspel",
+      "C": "aftonsång",
+      "D": "inropning",
+      "E": "mellanakt"
+    },
+    "answer": "B",
+    "questionNumber": 5,
+    "year": 1985,
+    "term": "vt",
+    "source": "1985vt-ord_facit.pdf"
+  },
+  {
+    "word": "florera",
+    "options": {
+      "A": "blomstra",
+      "B": "fäkta",
+      "C": "påverka",
+      "D": "viska",
+      "E": "skapa"
+    },
+    "answer": "A",
+    "questionNumber": 6,
+    "year": 1985,
+    "term": "vt",
+    "source": "1985vt-ord_facit.pdf"
+  },
+  {
+    "word": "spörsmål",
+    "options": {
+      "A": "förutsägelse",
+      "B": "fråga",
+      "C": "förutsättning",
+      "D": "fordran",
+      "E": "faktum"
+    },
+    "answer": "B",
+    "questionNumber": 7,
+    "year": 1985,
+    "term": "vt",
+    "source": "1985vt-ord_facit.pdf"
+  },
+  {
+    "word": "destruktiv",
+    "options": {
+      "A": "hotande",
+      "B": "avvisande",
+      "C": "påträngande",
+      "D": "anklagande",
+      "E": "förstörande"
+    },
+    "answer": "E",
+    "questionNumber": 8,
+    "year": 1985,
+    "term": "vt",
+    "source": "1985vt-ord_facit.pdf"
+  },
+  {
+    "word": "kontenta",
+    "options": {
+      "A": "sammanblandning",
+      "B": "sammansättning",
+      "C": "sammansvärjning",
+      "D": "sammanfattning",
+      "E": "sammanhållning"
+    },
+    "answer": "D",
+    "questionNumber": 9,
+    "year": 1985,
+    "term": "vt",
+    "source": "1985vt-ord_facit.pdf"
+  },
+  {
+    "word": "koreografi",
+    "options": {
+      "A": "bildvisning",
+      "B": "kartritning",
+      "C": "danskomposition",
+      "D": "brevväxling",
+      "E": "ljudåtergivning"
+    },
+    "answer": "C",
+    "questionNumber": 10,
+    "year": 1985,
+    "term": "vt",
+    "source": "1985vt-ord_facit.pdf"
+  },
+  {
+    "word": "exceptionell",
+    "options": {
+      "A": "föredömlig",
+      "B": "sällsynt",
+      "C": "underlig",
+      "D": "självklar",
+      "E": "måttlös"
+    },
+    "answer": "B",
+    "questionNumber": 11,
+    "year": 1985,
+    "term": "vt",
+    "source": "1985vt-ord_facit.pdf"
+  },
+  {
+    "word": "floskler",
+    "options": {
+      "A": "yviga gester",
+      "B": "falska rykten",
+      "C": "tomma ord",
+      "D": "förtäckt hot",
+      "E": "skarp kritik"
+    },
+    "answer": "C",
+    "questionNumber": 12,
+    "year": 1985,
+    "term": "vt",
+    "source": "1985vt-ord_facit.pdf"
+  },
+  {
+    "word": "legitim",
+    "options": {
+      "A": "berömd",
+      "B": "avskild",
+      "C": "okänd",
+      "D": "bestående",
+      "E": "laglig"
+    },
+    "answer": "E",
+    "questionNumber": 13,
+    "year": 1985,
+    "term": "vt",
+    "source": "1985vt-ord_facit.pdf"
+  },
+  {
+    "word": "ackordera",
+    "options": {
+      "A": "köpslå",
+      "B": "införliva",
+      "C": "anförtro",
+      "D": "godta",
+      "E": "påskynda"
+    },
+    "answer": "A",
+    "questionNumber": 14,
+    "year": 1985,
+    "term": "vt",
+    "source": "1985vt-ord_facit.pdf"
+  },
+  {
+    "word": "nesa",
+    "options": {
+      "A": "ilska",
+      "B": "skam",
+      "C": "fruktan",
+      "D": "sorg",
+      "E": "smärta"
+    },
+    "answer": "B",
+    "questionNumber": 15,
+    "year": 1985,
+    "term": "vt",
+    "source": "1985vt-ord_facit.pdf"
+  },
+  {
+    "word": "framgent",
+    "options": {
+      "A": "snarast",
+      "B": "likadant",
+      "C": "samtidigt",
+      "D": "tvärtemot",
+      "E": "hädanefter"
+    },
+    "answer": "E",
+    "questionNumber": 16,
+    "year": 1985,
+    "term": "vt",
+    "source": "1985vt-ord_facit.pdf"
+  },
+  {
+    "word": "skans",
+    "options": {
+      "A": "lastrum",
+      "B": "fartygsdäck",
+      "C": "kommandobrygga",
+      "D": "manskapsrum",
+      "E": "landgång"
+    },
+    "answer": "D",
+    "questionNumber": 17,
+    "year": 1985,
+    "term": "vt",
+    "source": "1985vt-ord_facit.pdf"
+  },
+  {
+    "word": "negligera",
+    "options": {
+      "A": "ifrågasätta",
+      "B": "förvränga",
+      "C": "överdriva",
+      "D": "framhäva",
+      "E": "försumma"
+    },
+    "answer": "E",
+    "questionNumber": 18,
+    "year": 1985,
+    "term": "vt",
+    "source": "1985vt-ord_facit.pdf"
+  },
+  {
+    "word": "pläga",
+    "options": {
+      "A": "ångra sig",
+      "B": "ha för vana",
+      "C": "tala för",
+      "D": "klaga på",
+      "E": "vända sig emot"
+    },
+    "answer": "B",
+    "questionNumber": 19,
+    "year": 1985,
+    "term": "vt",
+    "source": "1985vt-ord_facit.pdf"
+  },
+  {
+    "word": "subtil",
+    "options": {
+      "A": "hårfin",
+      "B": "storslagen",
+      "C": "ensidig",
+      "D": "lättfattlig",
+      "E": "högtidlig"
+    },
+    "answer": "A",
+    "questionNumber": 20,
+    "year": 1985,
+    "term": "vt",
+    "source": "1985vt-ord_facit.pdf"
+  },
+  {
+    "word": "lider",
+    "options": {
+      "A": "fiskeredskap",
+      "B": "träbåt",
+      "C": "uthus",
+      "D": "dragdjur",
+      "E": "åkdon"
+    },
+    "answer": "A",
+    "questionNumber": 21,
+    "year": 1985,
+    "term": "vt",
+    "source": "1985vt-ord_facit.pdf"
+  },
+  {
+    "word": "pietetsfull",
+    "options": {
+      "A": "ångerfull",
+      "B": "förhoppningsfull",
+      "C": "vördnadsfull",
+      "D": "förväntansfull",
+      "E": "oskuldsfull"
+    },
+    "answer": "C",
+    "questionNumber": 22,
+    "year": 1985,
+    "term": "vt",
+    "source": "1985vt-ord_facit.pdf"
+  },
+  {
+    "word": "parafras",
+    "options": {
+      "A": "omskrivning",
+      "B": "jämförelse",
+      "C": "inledning",
+      "D": "upprepning",
+      "E": "anteckning"
+    },
+    "answer": "A",
+    "questionNumber": 23,
+    "year": 1985,
+    "term": "vt",
+    "source": "1985vt-ord_facit.pdf"
+  },
+  {
+    "word": "divergera",
+    "options": {
+      "A": "avsluta",
+      "B": "avvara",
+      "C": "avtala",
+      "D": "avvika",
+      "E": "avskaffa"
+    },
+    "answer": "D",
+    "questionNumber": 24,
+    "year": 1985,
+    "term": "vt",
+    "source": "1985vt-ord_facit.pdf"
+  },
+  {
+    "word": "kavitet",
+    "options": {
+      "A": "utbuktning",
+      "B": "täthet",
+      "C": "förhårdning",
+      "D": "hålighet",
+      "E": "grovlek"
+    },
+    "answer": "D",
+    "questionNumber": 25,
+    "year": 1985,
+    "term": "vt",
+    "source": "1985vt-ord_facit.pdf"
+  },
+  {
+    "word": "ponera",
+    "options": {
+      "A": "avvärja",
+      "B": "antaga",
+      "C": "uppmana",
+      "D": "erkänna",
+      "E": "försvara"
+    },
+    "answer": "B",
+    "questionNumber": 26,
+    "year": 1985,
+    "term": "vt",
+    "source": "1985vt-ord_facit.pdf"
+  },
+  {
+    "word": "korona",
+    "options": {
+      "A": "solur",
+      "B": "herdestav",
+      "C": "strålkrans",
+      "D": "musikstycke",
+      "E": "stjärnbild"
+    },
+    "answer": "C",
+    "questionNumber": 27,
+    "year": 1985,
+    "term": "vt",
+    "source": "1985vt-ord_facit.pdf"
+  },
+  {
+    "word": "ådagalägga",
+    "options": {
+      "A": "visa",
+      "B": "utmåla",
+      "C": "påstå",
+      "D": "beordra",
+      "E": "påbörja"
+    },
+    "answer": "A",
+    "questionNumber": 28,
+    "year": 1985,
+    "term": "vt",
+    "source": "1985vt-ord_facit.pdf"
+  },
+  {
+    "word": "närig",
+    "options": {
+      "A": "krånglig",
+      "B": "tanklös",
+      "C": "fräck",
+      "D": "elak",
+      "E": "snål"
+    },
+    "answer": "E",
+    "questionNumber": 29,
+    "year": 1985,
+    "term": "vt",
+    "source": "1985vt-ord_facit.pdf"
+  },
+  {
+    "word": "annaler",
+    "options": {
+      "A": "diktsamlingar",
+      "B": "lagtexter",
+      "C": "årsböcker",
+      "D": "nyutgåvor",
+      "E": "bibelöversättningar"
+    },
+    "answer": "C",
+    "questionNumber": 30,
+    "year": 1985,
+    "term": "vt",
+    "source": "1985vt-ord_facit.pdf"
+  },
+  {
+    "word": "tumult",
+    "options": {
+      "A": "intrång",
+      "B": "olycka",
+      "C": "klagomål",
+      "D": "sammanbrott",
+      "E": "ovásen"
+    },
+    "answer": "E",
+    "questionNumber": 1,
+    "year": 1984,
+    "term": "vt",
+    "source": "1984vt-ord.pdf"
+  },
+  {
+    "word": "statuera",
+    "options": {
+      "A": "fastställa",
+      "B": "förhindra",
+      "C": "hota",
+      "D": "stanna",
+      "E": "upprusta"
+    },
+    "answer": "A",
+    "questionNumber": 2,
+    "year": 1984,
+    "term": "vt",
+    "source": "1984vt-ord.pdf"
+  },
+  {
+    "word": "trivial",
+    "options": {
+      "A": "ålderdomlig",
+      "B": "alldaglig",
+      "C": "omständlig",
+      "D": "utsliten",
+      "E": "ovanlig"
+    },
+    "answer": "B",
+    "questionNumber": 3,
+    "year": 1984,
+    "term": "vt",
+    "source": "1984vt-ord.pdf"
+  },
+  {
+    "word": "premiera",
+    "options": {
+      "A": "mottaga",
+      "B": "påbörja",
+      "C": "belöna",
+      "D": "föredra",
+      "E": "förbättra"
+    },
+    "answer": "C",
+    "questionNumber": 4,
+    "year": 1984,
+    "term": "vt",
+    "source": "1984vt-ord.pdf"
+  },
+  {
+    "word": "virtuos",
+    "options": {
+      "A": "beundrare",
+      "B": "skojare",
+      "C": "nybörjare",
+      "D": "lärare",
+      "E": "mästare"
+    },
+    "answer": "E",
+    "questionNumber": 5,
+    "year": 1984,
+    "term": "vt",
+    "source": "1984vt-ord.pdf"
+  },
+  {
+    "word": "selektiv",
+    "options": {
+      "A": "utväljande",
+      "B": "avskräckande",
+      "C": "upplysande",
+      "D": "förebyggande",
+      "E": "avtagande"
+    },
+    "answer": "A",
+    "questionNumber": 6,
+    "year": 1984,
+    "term": "vt",
+    "source": "1984vt-ord.pdf"
+  },
+  {
+    "word": "disträ",
+    "options": {
+      "A": "uttråkad",
+      "B": "argsint",
+      "C": "förtvivlad",
+      "D": "tankspridd",
+      "E": "retfull"
+    },
+    "answer": "D",
+    "questionNumber": 7,
+    "year": 1984,
+    "term": "vt",
+    "source": "1984vt-ord.pdf"
+  },
+  {
+    "word": "offert",
+    "options": {
+      "A": "anbud",
+      "B": "skuldbrev",
+      "C": "beställning",
+      "D": "avtal",
+      "E": "bekräftelse"
+    },
+    "answer": "A",
+    "questionNumber": 8,
+    "year": 1984,
+    "term": "vt",
+    "source": "1984vt-ord.pdf"
+  },
+  {
+    "word": "avisera",
+    "options": {
+      "A": "efterlysa",
+      "B": "intyga",
+      "C": "förenkla",
+      "D": "meddela",
+      "E": "föreslå"
+    },
+    "answer": "D",
+    "questionNumber": 9,
+    "year": 1984,
+    "term": "vt",
+    "source": "1984vt-ord.pdf"
+  },
+  {
+    "word": "kandelaber",
+    "options": {
+      "A": "kyrkorum",
+      "B": "vilstol",
+      "C": "soppskål",
+      "D": "festtåg",
+      "E": "ljusstake"
+    },
+    "answer": "E",
+    "questionNumber": 10,
+    "year": 1984,
+    "term": "vt",
+    "source": "1984vt-ord.pdf"
+  },
+  {
+    "word": "kontroversiell",
+    "options": {
+      "A": "felaktig",
+      "B": "omstridd",
+      "C": "onaturlig",
+      "D": "osaklig",
+      "E": "motsatt"
+    },
+    "answer": "B",
+    "questionNumber": 11,
+    "year": 1984,
+    "term": "vt",
+    "source": "1984vt-ord.pdf"
+  },
+  {
+    "word": "uvertyr",
+    "options": {
+      "A": "klädskåp",
+      "B": "bakverk",
+      "C": "sammanfattning",
+      "D": "inledning",
+      "E": "uttåg"
+    },
+    "answer": "D",
+    "questionNumber": 12,
+    "year": 1984,
+    "term": "vt",
+    "source": "1984vt-ord.pdf"
+  },
+  {
+    "word": "inalles",
+    "options": {
+      "A": "precis",
+      "B": "sammanlagt",
+      "C": "ungefär",
+      "D": "utöver",
+      "E": "delvis"
+    },
+    "answer": "B",
+    "questionNumber": 13,
+    "year": 1984,
+    "term": "vt",
+    "source": "1984vt-ord.pdf"
+  },
+  {
+    "word": "respit",
+    "options": {
+      "A": "uppskov",
+      "B": "tillflykt",
+      "C": "avvikelse",
+      "D": "försening",
+      "E": "tillbakagång"
+    },
+    "answer": "A",
+    "questionNumber": 14,
+    "year": 1984,
+    "term": "vt",
+    "source": "1984vt-ord.pdf"
+  },
+  {
+    "word": "deponera",
+    "options": {
+      "A": "riva ned",
+      "B": "lämna i förvar",
+      "C": "sätta sig emot",
+      "D": "förfoga över",
+      "E": "lägga beslag på"
+    },
+    "answer": "B",
+    "questionNumber": 15,
+    "year": 1984,
+    "term": "vt",
+    "source": "1984vt-ord.pdf"
+  },
+  {
+    "word": "konvalescens",
+    "options": {
+      "A": "medvetslöshet",
+      "B": "insjuknande",
+      "C": "sjukdomsbild",
+      "D": "behandling",
+      "E": "tillfrisknande"
+    },
+    "answer": "E",
+    "questionNumber": 16,
+    "year": 1984,
+    "term": "vt",
+    "source": "1984vt-ord.pdf"
+  },
+  {
+    "word": "njugg",
+    "options": {
+      "A": "nyfiken",
+      "B": "inbunden",
+      "C": "känslokall",
+      "D": "otålig",
+      "E": "snål"
+    },
+    "answer": "E",
+    "questionNumber": 17,
+    "year": 1984,
+    "term": "vt",
+    "source": "1984vt-ord.pdf"
+  },
+  {
+    "word": "paradox",
+    "options": {
+      "A": "jämförelse",
+      "B": "omskrivning",
+      "C": "liknelse",
+      "D": "motsägelse",
+      "E": "förvrängning"
+    },
+    "answer": "D",
+    "questionNumber": 18,
+    "year": 1984,
+    "term": "vt",
+    "source": "1984vt-ord.pdf"
+  },
+  {
+    "word": "tranchera",
+    "options": {
+      "A": "flytta isär",
+      "B": "lyfta fram",
+      "C": "skära upp",
+      "D": "bryta sönder",
+      "E": "slå in"
+    },
+    "answer": "C",
+    "questionNumber": 19,
+    "year": 1984,
+    "term": "vt",
+    "source": "1984vt-ord.pdf"
+  },
+  {
+    "word": "föranstalta",
+    "options": {
+      "A": "bearbeta",
+      "B": "uppskjuta",
+      "C": "anordna",
+      "D": "överlämna",
+      "E": "bevisa"
+    },
+    "answer": "C",
+    "questionNumber": 20,
+    "year": 1984,
+    "term": "vt",
+    "source": "1984vt-ord.pdf"
+  },
+  {
+    "word": "körsnär",
+    "options": {
+      "A": "bildhuggare",
+      "B": "pälshandlare",
+      "C": "perukmakare",
+      "D": "sadelmakare",
+      "E": "konstkännare"
+    },
+    "answer": "B",
+    "questionNumber": 21,
+    "year": 1984,
+    "term": "vt",
+    "source": "1984vt-ord.pdf"
+  },
+  {
+    "word": "umbäranden",
+    "options": {
+      "A": "hjälp",
+      "B": "nöd",
+      "C": "krav",
+      "D": "motstånd",
+      "E": "göromål"
+    },
+    "answer": "B",
+    "questionNumber": 22,
+    "year": 1984,
+    "term": "vt",
+    "source": "1984vt-ord.pdf"
+  },
+  {
+    "word": "istadig",
+    "options": {
+      "A": "långsam",
+      "B": "tråkig",
+      "C": "envis",
+      "D": "pålitlig",
+      "E": "nyckfull"
+    },
+    "answer": "C",
+    "questionNumber": 23,
+    "year": 1984,
+    "term": "vt",
+    "source": "1984vt-ord.pdf"
+  },
+  {
+    "word": "demagog",
+    "options": {
+      "A": "folkuppviglare",
+      "B": "envåldshärskare",
+      "C": "självplågare",
+      "D": "landsförrädare",
+      "E": "bluffmakare"
+    },
+    "answer": "A",
+    "questionNumber": 24,
+    "year": 1984,
+    "term": "vt",
+    "source": "1984vt-ord.pdf"
+  },
+  {
+    "word": "assimilera",
+    "options": {
+      "A": "sammanställa",
+      "B": "använda",
+      "C": "eftersträva",
+      "D": "införliva",
+      "E": "understödja"
+    },
+    "answer": "D",
+    "questionNumber": 25,
+    "year": 1984,
+    "term": "vt",
+    "source": "1984vt-ord.pdf"
+  },
+  {
+    "word": "ruelse",
+    "options": {
+      "A": "avsky",
+      "B": "ånger",
+      "C": "leda",
+      "D": "vrede",
+      "E": "lättja"
+    },
+    "answer": "B",
+    "questionNumber": 26,
+    "year": 1984,
+    "term": "vt",
+    "source": "1984vt-ord.pdf"
+  },
+  {
+    "word": "kriterium",
+    "options": {
+      "A": "lärosats",
+      "B": "antagande",
+      "C": "kännetecken",
+      "D": "tillämpning",
+      "E": "resultat"
+    },
+    "answer": "C",
+    "questionNumber": 27,
+    "year": 1984,
+    "term": "vt",
+    "source": "1984vt-ord.pdf"
+  },
+  {
+    "word": "misskund",
+    "options": {
+      "A": "hat",
+      "B": "hövlighet",
+      "C": "fruktan",
+      "D": "likgiltighet",
+      "E": "förbarmande"
+    },
+    "answer": "E",
+    "questionNumber": 28,
+    "year": 1984,
+    "term": "vt",
+    "source": "1984vt-ord.pdf"
+  },
+  {
+    "word": "rudimentär",
+    "options": {
+      "A": "allsidig",
+      "B": "fallfärdig",
+      "C": "outvecklad",
+      "D": "uttrycksfull",
+      "E": "fullständig"
+    },
+    "answer": "C",
+    "questionNumber": 29,
+    "year": 1984,
+    "term": "vt",
+    "source": "1984vt-ord.pdf"
+  },
+  {
+    "word": "yvas",
+    "options": {
+      "A": "ställa krav",
+      "B": "brusa upp",
+      "C": "missta sig",
+      "D": "vara stolt",
+      "E": "anpassa sig"
+    },
+    "answer": "D",
+    "questionNumber": 30,
+    "year": 1984,
+    "term": "vt",
+    "source": "1984vt-ord.pdf"
+  },
+  {
+    "word": "bronker",
+    "options": {
+      "A": "luftrör",
+      "B": "blodkärl",
+      "C": "nervbanor",
+      "D": "hjärnceller",
+      "E": "muskelvävnader"
+    },
+    "answer": "A",
+    "questionNumber": 1,
+    "year": 1983,
+    "term": "ht",
+    "source": "1983ht-ord.pdf"
+  },
+  {
+    "word": "pretentioner",
+    "options": {
+      "A": "överdrifter",
+      "B": "försök",
+      "C": "anspråk",
+      "D": "motsättningar",
+      "E": "förmåner"
+    },
+    "answer": "C",
+    "questionNumber": 2,
+    "year": 1983,
+    "term": "ht",
+    "source": "1983ht-ord.pdf"
+  },
+  {
+    "word": "eternell",
+    "options": {
+      "A": "plågoande",
+      "B": "insektssamling",
+      "C": "kyrkobyggnad",
+      "D": "evighetsblomma",
+      "E": "tygsort"
+    },
+    "answer": "D",
+    "questionNumber": 3,
+    "year": 1983,
+    "term": "ht",
+    "source": "1983ht-ord.pdf"
+  },
+  {
+    "word": "trägen",
+    "options": {
+      "A": "besvärlig",
+      "B": "flitig",
+      "C": "retlig",
+      "D": "långrandig",
+      "E": "pålitlig"
+    },
+    "answer": "B",
+    "questionNumber": 4,
+    "year": 1983,
+    "term": "ht",
+    "source": "1983ht-ord.pdf"
+  },
+  {
+    "word": "dementera",
+    "options": {
+      "A": "avslöja",
+      "B": "lova",
+      "C": "fördärva",
+      "D": "granska",
+      "E": "förneka"
+    },
+    "answer": "E",
+    "questionNumber": 5,
+    "year": 1983,
+    "term": "ht",
+    "source": "1983ht-ord.pdf"
+  },
+  {
+    "word": "emotionell",
+    "options": {
+      "A": "påhittig",
+      "B": "regelbunden",
+      "C": "tillgjord",
+      "D": "bestämd",
+      "E": "känslomässig"
+    },
+    "answer": "E",
+    "questionNumber": 6,
+    "year": 1983,
+    "term": "ht",
+    "source": "1983ht-ord.pdf"
+  },
+  {
+    "word": "streber",
+    "options": {
+      "A": "förtryckare",
+      "B": "kvacksalvare",
+      "C": "uppåtsträvare",
+      "D": "uppfinnare",
+      "E": "ersättare"
+    },
+    "answer": "C",
+    "questionNumber": 7,
+    "year": 1983,
+    "term": "ht",
+    "source": "1983ht-ord.pdf"
+  },
+  {
+    "word": "bordlägga",
+    "options": {
+      "A": "sammankalla",
+      "B": "framlägga",
+      "C": "besluta",
+      "D": "avslå",
+      "E": "uppskjuta"
+    },
+    "answer": "E",
+    "questionNumber": 8,
+    "year": 1983,
+    "term": "ht",
+    "source": "1983ht-ord.pdf"
+  },
+  {
+    "word": "eklatera",
+    "options": {
+      "A": "avskeda",
+      "B": "färdigställa",
+      "C": "upplösa",
+      "D": "offentliggöra",
+      "E": "avbryta"
+    },
+    "answer": "D",
+    "questionNumber": 9,
+    "year": 1983,
+    "term": "ht",
+    "source": "1983ht-ord.pdf"
+  },
+  {
+    "word": "stärbhus",
+    "options": {
+      "A": "konkursbo",
+      "B": "familjeföretag",
+      "C": "släktgård",
+      "D": "dödsbo",
+      "E": "adelsätt"
+    },
+    "answer": "D",
+    "questionNumber": 10,
+    "year": 1983,
+    "term": "ht",
+    "source": "1983ht-ord.pdf"
+  },
+  {
+    "word": "revers",
+    "options": {
+      "A": "kontoutdrag",
+      "B": "köpebrev",
+      "C": "återköp",
+      "D": "skuldsedel",
+      "E": "avkastning"
+    },
+    "answer": "D",
+    "questionNumber": 11,
+    "year": 1983,
+    "term": "ht",
+    "source": "1983ht-ord.pdf"
+  },
+  {
+    "word": "stursk",
+    "options": {
+      "A": "trotsig",
+      "B": "enfaldig",
+      "C": "lättstött",
+      "D": "illasinnad",
+      "E": "självisk"
+    },
+    "answer": "A",
+    "questionNumber": 12,
+    "year": 1983,
+    "term": "ht",
+    "source": "1983ht-ord.pdf"
+  },
+  {
+    "word": "dekadans",
+    "options": {
+      "A": "förfall",
+      "B": "besvikelse",
+      "C": "fattigdom",
+      "D": "avvikelse",
+      "E": "likvärdighet"
+    },
+    "answer": "A",
+    "questionNumber": 13,
+    "year": 1983,
+    "term": "ht",
+    "source": "1983ht-ord.pdf"
+  },
+  {
+    "word": "retroaktiv",
+    "options": {
+      "A": "tillbakabildad",
+      "B": "tillbakavisande",
+      "C": "tillbakasatt",
+      "D": "tillbakadragen",
+      "E": "tillbakaverkande"
+    },
+    "answer": "E",
+    "questionNumber": 14,
+    "year": 1983,
+    "term": "ht",
+    "source": "1983ht-ord.pdf"
+  },
+  {
+    "word": "dogm",
+    "options": {
+      "A": "upprop",
+      "B": "lärosats",
+      "C": "utmärkelse",
+      "D": "befallning",
+      "E": "utmaning"
+    },
+    "answer": "B",
+    "questionNumber": 15,
+    "year": 1983,
+    "term": "ht",
+    "source": "1983ht-ord.pdf"
+  },
+  {
+    "word": "avhysa",
+    "options": {
+      "A": "inställa",
+      "B": "hindra",
+      "C": "bekämpa",
+      "D": "vräka",
+      "E": "svika"
+    },
+    "answer": "D",
+    "questionNumber": 16,
+    "year": 1983,
+    "term": "ht",
+    "source": "1983ht-ord.pdf"
+  },
+  {
+    "word": "auditorium",
+    "options": {
+      "A": "utställning",
+      "B": "åhörarkrets",
+      "C": "beundrarskara",
+      "D": "föreläsning",
+      "E": "visning"
+    },
+    "answer": "B",
+    "questionNumber": 17,
+    "year": 1983,
+    "term": "ht",
+    "source": "1983ht-ord.pdf"
+  },
+  {
+    "word": "nebulosa",
+    "options": {
+      "A": "solförmörkelse",
+      "B": "halvklot",
+      "C": "stjärnbild",
+      "D": "stjärntöcken",
+      "E": "norrsken"
+    },
+    "answer": "D",
+    "questionNumber": 18,
+    "year": 1983,
+    "term": "ht",
+    "source": "1983ht-ord.pdf"
+  },
+  {
+    "word": "applicera",
+    "options": {
+      "A": "anbringa",
+      "B": "överlämna",
+      "C": "uppskatta",
+      "D": "utpeka",
+      "E": "inspruta"
+    },
+    "answer": "A",
+    "questionNumber": 19,
+    "year": 1983,
+    "term": "ht",
+    "source": "1983ht-ord.pdf"
+  },
+  {
+    "word": "kolerisk",
+    "options": {
+      "A": "löjlig",
+      "B": "hetsig",
+      "C": "långsam",
+      "D": "vänlig",
+      "E": "uppspelt"
+    },
+    "answer": "B",
+    "questionNumber": 20,
+    "year": 1983,
+    "term": "ht",
+    "source": "1983ht-ord.pdf"
+  },
+  {
+    "word": "placenta",
+    "options": {
+      "A": "moderkaka",
+      "B": "avgjutning",
+      "C": "takmålning",
+      "D": "majsmjöl",
+      "E": "jordegendom"
+    },
+    "answer": "A",
+    "questionNumber": 21,
+    "year": 1983,
+    "term": "ht",
+    "source": "1983ht-ord.pdf"
+  },
+  {
+    "word": "sonor",
+    "options": {
+      "A": "färgsprakande",
+      "B": "ljudlös",
+      "C": "klangfull",
+      "D": "långvarig",
+      "E": "uttrycksfull"
+    },
+    "answer": "C",
+    "questionNumber": 22,
+    "year": 1983,
+    "term": "ht",
+    "source": "1983ht-ord.pdf"
+  },
+  {
+    "word": "alludera",
+    "options": {
+      "A": "avsluta",
+      "B": "nedvärdera",
+      "C": "tilldela",
+      "D": "anförtro",
+      "E": "anspela"
+    },
+    "answer": "E",
+    "questionNumber": 23,
+    "year": 1983,
+    "term": "ht",
+    "source": "1983ht-ord.pdf"
+  },
+  {
+    "word": "konsternerad",
+    "options": {
+      "A": "förargad",
+      "B": "förtvivlad",
+      "C": "försummad",
+      "D": "förödmjukad",
+      "E": "förbryllad"
+    },
+    "answer": "E",
+    "questionNumber": 24,
+    "year": 1983,
+    "term": "ht",
+    "source": "1983ht-ord.pdf"
+  },
+  {
+    "word": "fysionomi",
+    "options": {
+      "A": "andning",
+      "B": "styrka",
+      "C": "utseende",
+      "D": "själsliv",
+      "E": "sjukdomsbild"
+    },
+    "answer": "C",
+    "questionNumber": 25,
+    "year": 1983,
+    "term": "ht",
+    "source": "1983ht-ord.pdf"
+  },
+  {
+    "word": "opportunism",
+    "options": {
+      "A": "anpasslighet",
+      "B": "kärnfullhet",
+      "C": "anspråksfullhet",
+      "D": "avundsamhet",
+      "E": "belåtenhet"
+    },
+    "answer": "A",
+    "questionNumber": 26,
+    "year": 1983,
+    "term": "ht",
+    "source": "1983ht-ord.pdf"
+  },
+  {
+    "word": "subversiv",
+    "options": {
+      "A": "envis",
+      "B": "omstörtande",
+      "C": "foglig",
+      "D": "känslig",
+      "E": "inställsam"
+    },
+    "answer": "B",
+    "questionNumber": 27,
+    "year": 1983,
+    "term": "ht",
+    "source": "1983ht-ord.pdf"
+  },
+  {
+    "word": "restituera",
+    "options": {
+      "A": "begränsa",
+      "B": "instämma",
+      "C": "upprepa",
+      "D": "återbetala",
+      "E": "avbeställa"
+    },
+    "answer": "D",
+    "questionNumber": 28,
+    "year": 1983,
+    "term": "ht",
+    "source": "1983ht-ord.pdf"
+  },
+  {
+    "word": "polemik",
+    "options": {
+      "A": "meningsutbyte",
+      "B": "värdighet",
+      "C": "rörlighet",
+      "D": "minspel",
+      "E": "taktfasthet"
+    },
+    "answer": "A",
+    "questionNumber": 29,
+    "year": 1983,
+    "term": "ht",
+    "source": "1983ht-ord.pdf"
+  },
+  {
+    "word": "kverulera",
+    "options": {
+      "A": "skryta",
+      "B": "låtsa",
+      "C": "klaga",
+      "D": "plåga",
+      "E": "vägra"
+    },
+    "answer": "C",
+    "questionNumber": 30,
+    "year": 1983,
+    "term": "ht",
+    "source": "1983ht-ord.pdf"
+  },
+  {
+    "word": "fingerad",
+    "options": {
+      "A": "upprepad",
+      "B": "låtsad",
+      "C": "ändrad",
+      "D": "avklarad",
+      "E": "fastställd"
+    },
+    "answer": "B",
+    "questionNumber": 1,
+    "year": 1982,
+    "term": "ht",
+    "source": "1982ht-facit_ord.pdf"
+  },
+  {
+    "word": "honorar",
+    "options": {
+      "A": "hälsning",
+      "B": "uppvisning",
+      "C": "betalning",
+      "D": "uppvaktning",
+      "E": "insamling"
+    },
+    "answer": "C",
+    "questionNumber": 2,
+    "year": 1982,
+    "term": "ht",
+    "source": "1982ht-facit_ord.pdf"
+  },
+  {
+    "word": "makulera",
+    "options": {
+      "A": "erbjuda",
+      "B": "beräkna",
+      "C": "överklaga",
+      "D": "förstöra",
+      "E": "återsända"
+    },
+    "answer": "D",
+    "questionNumber": 3,
+    "year": 1982,
+    "term": "ht",
+    "source": "1982ht-facit_ord.pdf"
+  },
+  {
+    "word": "ockult",
+    "options": {
+      "A": "oäkta",
+      "B": "övernaturlig",
+      "C": "opassande",
+      "D": "enastående",
+      "E": "finurlig"
+    },
+    "answer": "B",
+    "questionNumber": 4,
+    "year": 1982,
+    "term": "ht",
+    "source": "1982ht-facit_ord.pdf"
+  },
+  {
+    "word": "erodera",
+    "options": {
+      "A": "ilskna till",
+      "B": "ta isär",
+      "C": "nöta bort",
+      "D": "stöta ut",
+      "E": "missta sig"
+    },
+    "answer": "C",
+    "questionNumber": 5,
+    "year": 1982,
+    "term": "ht",
+    "source": "1982ht-facit_ord.pdf"
+  },
+  {
+    "word": "uniformitet",
+    "options": {
+      "A": "folklighet",
+      "B": "oformlighet",
+      "C": "giltighet",
+      "D": "överlägsenhet",
+      "E": "likformighet"
+    },
+    "answer": "E",
+    "questionNumber": 6,
+    "year": 1982,
+    "term": "ht",
+    "source": "1982ht-facit_ord.pdf"
+  },
+  {
+    "word": "kryptisk",
+    "options": {
+      "A": "hemlighetsfull",
+      "B": "snål",
+      "C": "översvallande",
+      "D": "nedstämd",
+      "E": "omständlig"
+    },
+    "answer": "A",
+    "questionNumber": 7,
+    "year": 1982,
+    "term": "ht",
+    "source": "1982ht-facit_ord.pdf"
+  },
+  {
+    "word": "reinkarnation",
+    "options": {
+      "A": "återfall",
+      "B": "bortstötning",
+      "C": "tillfrisknande",
+      "D": "återfödelse",
+      "E": "insjuknande"
+    },
+    "answer": "D",
+    "questionNumber": 8,
+    "year": 1982,
+    "term": "ht",
+    "source": "1982ht-facit_ord.pdf"
+  },
+  {
+    "word": "universell",
+    "options": {
+      "A": "enskild",
+      "B": "påtaglig",
+      "C": "allomfattande",
+      "D": "överskådlig",
+      "E": "ändamålsenlig"
+    },
+    "answer": "C",
+    "questionNumber": 9,
+    "year": 1982,
+    "term": "ht",
+    "source": "1982ht-facit_ord.pdf"
+  },
+  {
+    "word": "turbulens",
+    "options": {
+      "A": "virvelrörelse",
+      "B": "utvidgning",
+      "C": "inbromsning",
+      "D": "kortslutning",
+      "E": "färgskiftning"
+    },
+    "answer": "A",
+    "questionNumber": 10,
+    "year": 1982,
+    "term": "ht",
+    "source": "1982ht-facit_ord.pdf"
+  },
+  {
+    "word": "vitrin",
+    "options": {
+      "A": "utställningsskåp",
+      "B": "giftblandning",
+      "C": "bakverk",
+      "D": "färgämne",
+      "E": "avloppssystem"
+    },
+    "answer": "A",
+    "questionNumber": 11,
+    "year": 1982,
+    "term": "ht",
+    "source": "1982ht-facit_ord.pdf"
+  },
+  {
+    "word": "hörsamma",
+    "options": {
+      "A": "förtydliga",
+      "B": "befalla",
+      "C": "åhöra",
+      "D": "förnimma",
+      "E": "lyda"
+    },
+    "answer": "E",
+    "questionNumber": 12,
+    "year": 1982,
+    "term": "ht",
+    "source": "1982ht-facit_ord.pdf"
+  },
+  {
+    "word": "stereotyp",
+    "options": {
+      "A": "noggrann",
+      "B": "otillräknelig",
+      "C": "slarvig",
+      "D": "tveksam",
+      "E": "oföränderlig"
+    },
+    "answer": "E",
+    "questionNumber": 13,
+    "year": 1982,
+    "term": "ht",
+    "source": "1982ht-facit_ord.pdf"
+  },
+  {
+    "word": "forte",
+    "options": {
+      "A": "svagt",
+      "B": "stötvis",
+      "C": "snabbt",
+      "D": "starkt",
+      "E": "sakta"
+    },
+    "answer": "D",
+    "questionNumber": 14,
+    "year": 1982,
+    "term": "ht",
+    "source": "1982ht-facit_ord.pdf"
+  },
+  {
+    "word": "symbios",
+    "options": {
+      "A": "åtskillnad",
+      "B": "samlevnad",
+      "C": "motstånd",
+      "D": "medhåll",
+      "E": "självständighet"
+    },
+    "answer": "B",
+    "questionNumber": 15,
+    "year": 1982,
+    "term": "ht",
+    "source": "1982ht-facit_ord.pdf"
+  },
+  {
+    "word": "skrodera",
+    "options": {
+      "A": "pryda",
+      "B": "förarga",
+      "C": "skryta",
+      "D": "baktala",
+      "E": "skrämma"
+    },
+    "answer": "C",
+    "questionNumber": 16,
+    "year": 1982,
+    "term": "ht",
+    "source": "1982ht-facit_ord.pdf"
+  },
+  {
+    "word": "talisman",
+    "options": {
+      "A": "soffa",
+      "B": "trollkarl",
+      "C": "krigare",
+      "D": "skyddsföremål",
+      "E": "helgedom"
+    },
+    "answer": "D",
+    "questionNumber": 17,
+    "year": 1982,
+    "term": "ht",
+    "source": "1982ht-facit_ord.pdf"
+  },
+  {
+    "word": "nagelfara",
+    "options": {
+      "A": "reta",
+      "B": "lura",
+      "C": "granska",
+      "D": "betvivla",
+      "E": "nedgöra"
+    },
+    "answer": "C",
+    "questionNumber": 18,
+    "year": 1982,
+    "term": "ht",
+    "source": "1982ht-facit_ord.pdf"
+  },
+  {
+    "word": "beivra",
+    "options": {
+      "A": "ingripa mot",
+      "B": "skynda på",
+      "C": "förolämpa",
+      "D": "utmana",
+      "E": "uppmuntra till"
+    },
+    "answer": "A",
+    "questionNumber": 19,
+    "year": 1982,
+    "term": "ht",
+    "source": "1982ht-facit_ord.pdf"
+  },
+  {
+    "word": "diarium",
+    "options": {
+      "A": "vattenbehållare",
+      "B": "ormgrop",
+      "C": "uppskov",
+      "D": "dagbok",
+      "E": "räkning"
+    },
+    "answer": "D",
+    "questionNumber": 20,
+    "year": 1982,
+    "term": "ht",
+    "source": "1982ht-facit_ord.pdf"
+  },
+  {
+    "word": "interaktion",
+    "options": {
+      "A": "utrop",
+      "B": "avsikt",
+      "C": "omtagning",
+      "D": "förfrågan",
+      "E": "växelspel"
+    },
+    "answer": "E",
+    "questionNumber": 21,
+    "year": 1982,
+    "term": "ht",
+    "source": "1982ht-facit_ord.pdf"
+  },
+  {
+    "word": "konsolidera",
+    "options": {
+      "A": "upprusta",
+      "B": "förstärka",
+      "C": "begrunda",
+      "D": "tillerkänna",
+      "E": "förhandla"
+    },
+    "answer": "B",
+    "questionNumber": 22,
+    "year": 1982,
+    "term": "ht",
+    "source": "1982ht-facit_ord.pdf"
+  },
+  {
+    "word": "defaitism",
+    "options": {
+      "A": "modlöshet",
+      "B": "inställsamhet",
+      "C": "ofullständighet",
+      "D": "efterblivenhet",
+      "E": "ålderssvaghet"
+    },
+    "answer": "A",
+    "questionNumber": 23,
+    "year": 1982,
+    "term": "ht",
+    "source": "1982ht-facit_ord.pdf"
+  },
+  {
+    "word": "bilateral",
+    "options": {
+      "A": "ostadig",
+      "B": "oegennyttig",
+      "C": "ömsesidig",
+      "D": "planmässig",
+      "E": "tvetydig"
+    },
+    "answer": "C",
+    "questionNumber": 24,
+    "year": 1982,
+    "term": "ht",
+    "source": "1982ht-facit_ord.pdf"
+  },
+  {
+    "word": "skrupler",
+    "options": {
+      "A": "baktankar",
+      "B": "motsättningar",
+      "C": "oförrätter",
+      "D": "förevändningar",
+      "E": "betänkligheter"
+    },
+    "answer": "E",
+    "questionNumber": 25,
+    "year": 1982,
+    "term": "ht",
+    "source": "1982ht-facit_ord.pdf"
+  },
+  {
+    "word": "enlevera",
+    "options": {
+      "A": "avskeda",
+      "B": "bortföra",
+      "C": "utlämna",
+      "D": "anlita",
+      "E": "övege"
+    },
+    "answer": "B",
+    "questionNumber": 26,
+    "year": 1982,
+    "term": "ht",
+    "source": "1982ht-facit_ord.pdf"
+  },
+  {
+    "word": "nekrolog",
+    "options": {
+      "A": "orgelverk",
+      "B": "dödsruna",
+      "C": "vattenväxt",
+      "D": "talarstol",
+      "E": "köpebrev"
+    },
+    "answer": "B",
+    "questionNumber": 28,
+    "year": 1982,
+    "term": "ht",
+    "source": "1982ht-facit_ord.pdf"
+  },
+  {
+    "word": "koncession",
+    "options": {
+      "A": "tillbakagång",
+      "B": "tillkomst",
+      "C": "tillstånd",
+      "D": "tillfällighet",
+      "E": "tillrättavisning"
+    },
+    "answer": "C",
+    "questionNumber": 29,
+    "year": 1982,
+    "term": "ht",
+    "source": "1982ht-facit_ord.pdf"
+  },
+  {
+    "word": "perenn",
+    "options": {
+      "A": "flerårig",
+      "B": "högtidlig",
+      "C": "välfylld",
+      "D": "fulländad",
+      "E": "tillfällig"
+    },
+    "answer": "A",
+    "questionNumber": 30,
+    "year": 1982,
+    "term": "ht",
+    "source": "1982ht-facit_ord.pdf"
+  },
+  {
+    "word": "stadfästa",
+    "options": {
+      "A": "godkänna",
+      "B": "upplysa",
+      "C": "anbringa",
+      "D": "tillägga",
+      "E": "utveckla"
+    },
+    "answer": "A",
+    "questionNumber": 1,
+    "year": 1982,
+    "term": "vt",
+    "source": "1982vt-ord.pdf"
+  },
+  {
+    "word": "kuperad",
+    "options": {
+      "A": "hård",
+      "B": "krokig",
+      "C": "ojämn",
+      "D": "rundad",
+      "E": "brokig"
+    },
+    "answer": "C",
+    "questionNumber": 2,
+    "year": 1982,
+    "term": "vt",
+    "source": "1982vt-ord.pdf"
+  },
+  {
+    "word": "nautik",
+    "options": {
+      "A": "sjövetenskap",
+      "B": "nakenkultur",
+      "C": "växtfärgning",
+      "D": "naturbeskrivning",
+      "E": "flygkonst"
+    },
+    "answer": "A",
+    "questionNumber": 3,
+    "year": 1982,
+    "term": "vt",
+    "source": "1982vt-ord.pdf"
+  },
+  {
+    "word": "ajournera",
+    "options": {
+      "A": "uppnå",
+      "B": "uppskjuta",
+      "C": "upplysa",
+      "D": "uppmana",
+      "E": "uppsöka"
+    },
+    "answer": "B",
+    "questionNumber": 4,
+    "year": 1982,
+    "term": "vt",
+    "source": "1982vt-ord.pdf"
+  },
+  {
+    "word": "rubank",
+    "options": {
+      "A": "stege",
+      "B": "hyvel",
+      "C": "skål",
+      "D": "båt",
+      "E": "uthus"
+    },
+    "answer": "B",
+    "questionNumber": 5,
+    "year": 1982,
+    "term": "vt",
+    "source": "1982vt-ord.pdf"
+  },
+  {
+    "word": "gourmet",
+    "options": {
+      "A": "drömtydare",
+      "B": "bedragare",
+      "C": "beskyddare",
+      "D": "upprorsmakare",
+      "E": "finsmakare"
+    },
+    "answer": "E",
+    "questionNumber": 6,
+    "year": 1982,
+    "term": "vt",
+    "source": "1982vt-ord.pdf"
+  },
+  {
+    "word": "enkät",
+    "options": {
+      "A": "kallelse",
+      "B": "anteckning",
+      "C": "rundfråga",
+      "D": "ansökan",
+      "E": "tillstånd"
+    },
+    "answer": "C",
+    "questionNumber": 7,
+    "year": 1982,
+    "term": "vt",
+    "source": "1982vt-ord.pdf"
+  },
+  {
+    "word": "konträr",
+    "options": {
+      "A": "motsatt",
+      "B": "omstridd",
+      "C": "ogiltig",
+      "D": "besvärlig",
+      "E": "påtaglig"
+    },
+    "answer": "A",
+    "questionNumber": 8,
+    "year": 1982,
+    "term": "vt",
+    "source": "1982vt-ord.pdf"
+  },
+  {
+    "word": "syntes",
+    "options": {
+      "A": "ersättning",
+      "B": "kännetecken",
+      "C": "beställning",
+      "D": "förslag",
+      "E": "sammanställning"
+    },
+    "answer": "E",
+    "questionNumber": 9,
+    "year": 1982,
+    "term": "vt",
+    "source": "1982vt-ord.pdf"
+  },
+  {
+    "word": "respons",
+    "options": {
+      "A": "avslag",
+      "B": "avsked",
+      "C": "svar",
+      "D": "frist",
+      "E": "förfrågan"
+    },
+    "answer": "C",
+    "questionNumber": 10,
+    "year": 1982,
+    "term": "vt",
+    "source": "1982vt-ord.pdf"
+  },
+  {
+    "word": "suggerera",
+    "options": {
+      "A": "påverka",
+      "B": "ersätta",
+      "C": "befalla",
+      "D": "utnyttja",
+      "E": "understödja"
+    },
+    "answer": "A",
+    "questionNumber": 11,
+    "year": 1982,
+    "term": "vt",
+    "source": "1982vt-ord.pdf"
+  },
+  {
+    "word": "fjärma",
+    "options": {
+      "A": "avlägsna",
+      "B": "bortförklara",
+      "C": "sammanföra",
+      "D": "anvisa",
+      "E": "begränsa"
+    },
+    "answer": "A",
+    "questionNumber": 12,
+    "year": 1982,
+    "term": "vt",
+    "source": "1982vt-ord.pdf"
+  },
+  {
+    "word": "hybris",
+    "options": {
+      "A": "lockelse",
+      "B": "inbilskhet",
+      "C": "sans",
+      "D": "utstrålning",
+      "E": "övermod"
+    },
+    "answer": "E",
+    "questionNumber": 13,
+    "year": 1982,
+    "term": "vt",
+    "source": "1982vt-ord.pdf"
+  },
+  {
+    "word": "blasé",
+    "options": {
+      "A": "gammalmodig",
+      "B": "uppmärksam",
+      "C": "nedlåtande",
+      "D": "likgiltig",
+      "E": "klumpig"
+    },
+    "answer": "D",
+    "questionNumber": 14,
+    "year": 1982,
+    "term": "vt",
+    "source": "1982vt-ord.pdf"
+  },
+  {
+    "word": "aura",
+    "options": {
+      "A": "spira",
+      "B": "sken",
+      "C": "rökelse",
+      "D": "spådom",
+      "E": "doft"
+    },
+    "answer": "B",
+    "questionNumber": 15,
+    "year": 1982,
+    "term": "vt",
+    "source": "1982vt-ord.pdf"
+  },
+  {
+    "word": "hemisfär",
+    "options": {
+      "A": "stjärnbild",
+      "B": "halvklot",
+      "C": "pol",
+      "D": "fixstjärna",
+      "E": "norrsken"
+    },
+    "answer": "B",
+    "questionNumber": 16,
+    "year": 1982,
+    "term": "vt",
+    "source": "1982vt-ord.pdf"
+  },
+  {
+    "word": "påtala",
+    "options": {
+      "A": "försäkra",
+      "B": "bevisa",
+      "C": "kräva",
+      "D": "beställa",
+      "E": "kritisera"
+    },
+    "answer": "E",
+    "questionNumber": 17,
+    "year": 1982,
+    "term": "vt",
+    "source": "1982vt-ord.pdf"
+  },
+  {
+    "word": "preferera",
+    "options": {
+      "A": "förestå",
+      "B": "förelägga",
+      "C": "föredra",
+      "D": "företaga",
+      "E": "föregripa"
+    },
+    "answer": "C",
+    "questionNumber": 18,
+    "year": 1982,
+    "term": "vt",
+    "source": "1982vt-ord.pdf"
+  },
+  {
+    "word": "kuriös",
+    "options": {
+      "A": "framstående",
+      "B": "allvarlig",
+      "C": "underlig",
+      "D": "misstänksam",
+      "E": "vardaglig"
+    },
+    "answer": "C",
+    "questionNumber": 19,
+    "year": 1982,
+    "term": "vt",
+    "source": "1982vt-ord.pdf"
+  },
+  {
+    "word": "ambivalens",
+    "options": {
+      "A": "upprördhet",
+      "B": "självmedvetenhet",
+      "C": "överkänslighet",
+      "D": "underlägsenhet",
+      "E": "kluvenhet"
+    },
+    "answer": "E",
+    "questionNumber": 20,
+    "year": 1982,
+    "term": "vt",
+    "source": "1982vt-ord.pdf"
+  },
+  {
+    "word": "maxim",
+    "options": {
+      "A": "lag",
+      "B": "tecken",
+      "C": "avtal",
+      "D": "grundsats",
+      "E": "rådslag"
+    },
+    "answer": "D",
+    "questionNumber": 21,
+    "year": 1982,
+    "term": "vt",
+    "source": "1982vt-ord.pdf"
+  },
+  {
+    "word": "konvergera",
+    "options": {
+      "A": "komma tillbaka",
+      "B": "löpa ihop",
+      "C": "gå isär",
+      "D": "komma överens",
+      "E": "avsäga sig"
+    },
+    "answer": "B",
+    "questionNumber": 22,
+    "year": 1982,
+    "term": "vt",
+    "source": "1982vt-ord.pdf"
+  },
+  {
+    "word": "järtecken",
+    "options": {
+      "A": "varsel",
+      "B": "hänvisning",
+      "C": "bekräftelse",
+      "D": "adelsmärke",
+      "E": "släktdrag"
+    },
+    "answer": "A",
+    "questionNumber": 23,
+    "year": 1982,
+    "term": "vt",
+    "source": "1982vt-ord.pdf"
+  },
+  {
+    "word": "jävig",
+    "options": {
+      "A": "lämplig",
+      "B": "föraktfull",
+      "C": "högljudd",
+      "D": "fridsam",
+      "E": "obehörig"
+    },
+    "answer": "E",
+    "questionNumber": 24,
+    "year": 1982,
+    "term": "vt",
+    "source": "1982vt-ord.pdf"
+  },
+  {
+    "word": "kantele",
+    "options": {
+      "A": "soffa",
+      "B": "vagn",
+      "C": "musikstycke",
+      "D": "blomma",
+      "E": "instrument"
+    },
+    "answer": "E",
+    "questionNumber": 25,
+    "year": 1982,
+    "term": "vt",
+    "source": "1982vt-ord.pdf"
+  },
+  {
+    "word": "plausibel",
+    "options": {
+      "A": "löjlig",
+      "B": "verklig",
+      "C": "känslig",
+      "D": "sannolik",
+      "E": "tråkig"
+    },
+    "answer": "D",
+    "questionNumber": 26,
+    "year": 1982,
+    "term": "vt",
+    "source": "1982vt-ord.pdf"
+  },
+  {
+    "word": "syndrom",
+    "options": {
+      "A": "vanföreställning",
+      "B": "sjukdomsbild",
+      "C": "världsbild",
+      "D": "gängbildning",
+      "E": "trosriktning"
+    },
+    "answer": "B",
+    "questionNumber": 27,
+    "year": 1982,
+    "term": "vt",
+    "source": "1982vt-ord.pdf"
+  },
+  {
+    "word": "sentens",
+    "options": {
+      "A": "motsats",
+      "B": "tänkespråk",
+      "C": "uppslag",
+      "D": "förutsägelse",
+      "E": "andel"
+    },
+    "answer": "B",
+    "questionNumber": 28,
+    "year": 1982,
+    "term": "vt",
+    "source": "1982vt-ord.pdf"
+  },
+  {
+    "word": "didaktisk",
+    "options": {
+      "A": "spetsfundig",
+      "B": "uppsluppen",
+      "C": "undervisande",
+      "D": "beräknande",
+      "E": "skiljaktig"
+    },
+    "answer": "C",
+    "questionNumber": 29,
+    "year": 1982,
+    "term": "vt",
+    "source": "1982vt-ord.pdf"
+  },
+  {
+    "word": "relevant",
+    "options": {
+      "A": "föränderlig",
+      "B": "smidig",
+      "C": "betydelsefull",
+      "D": "tålig",
+      "E": "motståndskraftig"
+    },
+    "answer": "C",
+    "questionNumber": 30,
+    "year": 1982,
+    "term": "vt",
+    "source": "1982vt-ord.pdf"
+  },
+  {
+    "word": "evolution",
+    "options": {
+      "A": "utveckling",
+      "B": "överföring",
+      "C": "undantag",
+      "D": "värdering",
+      "E": "händelse"
+    },
+    "answer": "A",
+    "questionNumber": 1,
+    "year": 1981,
+    "term": "ht",
+    "source": "1981ht-alla.pdf"
+  },
+  {
+    "word": "flexibel",
+    "options": {
+      "A": "opålitlig",
+      "B": "anpassbar",
+      "C": "påtaglig",
+      "D": "uthållig",
+      "E": "obestämd"
+    },
+    "answer": "B",
+    "questionNumber": 2,
+    "year": 1981,
+    "term": "ht",
+    "source": "1981ht-alla.pdf"
+  },
+  {
+    "word": "perception",
+    "options": {
+      "A": "förvåning",
+      "B": "övertygelse",
+      "C": "upprepning",
+      "D": "varseblivning",
+      "E": "förkroppsligande"
+    },
+    "answer": "D",
+    "questionNumber": 3,
+    "year": 1981,
+    "term": "ht",
+    "source": "1981ht-alla.pdf"
+  },
+  {
+    "word": "entlediga",
+    "options": {
+      "A": "belöna",
+      "B": "uppleva",
+      "C": "sakna",
+      "D": "avskeda",
+      "E": "utlysa"
+    },
+    "answer": "D",
+    "questionNumber": 4,
+    "year": 1981,
+    "term": "ht",
+    "source": "1981ht-alla.pdf"
+  },
+  {
+    "word": "besman",
+    "options": {
+      "A": "våg",
+      "B": "glas",
+      "C": "sticka",
+      "D": "paddel",
+      "E": "smideshärd"
+    },
+    "answer": "A",
+    "questionNumber": 5,
+    "year": 1981,
+    "term": "ht",
+    "source": "1981ht-alla.pdf"
+  },
+  {
+    "word": "retarderad",
+    "options": {
+      "A": "förlorad",
+      "B": "fördröjd",
+      "C": "förintad",
+      "D": "försummad",
+      "E": "fördärvad"
+    },
+    "answer": "B",
+    "questionNumber": 6,
+    "year": 1981,
+    "term": "ht",
+    "source": "1981ht-alla.pdf"
+  },
+  {
+    "word": "mångla",
+    "options": {
+      "A": "sälja",
+      "B": "lura",
+      "C": "utöka",
+      "D": "fördela",
+      "E": "betala"
+    },
+    "answer": "A",
+    "questionNumber": 7,
+    "year": 1981,
+    "term": "ht",
+    "source": "1981ht-alla.pdf"
+  },
+  {
+    "word": "hypotek",
+    "options": {
+      "A": "skuld",
+      "B": "inteckning",
+      "C": "ersättning",
+      "D": "avkastning",
+      "E": "gåva"
+    },
+    "answer": "B",
+    "questionNumber": 8,
+    "year": 1981,
+    "term": "ht",
+    "source": "1981ht-alla.pdf"
+  },
+  {
+    "word": "sanera",
+    "options": {
+      "A": "frigöra",
+      "B": "bevara",
+      "C": "torrlägga",
+      "D": "rengöra",
+      "E": "förstöra"
+    },
+    "answer": "D",
+    "questionNumber": 9,
+    "year": 1981,
+    "term": "ht",
+    "source": "1981ht-alla.pdf"
+  },
+  {
+    "word": "cinnober",
+    "options": {
+      "A": "färgämne",
+      "B": "stenfrukt",
+      "C": "krukväxt",
+      "D": "ostsort",
+      "E": "möbelstil"
+    },
+    "answer": "A",
+    "questionNumber": 10,
+    "year": 1981,
+    "term": "ht",
+    "source": "1981ht-alla.pdf"
+  },
+  {
+    "word": "najad",
+    "options": {
+      "A": "naturväsen",
+      "B": "tjänstekvinna",
+      "C": "diktverk",
+      "D": "ordlek",
+      "E": "luftström"
+    },
+    "answer": "A",
+    "questionNumber": 11,
+    "year": 1981,
+    "term": "ht",
+    "source": "1981ht-alla.pdf"
+  },
+  {
+    "word": "sufflera",
+    "options": {
+      "A": "påverka",
+      "B": "ersätta",
+      "C": "tillreda",
+      "D": "viska",
+      "E": "gissa"
+    },
+    "answer": "D",
+    "questionNumber": 12,
+    "year": 1981,
+    "term": "ht",
+    "source": "1981ht-alla.pdf"
+  },
+  {
+    "word": "statisk",
+    "options": {
+      "A": "stillastående",
+      "B": "tryckande",
+      "C": "tilltagande",
+      "D": "beräknande",
+      "E": "betecknande"
+    },
+    "answer": "A",
+    "questionNumber": 13,
+    "year": 1981,
+    "term": "ht",
+    "source": "1981ht-alla.pdf"
+  },
+  {
+    "word": "oligarki",
+    "options": {
+      "A": "laglöshet",
+      "B": "skräckvälde",
+      "C": "fåmannavälde",
+      "D": "manssamhälle",
+      "E": "jämställdhet"
+    },
+    "answer": "C",
+    "questionNumber": 14,
+    "year": 1981,
+    "term": "ht",
+    "source": "1981ht-alla.pdf"
+  },
+  {
+    "word": "dobbleri",
+    "options": {
+      "A": "smicker",
+      "B": "förtryck",
+      "C": "efterapning",
+      "D": "bötesstraff",
+      "E": "hasardspel"
+    },
+    "answer": "E",
+    "questionNumber": 15,
+    "year": 1981,
+    "term": "ht",
+    "source": "1981ht-alla.pdf"
+  },
+  {
+    "word": "analog",
+    "options": {
+      "A": "enkel",
+      "B": "nödvändig",
+      "C": "likartad",
+      "D": "obegränsad",
+      "E": "ungefärlig"
+    },
+    "answer": "C",
+    "questionNumber": 16,
+    "year": 1981,
+    "term": "ht",
+    "source": "1981ht-alla.pdf"
+  },
+  {
+    "word": "anemi",
+    "options": {
+      "A": "bannlysning",
+      "B": "frigörelse",
+      "C": "förlamning",
+      "D": "stilbrott",
+      "E": "blodbrist"
+    },
+    "answer": "E",
+    "questionNumber": 17,
+    "year": 1981,
+    "term": "ht",
+    "source": "1981ht-alla.pdf"
+  },
+  {
+    "word": "jovial",
+    "options": {
+      "A": "ödesdiger",
+      "B": "äventyrlig",
+      "C": "fyllig",
+      "D": "gladlynt",
+      "E": "oblyg"
+    },
+    "answer": "D",
+    "questionNumber": 18,
+    "year": 1981,
+    "term": "ht",
+    "source": "1981ht-alla.pdf"
+  },
+  {
+    "word": "liturgi",
+    "options": {
+      "A": "ordkonst",
+      "B": "bevisföring",
+      "C": "gudstjänstordning",
+      "D": "klagovisa",
+      "E": "rättslära"
+    },
+    "answer": "C",
+    "questionNumber": 19,
+    "year": 1981,
+    "term": "ht",
+    "source": "1981ht-alla.pdf"
+  },
+  {
+    "word": "diskonto",
+    "options": {
+      "A": "räntesats",
+      "B": "sparform",
+      "C": "gränsvärde",
+      "D": "växel",
+      "E": "insats"
+    },
+    "answer": "A",
+    "questionNumber": 20,
+    "year": 1981,
+    "term": "ht",
+    "source": "1981ht-alla.pdf"
+  },
+  {
+    "word": "profitera",
+    "options": {
+      "A": "förutsäga",
+      "B": "utöva",
+      "C": "bistå",
+      "D": "utnyttja",
+      "E": "förebygga"
+    },
+    "answer": "D",
+    "questionNumber": 21,
+    "year": 1981,
+    "term": "ht",
+    "source": "1981ht-alla.pdf"
+  },
+  {
+    "word": "habitué",
+    "options": {
+      "A": "tusenkonstnär",
+      "B": "stammgäst",
+      "C": "missbrukare",
+      "D": "modelejon",
+      "E": "medhjälpare"
+    },
+    "answer": "B",
+    "questionNumber": 22,
+    "year": 1981,
+    "term": "ht",
+    "source": "1981ht-alla.pdf"
+  },
+  {
+    "word": "enrollera",
+    "options": {
+      "A": "inskriva",
+      "B": "uppkalla",
+      "C": "bortföra",
+      "D": "underteckna",
+      "E": "överlåta"
+    },
+    "answer": "A",
+    "questionNumber": 23,
+    "year": 1981,
+    "term": "ht",
+    "source": "1981ht-alla.pdf"
+  },
+  {
+    "word": "kaustik",
+    "options": {
+      "A": "tillfällig",
+      "B": "knipslug",
+      "C": "frätande",
+      "D": "argsint",
+      "E": "klibbig"
+    },
+    "answer": "C",
+    "questionNumber": 24,
+    "year": 1981,
+    "term": "ht",
+    "source": "1981ht-alla.pdf"
+  },
+  {
+    "word": "ovarium",
+    "options": {
+      "A": "fiskdamm",
+      "B": "äggstock",
+      "C": "växtsamling",
+      "D": "förspel",
+      "E": "tandröta"
+    },
+    "answer": "B",
+    "questionNumber": 25,
+    "year": 1981,
+    "term": "ht",
+    "source": "1981ht-alla.pdf"
+  },
+  {
+    "word": "ackreditera",
+    "options": {
+      "A": "berömma",
+      "B": "tillgodose",
+      "C": "avslöja",
+      "D": "bemyndiga",
+      "E": "förolämpa"
+    },
+    "answer": "D",
+    "questionNumber": 26,
+    "year": 1981,
+    "term": "ht",
+    "source": "1981ht-alla.pdf"
+  },
+  {
+    "word": "oral",
+    "options": {
+      "A": "dödlig",
+      "B": "livlig",
+      "C": "muntlig",
+      "D": "andlig",
+      "E": "skriftlig"
+    },
+    "answer": "C",
+    "questionNumber": 27,
+    "year": 1981,
+    "term": "ht",
+    "source": "1981ht-alla.pdf"
+  },
+  {
+    "word": "bisarr",
+    "options": {
+      "A": "elak",
+      "B": "inskränkt",
+      "C": "häftig",
+      "D": "tvetydig",
+      "E": "underlig"
+    },
+    "answer": "E",
+    "questionNumber": 28,
+    "year": 1981,
+    "term": "ht",
+    "source": "1981ht-alla.pdf"
+  },
+  {
+    "word": "kontusion",
+    "options": {
+      "A": "sårskada",
+      "B": "avrättning",
+      "C": "sammankomst",
+      "D": "ytterlinje",
+      "E": "förstoring"
+    },
+    "answer": "A",
+    "questionNumber": 29,
+    "year": 1981,
+    "term": "ht",
+    "source": "1981ht-alla.pdf"
+  },
+  {
+    "word": "auskultera",
+    "options": {
+      "A": "intyga",
+      "B": "avlyssna",
+      "C": "invänta",
+      "D": "överklaga",
+      "E": "överlämna"
+    },
+    "answer": "B",
+    "questionNumber": 30,
+    "year": 1981,
+    "term": "ht",
+    "source": "1981ht-alla.pdf"
+  },
+  {
+    "word": "vokabulär",
+    "options": {
+      "A": "självljud",
+      "B": "ordförråd",
+      "C": "skriftspråk",
+      "D": "ljudlära",
+      "E": "satslära"
+    },
+    "answer": "B",
+    "questionNumber": 1,
+    "year": 1981,
+    "term": "vt",
+    "source": "1981vt-alla.pdf"
+  },
+  {
+    "word": "auktorisera",
+    "options": {
+      "A": "övertyga",
+      "B": "framhålla",
+      "C": "tillkännagiva",
+      "D": "bemyndiga",
+      "E": "bekräfta"
+    },
+    "answer": "D",
+    "questionNumber": 2,
+    "year": 1981,
+    "term": "vt",
+    "source": "1981vt-alla.pdf"
+  },
+  {
+    "word": "illusorisk",
+    "options": {
+      "A": "bedräglig",
+      "B": "belysande",
+      "C": "färgglad",
+      "D": "tillfällig",
+      "E": "invecklad"
+    },
+    "answer": "A",
+    "questionNumber": 3,
+    "year": 1981,
+    "term": "vt",
+    "source": "1981vt-alla.pdf"
+  },
+  {
+    "word": "heterogen",
+    "options": {
+      "A": "enhetlig",
+      "B": "olikartad",
+      "C": "besläktad",
+      "D": "förstärkt",
+      "E": "uttunnad"
+    },
+    "answer": "B",
+    "questionNumber": 4,
+    "year": 1981,
+    "term": "vt",
+    "source": "1981vt-alla.pdf"
+  },
+  {
+    "word": "ödem",
+    "options": {
+      "A": "varböld",
+      "B": "bensår",
+      "C": "brännmärke",
+      "D": "vattensvullnad",
+      "E": "tandröta"
+    },
+    "answer": "D",
+    "questionNumber": 5,
+    "year": 1981,
+    "term": "vt",
+    "source": "1981vt-alla.pdf"
+  },
+  {
+    "word": "autodidakt",
+    "options": {
+      "A": "dubbelgångare",
+      "B": "självplågare",
+      "C": "självlärd",
+      "D": "tryckluftsventil",
+      "E": "bilradio"
+    },
+    "answer": "C",
+    "questionNumber": 6,
+    "year": 1981,
+    "term": "vt",
+    "source": "1981vt-alla.pdf"
+  },
+  {
+    "word": "doktrin",
+    "options": {
+      "A": "avhandling",
+      "B": "lärosats",
+      "C": "klagoskrift",
+      "D": "slutsats",
+      "E": "beslut"
+    },
+    "answer": "B",
+    "questionNumber": 7,
+    "year": 1981,
+    "term": "vt",
+    "source": "1981vt-alla.pdf"
+  },
+  {
+    "word": "vitsord",
+    "options": {
+      "A": "ed",
+      "B": "föreskrift",
+      "C": "yrkande",
+      "D": "betyg",
+      "E": "lustighet"
+    },
+    "answer": "D",
+    "questionNumber": 8,
+    "year": 1981,
+    "term": "vt",
+    "source": "1981vt-alla.pdf"
+  },
+  {
+    "word": "abstrakt",
+    "options": {
+      "A": "obegripligt",
+      "B": "obekant",
+      "C": "orimligt",
+      "D": "otydligt",
+      "E": "ogripbart"
+    },
+    "answer": "A",
+    "questionNumber": 9,
+    "year": 1981,
+    "term": "vt",
+    "source": "1981vt-alla.pdf"
+  },
+  {
+    "word": "banal",
+    "options": {
+      "A": "alldaglig",
+      "B": "trångsynt",
+      "C": "löjlig",
+      "D": "fåordig",
+      "E": "godtrogen"
+    },
+    "answer": "A",
+    "questionNumber": 10,
+    "year": 1981,
+    "term": "vt",
+    "source": "1981vt-alla.pdf"
+  },
+  {
+    "word": "sonett",
+    "options": {
+      "A": "hårband",
+      "B": "flöjt",
+      "C": "sjögräs",
+      "D": "slättland",
+      "E": "dikform"
+    },
+    "answer": "E",
+    "questionNumber": 11,
+    "year": 1981,
+    "term": "vt",
+    "source": "1981vt-alla.pdf"
+  },
+  {
+    "word": "initierad",
+    "options": {
+      "A": "sammanlagd",
+      "B": "samtidig",
+      "C": "försenad",
+      "D": "instängd",
+      "E": "insatt"
+    },
+    "answer": "E",
+    "questionNumber": 12,
+    "year": 1981,
+    "term": "vt",
+    "source": "1981vt-alla.pdf"
+  },
+  {
+    "word": "karsk",
+    "options": {
+      "A": "orädd",
+      "B": "argsint",
+      "C": "gladlynt",
+      "D": "långsint",
+      "E": "överlägsen"
+    },
+    "answer": "A",
+    "questionNumber": 13,
+    "year": 1981,
+    "term": "vt",
+    "source": "1981vt-alla.pdf"
+  },
+  {
+    "word": "accessoarer",
+    "options": {
+      "A": "mönster",
+      "B": "uttryck",
+      "C": "tillbehör",
+      "D": "undantag",
+      "E": "förvärv"
+    },
+    "answer": "C",
+    "questionNumber": 14,
+    "year": 1981,
+    "term": "vt",
+    "source": "1981vt-alla.pdf"
+  },
+  {
+    "word": "passé",
+    "options": {
+      "A": "förbigången",
+      "B": "förlegad",
+      "C": "uttråkad",
+      "D": "moderiktig",
+      "E": "prydlig"
+    },
+    "answer": "B",
+    "questionNumber": 15,
+    "year": 1981,
+    "term": "vt",
+    "source": "1981vt-alla.pdf"
+  },
+  {
+    "word": "apanage",
+    "options": {
+      "A": "totalvikt",
+      "B": "arvode",
+      "C": "betalning",
+      "D": "belopp",
+      "E": "underhåll"
+    },
+    "answer": "E",
+    "questionNumber": 16,
+    "year": 1981,
+    "term": "vt",
+    "source": "1981vt-alla.pdf"
+  },
+  {
+    "word": "sordin",
+    "options": {
+      "A": "utgång",
+      "B": "dämpare",
+      "C": "förstärkare",
+      "D": "berusningsmedel",
+      "E": "färgämne"
+    },
+    "answer": "B",
+    "questionNumber": 17,
+    "year": 1981,
+    "term": "vt",
+    "source": "1981vt-alla.pdf"
+  },
+  {
+    "word": "reliabel",
+    "options": {
+      "A": "pålitlig",
+      "B": "synlig",
+      "C": "ökande",
+      "D": "ansedd",
+      "E": "motsatt"
+    },
+    "answer": "A",
+    "questionNumber": 18,
+    "year": 1981,
+    "term": "vt",
+    "source": "1981vt-alla.pdf"
+  },
+  {
+    "word": "eterisk",
+    "options": {
+      "A": "sedlig",
+      "B": "frätande",
+      "C": "explosiv",
+      "D": "kärleksfull",
+      "E": "flyktig"
+    },
+    "answer": "E",
+    "questionNumber": 19,
+    "year": 1981,
+    "term": "vt",
+    "source": "1981vt-alla.pdf"
+  },
+  {
+    "word": "dok",
+    "options": {
+      "A": "luva",
+      "B": "långrock",
+      "C": "krage",
+      "D": "hattband",
+      "E": "slöja"
+    },
+    "answer": "B",
+    "questionNumber": 20,
+    "year": 1981,
+    "term": "vt",
+    "source": "1981vt-alla.pdf"
+  },
+  {
+    "word": "evaporera",
+    "options": {
+      "A": "förflytta",
+      "B": "förånga",
+      "C": "översätta",
+      "D": "utrymma",
+      "E": "överföra"
+    },
+    "answer": "B",
+    "questionNumber": 21,
+    "year": 1981,
+    "term": "vt",
+    "source": "1981vt-alla.pdf"
+  },
+  {
+    "word": "häckla",
+    "options": {
+      "A": "härma",
+      "B": "smäda",
+      "C": "hämma",
+      "D": "smussla",
+      "E": "linda"
+    },
+    "answer": "B",
+    "questionNumber": 22,
+    "year": 1981,
+    "term": "vt",
+    "source": "1981vt-alla.pdf"
+  },
+  {
+    "word": "diger",
+    "options": {
+      "A": "mörk",
+      "B": "olycksbådande",
+      "C": "omfångsrik",
+      "D": "farlig",
+      "E": "märklig"
+    },
+    "answer": "C",
+    "questionNumber": 23,
+    "year": 1981,
+    "term": "vt",
+    "source": "1981vt-alla.pdf"
+  },
+  {
+    "word": "dignitet",
+    "options": {
+      "A": "färdighet",
+      "B": "ädelmod",
+      "C": "lydnad",
+      "D": "värdighet",
+      "E": "trofasthet"
+    },
+    "answer": "D",
+    "questionNumber": 24,
+    "year": 1981,
+    "term": "vt",
+    "source": "1981vt-alla.pdf"
+  },
+  {
+    "word": "tilja",
+    "options": {
+      "A": "trissa",
+      "B": "takbjälke",
+      "C": "golvbräda",
+      "D": "kätting",
+      "E": "lykta"
+    },
+    "answer": "C",
+    "questionNumber": 25,
+    "year": 1981,
+    "term": "vt",
+    "source": "1981vt-alla.pdf"
+  },
+  {
+    "word": "abstinens",
+    "options": {
+      "A": "sinnesfrånvaro",
+      "B": "avhållsamhet",
+      "C": "nedbrytning",
+      "D": "missbildning",
+      "E": "anpassning"
+    },
+    "answer": "B",
+    "questionNumber": 26,
+    "year": 1981,
+    "term": "vt",
+    "source": "1981vt-alla.pdf"
+  },
+  {
+    "word": "bard",
+    "options": {
+      "A": "svärd",
+      "B": "båt",
+      "C": "skald",
+      "D": "mustasch",
+      "E": "kärra"
+    },
+    "answer": "C",
+    "questionNumber": 27,
+    "year": 1981,
+    "term": "vt",
+    "source": "1981vt-alla.pdf"
+  },
+  {
+    "word": "mankera",
+    "options": {
+      "A": "svika",
+      "B": "kräva",
+      "C": "visa",
+      "D": "besluta",
+      "E": "ange"
+    },
+    "answer": "A",
+    "questionNumber": 28,
+    "year": 1981,
+    "term": "vt",
+    "source": "1981vt-alla.pdf"
+  },
+  {
+    "word": "pennalism",
+    "options": {
+      "A": "skrivsvårigheter",
+      "B": "ordblindhet",
+      "C": "oroskänsla",
+      "D": "kamratförtryck",
+      "E": "krigshets"
+    },
+    "answer": "D",
+    "questionNumber": 29,
+    "year": 1981,
+    "term": "vt",
+    "source": "1981vt-alla.pdf"
+  },
+  {
+    "word": "nestor",
+    "options": {
+      "A": "ålderman",
+      "B": "övermänniska",
+      "C": "plågoande",
+      "D": "favorit",
+      "E": "furste"
+    },
+    "answer": "A",
+    "questionNumber": 30,
+    "year": 1981,
+    "term": "vt",
+    "source": "1981vt-alla.pdf"
+  },
+  {
+    "word": "kartell",
+    "options": {
+      "A": "sammankomst",
+      "B": "sammanfattning",
+      "C": "sammanblandning",
+      "D": "sammansättning",
+      "E": "sammanslutning"
+    },
+    "answer": "E",
+    "questionNumber": 1,
+    "year": 1980,
+    "term": "ht",
+    "source": "1980ht-alla.pdf"
+  },
+  {
+    "word": "härold",
+    "options": {
+      "A": "krigsveteran",
+      "B": "budbärare",
+      "C": "försångare",
+      "D": "sjukvårdare",
+      "E": "förrädare"
+    },
+    "answer": "B",
+    "questionNumber": 2,
+    "year": 1980,
+    "term": "ht",
+    "source": "1980ht-alla.pdf"
+  },
+  {
+    "word": "polykrom",
+    "options": {
+      "A": "blandad",
+      "B": "mångfärgad",
+      "C": "elegant",
+      "D": "putsad",
+      "E": "olikformad"
+    },
+    "answer": "B",
+    "questionNumber": 3,
+    "year": 1980,
+    "term": "ht",
+    "source": "1980ht-alla.pdf"
+  },
+  {
+    "word": "predestinerad",
+    "options": {
+      "A": "framtvingad",
+      "B": "förberedd",
+      "C": "övertygad",
+      "D": "förutbestämd",
+      "E": "tillrättavisad"
+    },
+    "answer": "D",
+    "questionNumber": 4,
+    "year": 1980,
+    "term": "ht",
+    "source": "1980ht-alla.pdf"
+  },
+  {
+    "word": "hybrid",
+    "options": {
+      "A": "dubbelgångare",
+      "B": "vidunder",
+      "C": "lögnare",
+      "D": "andeväsen",
+      "E": "blandart"
+    },
+    "answer": "E",
+    "questionNumber": 5,
+    "year": 1980,
+    "term": "ht",
+    "source": "1980ht-alla.pdf"
+  },
+  {
+    "word": "dialys",
+    "options": {
+      "A": "föreskrift",
+      "B": "fotografering",
+      "C": "undersökning",
+      "D": "avgiftning",
+      "E": "utlåtande"
+    },
+    "answer": "D",
+    "questionNumber": 6,
+    "year": 1980,
+    "term": "ht",
+    "source": "1980ht-alla.pdf"
+  },
+  {
+    "word": "unison",
+    "options": {
+      "A": "egendomlig",
+      "B": "gemensam",
+      "C": "personlig",
+      "D": "inåtvänd",
+      "E": "enkel"
+    },
+    "answer": "B",
+    "questionNumber": 7,
+    "year": 1980,
+    "term": "ht",
+    "source": "1980ht-alla.pdf"
+  },
+  {
+    "word": "insinuation",
+    "options": {
+      "A": "självmotsägelse",
+      "B": "tillrättavisning",
+      "C": "påverkan",
+      "D": "förtydligande",
+      "E": "antydning"
+    },
+    "answer": "E",
+    "questionNumber": 8,
+    "year": 1980,
+    "term": "ht",
+    "source": "1980ht-alla.pdf"
+  },
+  {
+    "word": "pretentiös",
+    "options": {
+      "A": "övertygande",
+      "B": "brydsam",
+      "C": "anspråksfull",
+      "D": "inflytelserik",
+      "E": "beslutsam"
+    },
+    "answer": "C",
+    "questionNumber": 9,
+    "year": 1980,
+    "term": "ht",
+    "source": "1980ht-alla.pdf"
+  },
+  {
+    "word": "dissonans",
+    "options": {
+      "A": "missljud",
+      "B": "motvikt",
+      "C": "jämvikt",
+      "D": "språkljud",
+      "E": "otakt"
+    },
+    "answer": "A",
+    "questionNumber": 10,
+    "year": 1980,
+    "term": "ht",
+    "source": "1980ht-alla.pdf"
+  },
+  {
+    "word": "empirisk",
+    "options": {
+      "A": "inhemsk",
+      "B": "likvärdig",
+      "C": "erfarenhetsmässig",
+      "D": "härsklysten",
+      "E": "trovärdig"
+    },
+    "answer": "C",
+    "questionNumber": 11,
+    "year": 1980,
+    "term": "ht",
+    "source": "1980ht-alla.pdf"
+  },
+  {
+    "word": "terrin",
+    "options": {
+      "A": "soppskål",
+      "B": "hundras",
+      "C": "versmått",
+      "D": "huvudbonad",
+      "E": "maträtt"
+    },
+    "answer": "A",
+    "questionNumber": 12,
+    "year": 1980,
+    "term": "ht",
+    "source": "1980ht-alla.pdf"
+  },
+  {
+    "word": "hermetisk",
+    "options": {
+      "A": "snabb",
+      "B": "kraftig",
+      "C": "ryktbar",
+      "D": "lufttät",
+      "E": "fuktig"
+    },
+    "answer": "D",
+    "questionNumber": 13,
+    "year": 1980,
+    "term": "ht",
+    "source": "1980ht-alla.pdf"
+  },
+  {
+    "word": "lismande",
+    "options": {
+      "A": "gnällig",
+      "B": "inställsam",
+      "C": "lågmäld",
+      "D": "slug",
+      "E": "falsk"
+    },
+    "answer": "B",
+    "questionNumber": 14,
+    "year": 1980,
+    "term": "ht",
+    "source": "1980ht-alla.pdf"
+  },
+  {
+    "word": "gejser",
+    "options": {
+      "A": "folkslag",
+      "B": "verktyg",
+      "C": "ädelsten",
+      "D": "bergar",
+      "E": "springkälla"
+    },
+    "answer": "E",
+    "questionNumber": 15,
+    "year": 1980,
+    "term": "ht",
+    "source": "1980ht-alla.pdf"
+  },
+  {
+    "word": "obstinat",
+    "options": {
+      "A": "dunkel",
+      "B": "anstötlig",
+      "C": "trotsig",
+      "D": "indirekt",
+      "E": "framhävd"
+    },
+    "answer": "C",
+    "questionNumber": 16,
+    "year": 1980,
+    "term": "ht",
+    "source": "1980ht-alla.pdf"
+  },
+  {
+    "word": "burgen",
+    "options": {
+      "A": "välbärgad",
+      "B": "förnäm",
+      "C": "artig",
+      "D": "ådlig",
+      "E": "överlägsen"
+    },
+    "answer": "A",
+    "questionNumber": 17,
+    "year": 1980,
+    "term": "ht",
+    "source": "1980ht-alla.pdf"
+  },
+  {
+    "word": "matris",
+    "options": {
+      "A": "ritstift",
+      "B": "mall",
+      "C": "solskydd",
+      "D": "köksredskap",
+      "E": "duk"
+    },
+    "answer": "B",
+    "questionNumber": 18,
+    "year": 1980,
+    "term": "ht",
+    "source": "1980ht-alla.pdf"
+  },
+  {
+    "word": "axiom",
+    "options": {
+      "A": "grundsanning",
+      "B": "överenskommelse",
+      "C": "valspråk",
+      "D": "hänvisning",
+      "E": "bevis"
+    },
+    "answer": "A",
+    "questionNumber": 19,
+    "year": 1980,
+    "term": "ht",
+    "source": "1980ht-alla.pdf"
+  },
+  {
+    "word": "palaver",
+    "options": {
+      "A": "överläggning",
+      "B": "kännetecken",
+      "C": "uppassning",
+      "D": "kartritning",
+      "E": "misstag"
+    },
+    "answer": "A",
+    "questionNumber": 20,
+    "year": 1980,
+    "term": "ht",
+    "source": "1980ht-alla.pdf"
+  },
+  {
+    "word": "gängse",
+    "options": {
+      "A": "enkel",
+      "B": "lämplig",
+      "C": "enhetlig",
+      "D": "planlagd",
+      "E": "bruklig"
+    },
+    "answer": "E",
+    "questionNumber": 21,
+    "year": 1980,
+    "term": "ht",
+    "source": "1980ht-alla.pdf"
+  },
+  {
+    "word": "palissad",
+    "options": {
+      "A": "pelarrad",
+      "B": "tempel",
+      "C": "pålverk",
+      "D": "skyddsbild",
+      "E": "konstverk"
+    },
+    "answer": "C",
+    "questionNumber": 22,
+    "year": 1980,
+    "term": "ht",
+    "source": "1980ht-alla.pdf"
+  },
+  {
+    "word": "sprund",
+    "options": {
+      "A": "midjeband",
+      "B": "veck",
+      "C": "öppning",
+      "D": "sömsmån",
+      "E": "kant"
+    },
+    "answer": "C",
+    "questionNumber": 23,
+    "year": 1980,
+    "term": "ht",
+    "source": "1980ht-alla.pdf"
+  },
+  {
+    "word": "dispens",
+    "options": {
+      "A": "försening",
+      "B": "förvisning",
+      "C": "åläggande",
+      "D": "förlåtelse",
+      "E": "befrielse"
+    },
+    "answer": "D",
+    "questionNumber": 24,
+    "year": 1980,
+    "term": "ht",
+    "source": "1980ht-alla.pdf"
+  },
+  {
+    "word": "komplimentera",
+    "options": {
+      "A": "försvåra",
+      "B": "försvara",
+      "C": "begära",
+      "D": "bedöma",
+      "E": "berömma"
+    },
+    "answer": "E",
+    "questionNumber": 25,
+    "year": 1980,
+    "term": "ht",
+    "source": "1980ht-alla.pdf"
+  },
+  {
+    "word": "oaktat",
+    "options": {
+      "A": "fastän",
+      "B": "på grund av",
+      "C": "knappast",
+      "D": "såsom",
+      "E": "sålunda"
+    },
+    "answer": "A",
+    "questionNumber": 26,
+    "year": 1980,
+    "term": "ht",
+    "source": "1980ht-alla.pdf"
+  },
+  {
+    "word": "infantil",
+    "options": {
+      "A": "nedrig",
+      "B": "barnslig",
+      "C": "olycklig",
+      "D": "omåttlig",
+      "E": "omoralisk"
+    },
+    "answer": "B",
+    "questionNumber": 27,
+    "year": 1980,
+    "term": "ht",
+    "source": "1980ht-alla.pdf"
+  },
+  {
+    "word": "prolongera",
+    "options": {
+      "A": "inleda",
+      "B": "förändra",
+      "C": "utfärda",
+      "D": "förlänga",
+      "E": "belöna"
+    },
+    "answer": "D",
+    "questionNumber": 28,
+    "year": 1980,
+    "term": "ht",
+    "source": "1980ht-alla.pdf"
+  },
+  {
+    "word": "rabiat",
+    "options": {
+      "A": "skojfrisk",
+      "B": "ursinnig",
+      "C": "härsken",
+      "D": "uppsluppen",
+      "E": "förvirrad"
+    },
+    "answer": "B",
+    "questionNumber": 29,
+    "year": 1980,
+    "term": "ht",
+    "source": "1980ht-alla.pdf"
+  },
+  {
+    "word": "marmorerad",
+    "options": {
+      "A": "stensatt",
+      "B": "inbäddad",
+      "C": "ådrad",
+      "D": "härdad",
+      "E": "förstenad"
+    },
+    "answer": "C",
+    "questionNumber": 30,
+    "year": 1980,
+    "term": "ht",
+    "source": "1980ht-alla.pdf"
+  },
+  {
+    "word": "minutiös",
+    "options": {
+      "A": "modstulen",
+      "B": "tidsenlig",
+      "C": "noggrann",
+      "D": "fläckfri",
+      "E": "ångerfull"
+    },
+    "answer": "C",
+    "questionNumber": 1,
+    "year": 1980,
+    "term": "vt",
+    "source": "1980vt-alla.pdf"
+  },
+  {
+    "word": "session",
+    "options": {
+      "A": "utredning",
+      "B": "beslut",
+      "C": "uppgörelse",
+      "D": "sittning",
+      "E": "omröstning"
+    },
+    "answer": "D",
+    "questionNumber": 2,
+    "year": 1980,
+    "term": "vt",
+    "source": "1980vt-alla.pdf"
+  },
+  {
+    "word": "kumulativ",
+    "options": {
+      "A": "fyllig",
+      "B": "krampaktig",
+      "C": "hopande",
+      "D": "särskiljande",
+      "E": "samordnande"
+    },
+    "answer": "C",
+    "questionNumber": 3,
+    "year": 1980,
+    "term": "vt",
+    "source": "1980vt-alla.pdf"
+  },
+  {
+    "word": "bebåda",
+    "options": {
+      "A": "försäkra",
+      "B": "förutsäga",
+      "C": "frukta",
+      "D": "anse",
+      "E": "åse"
+    },
+    "answer": "B",
+    "questionNumber": 4,
+    "year": 1980,
+    "term": "vt",
+    "source": "1980vt-alla.pdf"
+  },
+  {
+    "word": "exekutiv",
+    "options": {
+      "A": "lättillgänglig",
+      "B": "utåtriktad",
+      "C": "uttrycksfull",
+      "D": "uteslutande",
+      "E": "verkställande"
+    },
+    "answer": "E",
+    "questionNumber": 5,
+    "year": 1980,
+    "term": "vt",
+    "source": "1980vt-alla.pdf"
+  },
+  {
+    "word": "drev",
+    "options": {
+      "A": "råsegel",
+      "B": "kugghjul",
+      "C": "fartygssida",
+      "D": "handtag",
+      "E": "lerkärl"
+    },
+    "answer": "D",
+    "questionNumber": 6,
+    "year": 1980,
+    "term": "vt",
+    "source": "1980vt-alla.pdf"
+  },
+  {
+    "word": "inhalation",
+    "options": {
+      "A": "inandning",
+      "B": "inbillning",
+      "C": "införlivande",
+      "D": "själviakttagelse",
+      "E": "tillbakabildning"
+    },
+    "answer": "A",
+    "questionNumber": 7,
+    "year": 1980,
+    "term": "vt",
+    "source": "1980vt-alla.pdf"
+  },
+  {
+    "word": "estetisk",
+    "options": {
+      "A": "sedlig",
+      "B": "enhetlig",
+      "C": "smakfull",
+      "D": "storslagen",
+      "E": "eggande"
+    },
+    "answer": "C",
+    "questionNumber": 8,
+    "year": 1980,
+    "term": "vt",
+    "source": "1980vt-alla.pdf"
+  },
+  {
+    "word": "förfäkta",
+    "options": {
+      "A": "varsko",
+      "B": "hävda",
+      "C": "utpeka",
+      "D": "fördela",
+      "E": "tillämpa"
+    },
+    "answer": "B",
+    "questionNumber": 9,
+    "year": 1980,
+    "term": "vt",
+    "source": "1980vt-alla.pdf"
+  },
+  {
+    "word": "provokativ",
+    "options": {
+      "A": "framstående",
+      "B": "hämndlysten",
+      "C": "förnedrande",
+      "D": "förråande",
+      "E": "utmanande"
+    },
+    "answer": "E",
+    "questionNumber": 10,
+    "year": 1980,
+    "term": "vt",
+    "source": "1980vt-alla.pdf"
+  },
+  {
+    "word": "ligament",
+    "options": {
+      "A": "läkemedel",
+      "B": "fuskverk",
+      "C": "ledband",
+      "D": "besöksbok",
+      "E": "muskel"
+    },
+    "answer": "C",
+    "questionNumber": 11,
+    "year": 1980,
+    "term": "vt",
+    "source": "1980vt-alla.pdf"
+  },
+  {
+    "word": "spekulation",
+    "options": {
+      "A": "varuförmedling",
+      "B": "vinstberäkning",
+      "C": "betalningsfrist",
+      "D": "skuldförbindelse",
+      "E": "inkomstökning"
+    },
+    "answer": "B",
+    "questionNumber": 12,
+    "year": 1980,
+    "term": "vt",
+    "source": "1980vt-alla.pdf"
+  },
+  {
+    "word": "panera",
+    "options": {
+      "A": "gnida",
+      "B": "bröa",
+      "C": "slipa",
+      "D": "gripa",
+      "E": "grädda"
+    },
+    "answer": "B",
+    "questionNumber": 13,
+    "year": 1980,
+    "term": "vt",
+    "source": "1980vt-alla.pdf"
+  },
+  {
+    "word": "likvid",
+    "options": {
+      "A": "betalning",
+      "B": "inteckning",
+      "C": "utdrag",
+      "D": "avtal",
+      "E": "överföring"
+    },
+    "answer": "A",
+    "questionNumber": 14,
+    "year": 1980,
+    "term": "vt",
+    "source": "1980vt-alla.pdf"
+  },
+  {
+    "word": "omsvep",
+    "options": {
+      "A": "omprövning",
+      "B": "förevändning",
+      "C": "förändring",
+      "D": "upprepning",
+      "E": "antyda"
+    },
+    "answer": "B",
+    "questionNumber": 15,
+    "year": 1980,
+    "term": "vt",
+    "source": "1980vt-alla.pdf"
+  },
+  {
+    "word": "förfördela",
+    "options": {
+      "A": "förorätta",
+      "B": "förflytta",
+      "C": "förgöra",
+      "D": "förhala",
+      "E": "förhindra"
+    },
+    "answer": "A",
+    "questionNumber": 16,
+    "year": 1980,
+    "term": "vt",
+    "source": "1980vt-alla.pdf"
+  },
+  {
+    "word": "paroll",
+    "options": {
+      "A": "minnestal",
+      "B": "fältrop",
+      "C": "liknelse",
+      "D": "lagtext",
+      "E": "ordspråk"
+    },
+    "answer": "B",
+    "questionNumber": 17,
+    "year": 1980,
+    "term": "vt",
+    "source": "1980vt-alla.pdf"
+  },
+  {
+    "word": "absurd",
+    "options": {
+      "A": "självklar",
+      "B": "olustig",
+      "C": "orimlig",
+      "D": "främmande",
+      "E": "besvärlig"
+    },
+    "answer": "C",
+    "questionNumber": 18,
+    "year": 1980,
+    "term": "vt",
+    "source": "1980vt-alla.pdf"
+  },
+  {
+    "word": "eruption",
+    "options": {
+      "A": "utbrott",
+      "B": "stegring",
+      "C": "bortfall",
+      "D": "nötning",
+      "E": "utjämning"
+    },
+    "answer": "A",
+    "questionNumber": 19,
+    "year": 1980,
+    "term": "vt",
+    "source": "1980vt-alla.pdf"
+  },
+  {
+    "word": "indicium",
+    "options": {
+      "A": "efterapning",
+      "B": "beräkning",
+      "C": "förteckning",
+      "D": "inlägg",
+      "E": "tecken"
+    },
+    "answer": "E",
+    "questionNumber": 20,
+    "year": 1980,
+    "term": "vt",
+    "source": "1980vt-alla.pdf"
+  },
+  {
+    "word": "spatelformad",
+    "options": {
+      "A": "spetsig",
+      "B": "böjd",
+      "C": "spadformig",
+      "D": "vågformig",
+      "E": "skålformig"
+    },
+    "answer": "C",
+    "questionNumber": 21,
+    "year": 1980,
+    "term": "vt",
+    "source": "1980vt-alla.pdf"
+  },
+  {
+    "word": "officin",
+    "options": {
+      "A": "tryckeri",
+      "B": "matsal",
+      "C": "regemente",
+      "D": "väntrum",
+      "E": "tjänstebostad"
+    },
+    "answer": "A",
+    "questionNumber": 22,
+    "year": 1980,
+    "term": "vt",
+    "source": "1980vt-alla.pdf"
+  },
+  {
+    "word": "restriktiv",
+    "options": {
+      "A": "frånvarande",
+      "B": "ihärdig",
+      "C": "eftertrycklig",
+      "D": "återhållsam",
+      "E": "bortstötande"
+    },
+    "answer": "D",
+    "questionNumber": 23,
+    "year": 1980,
+    "term": "vt",
+    "source": "1980vt-alla.pdf"
+  },
+  {
+    "word": "patos",
+    "options": {
+      "A": "sorg",
+      "B": "lidelse",
+      "C": "godmodighet",
+      "D": "tapperhet",
+      "E": "fromhet"
+    },
+    "answer": "B",
+    "questionNumber": 24,
+    "year": 1980,
+    "term": "vt",
+    "source": "1980vt-alla.pdf"
+  },
+  {
+    "word": "staga",
+    "options": {
+      "A": "dela",
+      "B": "hindra",
+      "C": "hacka",
+      "D": "stötta",
+      "E": "draga"
+    },
+    "answer": "D",
+    "questionNumber": 25,
+    "year": 1980,
+    "term": "vt",
+    "source": "1980vt-alla.pdf"
+  },
+  {
+    "word": "konvolut",
+    "options": {
+      "A": "avtryck",
+      "B": "underlag",
+      "C": "omslag",
+      "D": "kedja",
+      "E": "fartyg"
+    },
+    "answer": "C",
+    "questionNumber": 26,
+    "year": 1980,
+    "term": "vt",
+    "source": "1980vt-alla.pdf"
+  },
+  {
+    "word": "artikulera",
+    "options": {
+      "A": "åskådliggöra",
+      "B": "stava",
+      "C": "betona",
+      "D": "uttala",
+      "E": "uppfatta"
+    },
+    "answer": "D",
+    "questionNumber": 27,
+    "year": 1980,
+    "term": "vt",
+    "source": "1980vt-alla.pdf"
+  },
+  {
+    "word": "kateter",
+    "options": {
+      "A": "tappningsrör",
+      "B": "triangel",
+      "C": "talarstol",
+      "D": "behållare",
+      "E": "kortregister"
+    },
+    "answer": "A",
+    "questionNumber": 28,
+    "year": 1980,
+    "term": "vt",
+    "source": "1980vt-alla.pdf"
+  },
+  {
+    "word": "symptomatisk",
+    "options": {
+      "A": "utmärkande",
+      "B": "överensstämmande",
+      "C": "planmässig",
+      "D": "godtycklig",
+      "E": "förebyggande"
+    },
+    "answer": "A",
+    "questionNumber": 29,
+    "year": 1980,
+    "term": "vt",
+    "source": "1980vt-alla.pdf"
+  },
+  {
+    "word": "dana",
+    "options": {
+      "A": "glömma",
+      "B": "lämna",
+      "C": "ordna",
+      "D": "skapa",
+      "E": "skänka"
+    },
+    "answer": "D",
+    "questionNumber": 30,
+    "year": 1980,
+    "term": "vt",
+    "source": "1980vt-alla.pdf"
+  },
+  {
+    "word": "eftergiven",
+    "options": {
+      "A": "foglig",
+      "B": "försenad",
+      "C": "retfull",
+      "D": "tanklös",
+      "E": "ouppmärksam"
+    },
+    "answer": "A",
+    "questionNumber": 1,
+    "year": 1979,
+    "term": "ht",
+    "source": "1979ht-alla.pdf"
+  },
+  {
+    "word": "visavi",
+    "options": {
+      "A": "utmed",
+      "B": "bortom",
+      "C": "förutom",
+      "D": "inför",
+      "E": "gentemot"
+    },
+    "answer": "E",
+    "questionNumber": 2,
+    "year": 1979,
+    "term": "ht",
+    "source": "1979ht-alla.pdf"
+  },
+  {
+    "word": "karotin",
+    "options": {
+      "A": "kokkärl",
+      "B": "färgämne",
+      "C": "ädelsten",
+      "D": "konserveringsmedel",
+      "E": "tryckform"
+    },
+    "answer": "B",
+    "questionNumber": 3,
+    "year": 1979,
+    "term": "ht",
+    "source": "1979ht-alla.pdf"
+  },
+  {
+    "word": "uppsåt",
+    "options": {
+      "A": "framsteg",
+      "B": "illdåd",
+      "C": "kännedom",
+      "D": "avsikt",
+      "E": "förbättring"
+    },
+    "answer": "D",
+    "questionNumber": 4,
+    "year": 1979,
+    "term": "ht",
+    "source": "1979ht-alla.pdf"
+  },
+  {
+    "word": "arrogant",
+    "options": {
+      "A": "sträng",
+      "B": "kritisk",
+      "C": "överlägsen",
+      "D": "retlig",
+      "E": "näsvis"
+    },
+    "answer": "C",
+    "questionNumber": 5,
+    "year": 1979,
+    "term": "ht",
+    "source": "1979ht-alla.pdf"
+  },
+  {
+    "word": "hierarki",
+    "options": {
+      "A": "penningvälde",
+      "B": "envälde",
+      "C": "folkstyre",
+      "D": "rangordning",
+      "E": "befordran"
+    },
+    "answer": "D",
+    "questionNumber": 6,
+    "year": 1979,
+    "term": "ht",
+    "source": "1979ht-alla.pdf"
+  },
+  {
+    "word": "refusera",
+    "options": {
+      "A": "förkasta",
+      "B": "omskapa",
+      "C": "utgiva",
+      "D": "indraga",
+      "E": "minska"
+    },
+    "answer": "A",
+    "questionNumber": 7,
+    "year": 1979,
+    "term": "ht",
+    "source": "1979ht-alla.pdf"
+  },
+  {
+    "word": "kretong",
+    "options": {
+      "A": "matservis",
+      "B": "sittmöbel",
+      "C": "växtfärg",
+      "D": "bomullstyg",
+      "E": "hårprydnad"
+    },
+    "answer": "D",
+    "questionNumber": 8,
+    "year": 1979,
+    "term": "ht",
+    "source": "1979ht-alla.pdf"
+  },
+  {
+    "word": "fluktuera",
+    "options": {
+      "A": "flyta",
+      "B": "förvandla",
+      "C": "växla",
+      "D": "signalera",
+      "E": "utjämna"
+    },
+    "answer": "C",
+    "questionNumber": 9,
+    "year": 1979,
+    "term": "ht",
+    "source": "1979ht-alla.pdf"
+  },
+  {
+    "word": "stringens",
+    "options": {
+      "A": "följdriktighet",
+      "B": "ståndaktighet",
+      "C": "trovärdighet",
+      "D": "avhållsamhet",
+      "E": "anspråksfullhet"
+    },
+    "answer": "A",
+    "questionNumber": 10,
+    "year": 1979,
+    "term": "ht",
+    "source": "1979ht-alla.pdf"
+  },
+  {
+    "word": "tilltagsen",
+    "options": {
+      "A": "bråkig",
+      "B": "djärv",
+      "C": "flitig",
+      "D": "egensinnig",
+      "E": "hämndlysten"
+    },
+    "answer": "B",
+    "questionNumber": 11,
+    "year": 1979,
+    "term": "ht",
+    "source": "1979ht-alla.pdf"
+  },
+  {
+    "word": "bäring",
+    "options": {
+      "A": "vikt",
+      "B": "rymlighet",
+      "C": "hastighet",
+      "D": "längd",
+      "E": "riktning"
+    },
+    "answer": "E",
+    "questionNumber": 12,
+    "year": 1979,
+    "term": "ht",
+    "source": "1979ht-alla.pdf"
+  },
+  {
+    "word": "nominera",
+    "options": {
+      "A": "tillkännage",
+      "B": "föreslå",
+      "C": "nybilda",
+      "D": "anteckna",
+      "E": "bevisa"
+    },
+    "answer": "B",
+    "questionNumber": 13,
+    "year": 1979,
+    "term": "ht",
+    "source": "1979ht-alla.pdf"
+  },
+  {
+    "word": "essentiell",
+    "options": {
+      "A": "uppskattad",
+      "B": "väsentlig",
+      "C": "banbrytande",
+      "D": "överraskande",
+      "E": "smakfull"
+    },
+    "answer": "B",
+    "questionNumber": 14,
+    "year": 1979,
+    "term": "ht",
+    "source": "1979ht-alla.pdf"
+  },
+  {
+    "word": "petition",
+    "options": {
+      "A": "begäran",
+      "B": "godkännande",
+      "C": "avslag",
+      "D": "utmätning",
+      "E": "översyn"
+    },
+    "answer": "A",
+    "questionNumber": 15,
+    "year": 1979,
+    "term": "ht",
+    "source": "1979ht-alla.pdf"
+  },
+  {
+    "word": "förläna",
+    "options": {
+      "A": "låna",
+      "B": "beskatta",
+      "C": "avbilda",
+      "D": "skänka",
+      "E": "överge"
+    },
+    "answer": "D",
+    "questionNumber": 16,
+    "year": 1979,
+    "term": "ht",
+    "source": "1979ht-alla.pdf"
+  },
+  {
+    "word": "schablon",
+    "options": {
+      "A": "motdrag",
+      "B": "timplan",
+      "C": "anslag",
+      "D": "utdrag",
+      "E": "mall"
+    },
+    "answer": "E",
+    "questionNumber": 17,
+    "year": 1979,
+    "term": "ht",
+    "source": "1979ht-alla.pdf"
+  },
+  {
+    "word": "oförtruten",
+    "options": {
+      "A": "tystlåten",
+      "B": "ohövlig",
+      "C": "trägen",
+      "D": "förargad",
+      "E": "utmattad"
+    },
+    "answer": "C",
+    "questionNumber": 18,
+    "year": 1979,
+    "term": "ht",
+    "source": "1979ht-alla.pdf"
+  },
+  {
+    "word": "fördra",
+    "options": {
+      "A": "besinna",
+      "B": "avhjälpa",
+      "C": "uppskjuta",
+      "D": "instämma",
+      "E": "uthärda"
+    },
+    "answer": "E",
+    "questionNumber": 19,
+    "year": 1979,
+    "term": "ht",
+    "source": "1979ht-alla.pdf"
+  },
+  {
+    "word": "rekvisita",
+    "options": {
+      "A": "föreskrift",
+      "B": "skadestånd",
+      "C": "huvudinnehåll",
+      "D": "försändelse",
+      "E": "tillbehör"
+    },
+    "answer": "E",
+    "questionNumber": 20,
+    "year": 1979,
+    "term": "ht",
+    "source": "1979ht-alla.pdf"
+  },
+  {
+    "word": "paradoxal",
+    "options": {
+      "A": "förmodad",
+      "B": "fördelaktig",
+      "C": "likartad",
+      "D": "motsägelsefull",
+      "E": "övertygande"
+    },
+    "answer": "D",
+    "questionNumber": 21,
+    "year": 1979,
+    "term": "ht",
+    "source": "1979ht-alla.pdf"
+  },
+  {
+    "word": "nisch",
+    "options": {
+      "A": "spricka",
+      "B": "fördjupning",
+      "C": "lagerhylla",
+      "D": "myntsort",
+      "E": "gardinstång"
+    },
+    "answer": "B",
+    "questionNumber": 22,
+    "year": 1979,
+    "term": "ht",
+    "source": "1979ht-alla.pdf"
+  },
+  {
+    "word": "dedicera",
+    "options": {
+      "A": "förgöra",
+      "B": "avgöra",
+      "C": "tillägna",
+      "D": "härleda",
+      "E": "avböja"
+    },
+    "answer": "C",
+    "questionNumber": 23,
+    "year": 1979,
+    "term": "ht",
+    "source": "1979ht-alla.pdf"
+  },
+  {
+    "word": "otidig",
+    "options": {
+      "A": "oerfaren",
+      "B": "tidlös",
+      "C": "framtida",
+      "D": "oförskämd",
+      "E": "föråldrad"
+    },
+    "answer": "D",
+    "questionNumber": 24,
+    "year": 1979,
+    "term": "ht",
+    "source": "1979ht-alla.pdf"
+  },
+  {
+    "word": "matrikel",
+    "options": {
+      "A": "mönster",
+      "B": "levnadsregel",
+      "C": "namnförteckning",
+      "D": "handbok",
+      "E": "bokkatalog"
+    },
+    "answer": "C",
+    "questionNumber": 25,
+    "year": 1979,
+    "term": "ht",
+    "source": "1979ht-alla.pdf"
+  },
+  {
+    "word": "oavlåtlig",
+    "options": {
+      "A": "missnöjd",
+      "B": "frimodig",
+      "C": "pålitlig",
+      "D": "misslyckad",
+      "E": "fortlöpande"
+    },
+    "answer": "E",
+    "questionNumber": 26,
+    "year": 1979,
+    "term": "ht",
+    "source": "1979ht-alla.pdf"
+  },
+  {
+    "word": "raljera",
+    "options": {
+      "A": "fantisera",
+      "B": "härma",
+      "C": "skämta",
+      "D": "smita",
+      "E": "fäkta"
+    },
+    "answer": "C",
+    "questionNumber": 27,
+    "year": 1979,
+    "term": "ht",
+    "source": "1979ht-alla.pdf"
+  },
+  {
+    "word": "stävja",
+    "options": {
+      "A": "skydda",
+      "B": "hindra",
+      "C": "beskylla",
+      "D": "utföra",
+      "E": "avstå"
+    },
+    "answer": "B",
+    "questionNumber": 28,
+    "year": 1979,
+    "term": "ht",
+    "source": "1979ht-alla.pdf"
+  },
+  {
+    "word": "frenesi",
+    "options": {
+      "A": "ursinne",
+      "B": "förbittring",
+      "C": "upprymdhet",
+      "D": "noggrannhet",
+      "E": "förslagenhet"
+    },
+    "answer": "A",
+    "questionNumber": 29,
+    "year": 1979,
+    "term": "ht",
+    "source": "1979ht-alla.pdf"
+  },
+  {
+    "word": "genmäla",
+    "options": {
+      "A": "svara",
+      "B": "ersätta",
+      "C": "motbevisa",
+      "D": "angiva",
+      "E": "motarbeta"
+    },
+    "answer": "A",
+    "questionNumber": 30,
+    "year": 1979,
+    "term": "ht",
+    "source": "1979ht-alla.pdf"
+  },
+  {
+    "word": "arrmod",
+    "options": {
+      "A": "tapperhet",
+      "B": "modlöshet",
+      "C": "fattigdom",
+      "D": "illvilja",
+      "E": "fromhet"
+    },
+    "answer": "C",
+    "questionNumber": 1,
+    "year": 1979,
+    "term": "vt",
+    "source": "1979vt-alla.pdf"
+  },
+  {
+    "word": "ingress",
+    "options": {
+      "A": "förebild",
+      "B": "förberedelse",
+      "C": "avbrott",
+      "D": "inblandning",
+      "E": "inledning"
+    },
+    "answer": "E",
+    "questionNumber": 2,
+    "year": 1979,
+    "term": "vt",
+    "source": "1979vt-alla.pdf"
+  },
+  {
+    "word": "beklämd",
+    "options": {
+      "A": "bunden",
+      "B": "skakad",
+      "C": "överlastad",
+      "D": "hänsynslös",
+      "E": "nedstämd"
+    },
+    "answer": "E",
+    "questionNumber": 3,
+    "year": 1979,
+    "term": "vt",
+    "source": "1979vt-alla.pdf"
+  },
+  {
+    "word": "astigmatism",
+    "options": {
+      "A": "talfel",
+      "B": "synfel",
+      "C": "hjärtfel",
+      "D": "blodsjukdom",
+      "E": "hudsjukdom"
+    },
+    "answer": "B",
+    "questionNumber": 4,
+    "year": 1979,
+    "term": "vt",
+    "source": "1979vt-alla.pdf"
+  },
+  {
+    "word": "revidera",
+    "options": {
+      "A": "avvärja",
+      "B": "granska",
+      "C": "förhandla",
+      "D": "återfå",
+      "E": "återställa"
+    },
+    "answer": "B",
+    "questionNumber": 5,
+    "year": 1979,
+    "term": "vt",
+    "source": "1979vt-alla.pdf"
+  },
+  {
+    "word": "autentisk",
+    "options": {
+      "A": "erfaren",
+      "B": "tillförlitlig",
+      "C": "fullständig",
+      "D": "välunderrättad",
+      "E": "betydande"
+    },
+    "answer": "B",
+    "questionNumber": 6,
+    "year": 1979,
+    "term": "vt",
+    "source": "1979vt-alla.pdf"
+  },
+  {
+    "word": "konfession",
+    "options": {
+      "A": "beslag",
+      "B": "förbund",
+      "C": "intrång",
+      "D": "godkännande",
+      "E": "bekännelse"
+    },
+    "answer": "E",
+    "questionNumber": 7,
+    "year": 1979,
+    "term": "vt",
+    "source": "1979vt-alla.pdf"
+  },
+  {
+    "word": "driftig",
+    "options": {
+      "A": "äventyrlig",
+      "B": "framfusig",
+      "C": "företagsam",
+      "D": "lössläppt",
+      "E": "inställsam"
+    },
+    "answer": "C",
+    "questionNumber": 8,
+    "year": 1979,
+    "term": "vt",
+    "source": "1979vt-alla.pdf"
+  },
+  {
+    "word": "migration",
+    "options": {
+      "A": "flyttning",
+      "B": "tudelning",
+      "C": "förminskning",
+      "D": "omställning",
+      "E": "utbrytning"
+    },
+    "answer": "A",
+    "questionNumber": 9,
+    "year": 1979,
+    "term": "vt",
+    "source": "1979vt-alla.pdf"
+  },
+  {
+    "word": "koncis",
+    "options": {
+      "A": "värdefull",
+      "B": "osäker",
+      "C": "underlig",
+      "D": "kortfattad",
+      "E": "tillspetsad"
+    },
+    "answer": "D",
+    "questionNumber": 10,
+    "year": 1979,
+    "term": "vt",
+    "source": "1979vt-alla.pdf"
+  },
+  {
+    "word": "talja",
+    "options": {
+      "A": "kabelrulle",
+      "B": "torkställning",
+      "C": "lyftanordning",
+      "D": "fläktapparat",
+      "E": "måttsticka"
+    },
+    "answer": "C",
+    "questionNumber": 11,
+    "year": 1979,
+    "term": "vt",
+    "source": "1979vt-alla.pdf"
+  },
+  {
+    "word": "kurativ",
+    "options": {
+      "A": "läkande",
+      "B": "lönande",
+      "C": "grundläggande",
+      "D": "bestraffande",
+      "E": "förnedrande"
+    },
+    "answer": "A",
+    "questionNumber": 12,
+    "year": 1979,
+    "term": "vt",
+    "source": "1979vt-alla.pdf"
+  },
+  {
+    "word": "vansklig",
+    "options": {
+      "A": "besvärlig",
+      "B": "fåfäng",
+      "C": "försiktig",
+      "D": "oförnuftig",
+      "E": "eländig"
+    },
+    "answer": "A",
+    "questionNumber": 13,
+    "year": 1979,
+    "term": "vt",
+    "source": "1979vt-alla.pdf"
+  },
+  {
+    "word": "expropriera",
+    "options": {
+      "A": "utföra",
+      "B": "bannlysa",
+      "C": "utnyttja",
+      "D": "belysa",
+      "E": "tvångsinlösa"
+    },
+    "answer": "E",
+    "questionNumber": 14,
+    "year": 1979,
+    "term": "vt",
+    "source": "1979vt-alla.pdf"
+  },
+  {
+    "word": "klausul",
+    "options": {
+      "A": "lagbok",
+      "B": "översikt",
+      "C": "förbehåll",
+      "D": "redogörelse",
+      "E": "dagordning"
+    },
+    "answer": "C",
+    "questionNumber": 15,
+    "year": 1979,
+    "term": "vt",
+    "source": "1979vt-alla.pdf"
+  },
+  {
+    "word": "urbota",
+    "options": {
+      "A": "försonlig",
+      "B": "ohjälplig",
+      "C": "sedvanlig",
+      "D": "återställd",
+      "E": "gammal"
+    },
+    "answer": "B",
+    "questionNumber": 16,
+    "year": 1979,
+    "term": "vt",
+    "source": "1979vt-alla.pdf"
+  },
+  {
+    "word": "antagonism",
+    "options": {
+      "A": "förutsättning",
+      "B": "motsättning",
+      "C": "ohederlighet",
+      "D": "misslyckande",
+      "E": "frånvaro"
+    },
+    "answer": "B",
+    "questionNumber": 17,
+    "year": 1979,
+    "term": "vt",
+    "source": "1979vt-alla.pdf"
+  },
+  {
+    "word": "mjärde",
+    "options": {
+      "A": "fiskeredskap",
+      "B": "kartställ",
+      "C": "utställningsskåp",
+      "D": "skjutvapen",
+      "E": "vägbeläggning"
+    },
+    "answer": "A",
+    "questionNumber": 18,
+    "year": 1979,
+    "term": "vt",
+    "source": "1979vt-alla.pdf"
+  },
+  {
+    "word": "förstulen",
+    "options": {
+      "A": "förstående",
+      "B": "farlig",
+      "C": "drömmande",
+      "D": "hemlighetsfull",
+      "E": "stum"
+    },
+    "answer": "D",
+    "questionNumber": 19,
+    "year": 1979,
+    "term": "vt",
+    "source": "1979vt-alla.pdf"
+  },
+  {
+    "word": "segregera",
+    "options": {
+      "A": "åtskilja",
+      "B": "avlagra",
+      "C": "avsluta",
+      "D": "anlita",
+      "E": "fräta"
+    },
+    "answer": "A",
+    "questionNumber": 20,
+    "year": 1979,
+    "term": "vt",
+    "source": "1979vt-alla.pdf"
+  },
+  {
+    "word": "pur",
+    "options": {
+      "A": "dov",
+      "B": "trist",
+      "C": "rosig",
+      "D": "glad",
+      "E": "ren"
+    },
+    "answer": "E",
+    "questionNumber": 21,
+    "year": 1979,
+    "term": "vt",
+    "source": "1979vt-alla.pdf"
+  },
+  {
+    "word": "estimera",
+    "options": {
+      "A": "anlägga",
+      "B": "fördröja",
+      "C": "utträda",
+      "D": "återbetala",
+      "E": "värdera"
+    },
+    "answer": "E",
+    "questionNumber": 22,
+    "year": 1979,
+    "term": "vt",
+    "source": "1979vt-alla.pdf"
+  },
+  {
+    "word": "vederhäftig",
+    "options": {
+      "A": "pålitlig",
+      "B": "motstridig",
+      "C": "allvarlig",
+      "D": "hämndlysten",
+      "E": "upprörd"
+    },
+    "answer": "A",
+    "questionNumber": 23,
+    "year": 1979,
+    "term": "vt",
+    "source": "1979vt-alla.pdf"
+  },
+  {
+    "word": "substitut",
+    "options": {
+      "A": "inrättning",
+      "B": "avspärrning",
+      "C": "ersättning",
+      "D": "åtagande",
+      "E": "avgörande"
+    },
+    "answer": "C",
+    "questionNumber": 24,
+    "year": 1979,
+    "term": "vt",
+    "source": "1979vt-alla.pdf"
+  },
+  {
+    "word": "tillmäta",
+    "options": {
+      "A": "tillsända",
+      "B": "tillgodose",
+      "C": "tillerkänna",
+      "D": "tillåta",
+      "E": "tillföra"
+    },
+    "answer": "C",
+    "questionNumber": 25,
+    "year": 1979,
+    "term": "vt",
+    "source": "1979vt-alla.pdf"
+  },
+  {
+    "word": "besticka",
+    "options": {
+      "A": "irritera",
+      "B": "överdriva",
+      "C": "uppskjuta",
+      "D": "såra",
+      "E": "muta"
+    },
+    "answer": "E",
+    "questionNumber": 26,
+    "year": 1979,
+    "term": "vt",
+    "source": "1979vt-alla.pdf"
+  },
+  {
+    "word": "adept",
+    "options": {
+      "A": "släkting",
+      "B": "delägare",
+      "C": "vän",
+      "D": "lärjunge",
+      "E": "fånge"
+    },
+    "answer": "D",
+    "questionNumber": 27,
+    "year": 1979,
+    "term": "vt",
+    "source": "1979vt-alla.pdf"
+  },
+  {
+    "word": "arkipelag",
+    "options": {
+      "A": "fornfynd",
+      "B": "byggnadskonst",
+      "C": "ögrupp",
+      "D": "polaris",
+      "E": "havsbotten"
+    },
+    "answer": "C",
+    "questionNumber": 28,
+    "year": 1979,
+    "term": "vt",
+    "source": "1979vt-alla.pdf"
+  },
+  {
+    "word": "retorik",
+    "options": {
+      "A": "storsinthet",
+      "B": "smakfullhet",
+      "C": "vältalighet",
+      "D": "uthållighet",
+      "E": "avhållsamhet"
+    },
+    "answer": "C",
+    "questionNumber": 29,
+    "year": 1979,
+    "term": "vt",
+    "source": "1979vt-alla.pdf"
+  },
+  {
+    "word": "favör",
+    "options": {
+      "A": "bedrift",
+      "B": "måtta",
+      "C": "förmån",
+      "D": "avsikt",
+      "E": "samtycke"
+    },
+    "answer": "C",
+    "questionNumber": 30,
+    "year": 1979,
+    "term": "vt",
+    "source": "1979vt-alla.pdf"
+  },
+  {
+    "word": "kanjon",
+    "options": {
+      "A": "grotta",
+      "B": "bergskam",
+      "C": "dalgång",
+      "D": "älvmynning",
+      "E": "vattenkaskad"
+    },
+    "answer": "C",
+    "questionNumber": 1,
+    "year": 1978,
+    "term": "ht",
+    "source": "1978ht-alla.pdf"
+  },
+  {
+    "word": "burdus",
+    "options": {
+      "A": "stark",
+      "B": "häftig",
+      "C": "slagfärdig",
+      "D": "falsk",
+      "E": "grym"
+    },
+    "answer": "E",
+    "questionNumber": 2,
+    "year": 1978,
+    "term": "ht",
+    "source": "1978ht-alla.pdf"
+  },
+  {
+    "word": "dagtinga",
+    "options": {
+      "A": "köpslå",
+      "B": "avtala",
+      "C": "beställa",
+      "D": "belysa",
+      "E": "bedraga"
+    },
+    "answer": "B",
+    "questionNumber": 3,
+    "year": 1978,
+    "term": "ht",
+    "source": "1978ht-alla.pdf"
+  },
+  {
+    "word": "deklamation",
+    "options": {
+      "A": "bifall",
+      "B": "överklagande",
+      "C": "förhör",
+      "D": "upprop",
+      "E": "uppläsning"
+    },
+    "answer": "E",
+    "questionNumber": 4,
+    "year": 1978,
+    "term": "ht",
+    "source": "1978ht-alla.pdf"
+  },
+  {
+    "word": "timid",
+    "options": {
+      "A": "blyg",
+      "B": "omogen",
+      "C": "anständig",
+      "D": "sund",
+      "E": "belåten"
+    },
+    "answer": "A",
+    "questionNumber": 5,
+    "year": 1978,
+    "term": "ht",
+    "source": "1978ht-alla.pdf"
+  },
+  {
+    "word": "bivack",
+    "options": {
+      "A": "isblock",
+      "B": "fångstgrop",
+      "C": "matförråd",
+      "D": "nattläger",
+      "E": "truppavdelning"
+    },
+    "answer": "D",
+    "questionNumber": 6,
+    "year": 1978,
+    "term": "ht",
+    "source": "1978ht-alla.pdf"
+  },
+  {
+    "word": "sakral",
+    "options": {
+      "A": "fridlyst",
+      "B": "bitter",
+      "C": "hånfull",
+      "D": "hemlig",
+      "E": "helig"
+    },
+    "answer": "E",
+    "questionNumber": 7,
+    "year": 1978,
+    "term": "ht",
+    "source": "1978ht-alla.pdf"
+  },
+  {
+    "word": "vederlag",
+    "options": {
+      "A": "motstånd",
+      "B": "motbevisning",
+      "C": "ersättning",
+      "D": "utväxling",
+      "E": "garanti"
+    },
+    "answer": "C",
+    "questionNumber": 8,
+    "year": 1978,
+    "term": "ht",
+    "source": "1978ht-alla.pdf"
+  },
+  {
+    "word": "kuriositet",
+    "options": {
+      "A": "tveksamhet",
+      "B": "omtänksamhet",
+      "C": "motsträvighet",
+      "D": "märkvärdighet",
+      "E": "nyfikenhet"
+    },
+    "answer": "D",
+    "questionNumber": 9,
+    "year": 1978,
+    "term": "ht",
+    "source": "1978ht-alla.pdf"
+  },
+  {
+    "word": "vidimera",
+    "options": {
+      "A": "återställa",
+      "B": "förnya",
+      "C": "förkasta",
+      "D": "intyga",
+      "E": "påskina"
+    },
+    "answer": "D",
+    "questionNumber": 10,
+    "year": 1978,
+    "term": "ht",
+    "source": "1978ht-alla.pdf"
+  },
+  {
+    "word": "flegmatisk",
+    "options": {
+      "A": "sävlig",
+      "B": "efterbliven",
+      "C": "svag",
+      "D": "tveksam",
+      "E": "dum"
+    },
+    "answer": "A",
+    "questionNumber": 11,
+    "year": 1978,
+    "term": "ht",
+    "source": "1978ht-alla.pdf"
+  },
+  {
+    "word": "grassera",
+    "options": {
+      "A": "inbjuda",
+      "B": "betona",
+      "C": "härja",
+      "D": "hylla",
+      "E": "stoppa"
+    },
+    "answer": "C",
+    "questionNumber": 12,
+    "year": 1978,
+    "term": "ht",
+    "source": "1978ht-alla.pdf"
+  },
+  {
+    "word": "kornisch",
+    "options": {
+      "A": "dialekt",
+      "B": "brevsamling",
+      "C": "ädelsten",
+      "D": "gardinlist",
+      "E": "krigsfartyg"
+    },
+    "answer": "D",
+    "questionNumber": 13,
+    "year": 1978,
+    "term": "ht",
+    "source": "1978ht-alla.pdf"
+  },
+  {
+    "word": "simultan",
+    "options": {
+      "A": "samtidig",
+      "B": "opassande",
+      "C": "beskyddande",
+      "D": "nyckfull",
+      "E": "uppenbar"
+    },
+    "answer": "A",
+    "questionNumber": 14,
+    "year": 1978,
+    "term": "ht",
+    "source": "1978ht-alla.pdf"
+  },
+  {
+    "word": "emancipation",
+    "options": {
+      "A": "renlevnad",
+      "B": "frigörelse",
+      "C": "uthållighet",
+      "D": "uppståndelse",
+      "E": "utveckling"
+    },
+    "answer": "B",
+    "questionNumber": 15,
+    "year": 1978,
+    "term": "ht",
+    "source": "1978ht-alla.pdf"
+  },
+  {
+    "word": "sorgfällig",
+    "options": {
+      "A": "bekymmersfri",
+      "B": "beklaglig",
+      "C": "noggrann",
+      "D": "otröstlig",
+      "E": "orolig"
+    },
+    "answer": "C",
+    "questionNumber": 16,
+    "year": 1978,
+    "term": "ht",
+    "source": "1978ht-alla.pdf"
+  },
+  {
+    "word": "kompromettera",
+    "options": {
+      "A": "sammanställa",
+      "B": "lovorda",
+      "C": "fullfölja",
+      "D": "misstänkliggöra",
+      "E": "behärska"
+    },
+    "answer": "D",
+    "questionNumber": 17,
+    "year": 1978,
+    "term": "ht",
+    "source": "1978ht-alla.pdf"
+  },
+  {
+    "word": "emfas",
+    "options": {
+      "A": "inledning",
+      "B": "slut",
+      "C": "eftertryck",
+      "D": "tecken",
+      "E": "upprepning"
+    },
+    "answer": "C",
+    "questionNumber": 18,
+    "year": 1978,
+    "term": "ht",
+    "source": "1978ht-alla.pdf"
+  },
+  {
+    "word": "eloge",
+    "options": {
+      "A": "beröm",
+      "B": "lyckokänsla",
+      "C": "hedersplats",
+      "D": "tacksamhet",
+      "E": "prydnad"
+    },
+    "answer": "A",
+    "questionNumber": 19,
+    "year": 1978,
+    "term": "ht",
+    "source": "1978ht-alla.pdf"
+  },
+  {
+    "word": "indikera",
+    "options": {
+      "A": "förneka",
+      "B": "begära",
+      "C": "färga",
+      "D": "antyda",
+      "E": "utjämna"
+    },
+    "answer": "D",
+    "questionNumber": 20,
+    "year": 1978,
+    "term": "ht",
+    "source": "1978ht-alla.pdf"
+  },
+  {
+    "word": "herbarium",
+    "options": {
+      "A": "växtsamling",
+      "B": "fjärilssamling",
+      "C": "boksamling",
+      "D": "frimärkssamling",
+      "E": "stensamling"
+    },
+    "answer": "A",
+    "questionNumber": 21,
+    "year": 1978,
+    "term": "ht",
+    "source": "1978ht-alla.pdf"
+  },
+  {
+    "word": "affekterad",
+    "options": {
+      "A": "tillmötesgående",
+      "B": "tillgiven",
+      "C": "tillgjord",
+      "D": "tillknäppt",
+      "E": "tilltagsen"
+    },
+    "answer": "C",
+    "questionNumber": 22,
+    "year": 1978,
+    "term": "ht",
+    "source": "1978ht-alla.pdf"
+  },
+  {
+    "word": "indiskretion",
+    "options": {
+      "A": "likgiltighet",
+      "B": "oåtkomlighet",
+      "C": "osäkerhet",
+      "D": "försynthet",
+      "E": "taktlöshet"
+    },
+    "answer": "E",
+    "questionNumber": 23,
+    "year": 1978,
+    "term": "ht",
+    "source": "1978ht-alla.pdf"
+  },
+  {
+    "word": "dressin",
+    "options": {
+      "A": "godsbehållare",
+      "B": "höjdmätare",
+      "C": "kopplingsdosa",
+      "D": "liftkorg",
+      "E": "järnvägsfordon"
+    },
+    "answer": "E",
+    "questionNumber": 24,
+    "year": 1978,
+    "term": "ht",
+    "source": "1978ht-alla.pdf"
+  },
+  {
+    "word": "notorisk",
+    "options": {
+      "A": "beryktad",
+      "B": "bråkig",
+      "C": "rörlig",
+      "D": "förnäm",
+      "E": "flitig"
+    },
+    "answer": "A",
+    "questionNumber": 25,
+    "year": 1978,
+    "term": "ht",
+    "source": "1978ht-alla.pdf"
+  },
+  {
+    "word": "ackumulera",
+    "options": {
+      "A": "tömma",
+      "B": "hopa",
+      "C": "förvärva",
+      "D": "underhandla",
+      "E": "upphäva"
+    },
+    "answer": "B",
+    "questionNumber": 26,
+    "year": 1978,
+    "term": "ht",
+    "source": "1978ht-alla.pdf"
+  },
+  {
+    "word": "korrosion",
+    "options": {
+      "A": "frätning",
+      "B": "ansvällning",
+      "C": "utjämning",
+      "D": "förstoring",
+      "E": "omstörtning"
+    },
+    "answer": "A",
+    "questionNumber": 27,
+    "year": 1978,
+    "term": "ht",
+    "source": "1978ht-alla.pdf"
+  },
+  {
+    "word": "perifer",
+    "options": {
+      "A": "omfattande",
+      "B": "likvärdig",
+      "C": "oväsentlig",
+      "D": "osammanhängande",
+      "E": "genomträngande"
+    },
+    "answer": "C",
+    "questionNumber": 28,
+    "year": 1978,
+    "term": "ht",
+    "source": "1978ht-alla.pdf"
+  },
+  {
+    "word": "pretention",
+    "options": {
+      "A": "förmån",
+      "B": "förebråelse",
+      "C": "uppsåt",
+      "D": "anspråk",
+      "E": "bedrift"
+    },
+    "answer": "D",
+    "questionNumber": 29,
+    "year": 1978,
+    "term": "ht",
+    "source": "1978ht-alla.pdf"
+  },
+  {
+    "word": "assurera",
+    "options": {
+      "A": "eftersträva",
+      "B": "försäkra",
+      "C": "beslagta",
+      "D": "bistå",
+      "E": "tillskriva"
+    },
+    "answer": "B",
+    "questionNumber": 30,
+    "year": 1978,
+    "term": "ht",
+    "source": "1978ht-alla.pdf"
+  },
+  {
+    "word": "koncept",
+    "options": {
+      "A": "utkast",
+      "B": "uppslag",
+      "C": "uppgift",
+      "D": "förvärv",
+      "E": "beräkning"
+    },
+    "answer": "A",
+    "questionNumber": 1,
+    "year": 1978,
+    "term": "vt",
+    "source": "1978vt-alla.pdf"
+  },
+  {
+    "word": "latent",
+    "options": {
+      "A": "kortfattad",
+      "B": "tillåten",
+      "C": "tydlig",
+      "D": "osäker",
+      "E": "dold"
+    },
+    "answer": "E",
+    "questionNumber": 2,
+    "year": 1978,
+    "term": "vt",
+    "source": "1978vt-alla.pdf"
+  },
+  {
+    "word": "förvälla",
+    "options": {
+      "A": "stycka",
+      "B": "salta",
+      "C": "avsmaka",
+      "D": "koka",
+      "E": "vispa"
+    },
+    "answer": "D",
+    "questionNumber": 3,
+    "year": 1978,
+    "term": "vt",
+    "source": "1978vt-alla.pdf"
+  },
+  {
+    "word": "dekret",
+    "options": {
+      "A": "avsöndring",
+      "B": "förordning",
+      "C": "förfall",
+      "D": "förfrågan",
+      "E": "avkok"
+    },
+    "answer": "B",
+    "questionNumber": 4,
+    "year": 1978,
+    "term": "vt",
+    "source": "1978vt-alla.pdf"
+  },
+  {
+    "word": "underlåta",
+    "options": {
+      "A": "ursäkta",
+      "B": "betvivla",
+      "C": "fördöma",
+      "D": "försumma",
+      "E": "förneka"
+    },
+    "answer": "D",
+    "questionNumber": 5,
+    "year": 1978,
+    "term": "vt",
+    "source": "1978vt-alla.pdf"
+  },
+  {
+    "word": "fragmentarisk",
+    "options": {
+      "A": "ofullständig",
+      "B": "tillämplig",
+      "C": "förnöjsam",
+      "D": "medlidsam",
+      "E": "kortsiktig"
+    },
+    "answer": "A",
+    "questionNumber": 6,
+    "year": 1978,
+    "term": "vt",
+    "source": "1978vt-alla.pdf"
+  },
+  {
+    "word": "bulvan",
+    "options": {
+      "A": "ombud",
+      "B": "livvakt",
+      "C": "hälare",
+      "D": "anhängare",
+      "E": "uppassare"
+    },
+    "answer": "A",
+    "questionNumber": 7,
+    "year": 1978,
+    "term": "vt",
+    "source": "1978vt-alla.pdf"
+  },
+  {
+    "word": "sondera",
+    "options": {
+      "A": "undergräva",
+      "B": "utforska",
+      "C": "utvälja",
+      "D": "utdöma",
+      "E": "rensa"
+    },
+    "answer": "B",
+    "questionNumber": 8,
+    "year": 1978,
+    "term": "vt",
+    "source": "1978vt-alla.pdf"
+  },
+  {
+    "word": "trivial",
+    "options": {
+      "A": "falsk",
+      "B": "obetydlig",
+      "C": "ängslig",
+      "D": "onaturlig",
+      "E": "smaklös"
+    },
+    "answer": "B",
+    "questionNumber": 9,
+    "year": 1978,
+    "term": "vt",
+    "source": "1978vt-alla.pdf"
+  },
+  {
+    "word": "villrådig",
+    "options": {
+      "A": "förhastad",
+      "B": "ansträngd",
+      "C": "obeslutsam",
+      "D": "vilseledd",
+      "E": "omedgörlig"
+    },
+    "answer": "C",
+    "questionNumber": 10,
+    "year": 1978,
+    "term": "vt",
+    "source": "1978vt-alla.pdf"
+  },
+  {
+    "word": "kontrovers",
+    "options": {
+      "A": "skuld",
+      "B": "tvist",
+      "C": "huvudinnehåll",
+      "D": "motpol",
+      "E": "överläggning"
+    },
+    "answer": "B",
+    "questionNumber": 11,
+    "year": 1978,
+    "term": "vt",
+    "source": "1978vt-alla.pdf"
+  },
+  {
+    "word": "akut",
+    "options": {
+      "A": "otäck",
+      "B": "svävande",
+      "C": "överhängande",
+      "D": "godartad",
+      "E": "obotlig"
+    },
+    "answer": "C",
+    "questionNumber": 12,
+    "year": 1978,
+    "term": "vt",
+    "source": "1978vt-alla.pdf"
+  },
+  {
+    "word": "lakonisk",
+    "options": {
+      "A": "ostadig",
+      "B": "spetsig",
+      "C": "tjänstvillig",
+      "D": "löjlig",
+      "E": "kortfattad"
+    },
+    "answer": "E",
+    "questionNumber": 13,
+    "year": 1978,
+    "term": "vt",
+    "source": "1978vt-alla.pdf"
+  },
+  {
+    "word": "sel",
+    "options": {
+      "A": "strömfåra",
+      "B": "landtunga",
+      "C": "vadställe",
+      "D": "strandremsa",
+      "E": "lugnvatten"
+    },
+    "answer": "E",
+    "questionNumber": 14,
+    "year": 1978,
+    "term": "vt",
+    "source": "1978vt-alla.pdf"
+  },
+  {
+    "word": "avog",
+    "options": {
+      "A": "omvänd",
+      "B": "beroende",
+      "C": "försakad",
+      "D": "fientlig",
+      "E": "dåraktig"
+    },
+    "answer": "D",
+    "questionNumber": 15,
+    "year": 1978,
+    "term": "vt",
+    "source": "1978vt-alla.pdf"
+  },
+  {
+    "word": "penetrera",
+    "options": {
+      "A": "sönderfalla",
+      "B": "fördela",
+      "C": "motsäga",
+      "D": "bevisa",
+      "E": "genomtränga"
+    },
+    "answer": "E",
+    "questionNumber": 16,
+    "year": 1978,
+    "term": "vt",
+    "source": "1978vt-alla.pdf"
+  },
+  {
+    "word": "oskälig",
+    "options": {
+      "A": "nyckfull",
+      "B": "orubblig",
+      "C": "egendomlig",
+      "D": "orimlig",
+      "E": "uttrycklig"
+    },
+    "answer": "D",
+    "questionNumber": 17,
+    "year": 1978,
+    "term": "vt",
+    "source": "1978vt-alla.pdf"
+  },
+  {
+    "word": "distinktion",
+    "options": {
+      "A": "meningsutbyte",
+      "B": "order",
+      "C": "lösning",
+      "D": "åtskillnad",
+      "E": "strömning"
+    },
+    "answer": "D",
+    "questionNumber": 18,
+    "year": 1978,
+    "term": "vt",
+    "source": "1978vt-alla.pdf"
+  },
+  {
+    "word": "äska",
+    "options": {
+      "A": "berömma",
+      "B": "befrämja",
+      "C": "berika",
+      "D": "behaga",
+      "E": "begära"
+    },
+    "answer": "E",
+    "questionNumber": 19,
+    "year": 1978,
+    "term": "vt",
+    "source": "1978vt-alla.pdf"
+  },
+  {
+    "word": "renommé",
+    "options": {
+      "A": "kvarleva",
+      "B": "föreskrift",
+      "C": "ombildning",
+      "D": "anseende",
+      "E": "sammanfattning"
+    },
+    "answer": "D",
+    "questionNumber": 20,
+    "year": 1978,
+    "term": "vt",
+    "source": "1978vt-alla.pdf"
+  },
+  {
+    "word": "förmäten",
+    "options": {
+      "A": "inställsam",
+      "B": "övermodig",
+      "C": "listig",
+      "D": "blyg",
+      "E": "snusförnuftig"
+    },
+    "answer": "B",
+    "questionNumber": 21,
+    "year": 1978,
+    "term": "vt",
+    "source": "1978vt-alla.pdf"
+  },
+  {
+    "word": "drista",
+    "options": {
+      "A": "öva",
+      "B": "våga",
+      "C": "tro",
+      "D": "svika",
+      "E": "såra"
+    },
+    "answer": "B",
+    "questionNumber": 22,
+    "year": 1978,
+    "term": "vt",
+    "source": "1978vt-alla.pdf"
+  },
+  {
+    "word": "novis",
+    "options": {
+      "A": "allvetare",
+      "B": "nybörjare",
+      "C": "hedersvakt",
+      "D": "budbärare",
+      "E": "dagdrömmare"
+    },
+    "answer": "B",
+    "questionNumber": 23,
+    "year": 1978,
+    "term": "vt",
+    "source": "1978vt-alla.pdf"
+  },
+  {
+    "word": "förlegad",
+    "options": {
+      "A": "borttappad",
+      "B": "krånglig",
+      "C": "omodern",
+      "D": "slö",
+      "E": "tillintetgjord"
+    },
+    "answer": "C",
+    "questionNumber": 24,
+    "year": 1978,
+    "term": "vt",
+    "source": "1978vt-alla.pdf"
+  },
+  {
+    "word": "premiss",
+    "options": {
+      "A": "upptakt",
+      "B": "förutsättning",
+      "C": "belöning",
+      "D": "mönster",
+      "E": "hänvisning"
+    },
+    "answer": "B",
+    "questionNumber": 25,
+    "year": 1978,
+    "term": "vt",
+    "source": "1978vt-alla.pdf"
+  },
+  {
+    "word": "resistent",
+    "options": {
+      "A": "motståndskraftig",
+      "B": "förbehållsam",
+      "C": "lättpåverkad",
+      "D": "hjälpsam",
+      "E": "innehållsrik"
+    },
+    "answer": "A",
+    "questionNumber": 26,
+    "year": 1978,
+    "term": "vt",
+    "source": "1978vt-alla.pdf"
+  },
+  {
+    "word": "vedertagen",
+    "options": {
+      "A": "förutbestämd",
+      "B": "erkänd",
+      "C": "certappad",
+      "D": "avstängd",
+      "E": "tvingande"
+    },
+    "answer": "B",
+    "questionNumber": 27,
+    "year": 1978,
+    "term": "vt",
+    "source": "1978vt-alla.pdf"
+  },
+  {
+    "word": "ikon",
+    "options": {
+      "A": "präst",
+      "B": "korgosse",
+      "C": "rökelse",
+      "D": "spira",
+      "E": "helgonbild"
+    },
+    "answer": "E",
+    "questionNumber": 28,
+    "year": 1978,
+    "term": "vt",
+    "source": "1978vt-alla.pdf"
+  },
+  {
+    "word": "reprimand",
+    "options": {
+      "A": "tillrättavisning",
+      "B": "upprepning",
+      "C": "besked",
+      "D": "misstag",
+      "E": "återtåg"
+    },
+    "answer": "A",
+    "questionNumber": 29,
+    "year": 1978,
+    "term": "vt",
+    "source": "1978vt-alla.pdf"
+  },
+  {
+    "word": "inhibera",
+    "options": {
+      "A": "inbjuda",
+      "B": "infria",
+      "C": "inställa",
+      "D": "inträffa",
+      "E": "inbilla"
+    },
+    "answer": "C",
+    "questionNumber": 30,
+    "year": 1978,
+    "term": "vt",
+    "source": "1978vt-alla.pdf"
+  },
+  {
+    "word": "stetoskop",
+    "options": {
+      "A": "hörlur",
+      "B": "bildskärm",
+      "C": "kikare",
+      "D": "skjutmått",
+      "E": "strömfördelare"
+    },
+    "answer": "A",
+    "questionNumber": 1,
+    "year": 1977,
+    "term": "ht",
+    "source": "1977ht-alla.pdf"
+  },
+  {
+    "word": "dupera",
+    "options": {
+      "A": "mångfaldiga",
+      "B": "lura",
+      "C": "betvivla",
+      "D": "blanda",
+      "E": "nedlägga"
+    },
+    "answer": "B",
+    "questionNumber": 2,
+    "year": 1977,
+    "term": "ht",
+    "source": "1977ht-alla.pdf"
+  },
+  {
+    "word": "gratifikation",
+    "options": {
+      "A": "lyckönskan",
+      "B": "klander",
+      "C": "belöning",
+      "D": "dom",
+      "E": "examensbevis"
+    },
+    "answer": "C",
+    "questionNumber": 3,
+    "year": 1977,
+    "term": "ht",
+    "source": "1977ht-alla.pdf"
+  },
+  {
+    "word": "ohägn",
+    "options": {
+      "A": "fara",
+      "B": "skada",
+      "C": "öppenhet",
+      "D": "frihet",
+      "E": "falskhet"
+    },
+    "answer": "C",
+    "questionNumber": 4,
+    "year": 1977,
+    "term": "ht",
+    "source": "1977ht-alla.pdf"
+  },
+  {
+    "word": "presumtiv",
+    "options": {
+      "A": "sjuklig",
+      "B": "förmodad",
+      "C": "föråldrad",
+      "D": "oförskämd",
+      "E": "kunnig"
+    },
+    "answer": "B",
+    "questionNumber": 5,
+    "year": 1977,
+    "term": "ht",
+    "source": "1977ht-alla.pdf"
+  },
+  {
+    "word": "makadam",
+    "options": {
+      "A": "krossten",
+      "B": "vävnad",
+      "C": "kvinna",
+      "D": "vägren",
+      "E": "industriavfall"
+    },
+    "answer": "A",
+    "questionNumber": 6,
+    "year": 1977,
+    "term": "ht",
+    "source": "1977ht-alla.pdf"
+  },
+  {
+    "word": "moderera",
+    "options": {
+      "A": "förnya",
+      "B": "anpassa",
+      "C": "bevara",
+      "D": "avveckla",
+      "E": "fästa"
+    },
+    "answer": "B",
+    "questionNumber": 7,
+    "year": 1977,
+    "term": "ht",
+    "source": "1977ht-alla.pdf"
+  },
+  {
+    "word": "epitet",
+    "options": {
+      "A": "gravskrift",
+      "B": "slutord",
+      "C": "inledning",
+      "D": "benämning",
+      "E": "skrivelse"
+    },
+    "answer": "D",
+    "questionNumber": 8,
+    "year": 1977,
+    "term": "ht",
+    "source": "1977ht-alla.pdf"
+  },
+  {
+    "word": "manometer",
+    "options": {
+      "A": "versmått",
+      "B": "prislista",
+      "C": "tryckmätare",
+      "D": "vattenpass",
+      "E": "elmätare"
+    },
+    "answer": "C",
+    "questionNumber": 9,
+    "year": 1977,
+    "term": "ht",
+    "source": "1977ht-alla.pdf"
+  },
+  {
+    "word": "aversion",
+    "options": {
+      "A": "motstånd",
+      "B": "motvilja",
+      "C": "ilska",
+      "D": "tveksamhet",
+      "E": "förtvivlan"
+    },
+    "answer": "B",
+    "questionNumber": 10,
+    "year": 1977,
+    "term": "ht",
+    "source": "1977ht-alla.pdf"
+  },
+  {
+    "word": "annullera",
+    "options": {
+      "A": "tillmötesgå",
+      "B": "avgöra",
+      "C": "beslagta",
+      "D": "upphäva",
+      "E": "minska"
+    },
+    "answer": "D",
+    "questionNumber": 11,
+    "year": 1977,
+    "term": "ht",
+    "source": "1977ht-alla.pdf"
+  },
+  {
+    "word": "appendix",
+    "options": {
+      "A": "bihang",
+      "B": "register",
+      "C": "anvisning",
+      "D": "bokslut",
+      "E": "arkiv"
+    },
+    "answer": "A",
+    "questionNumber": 12,
+    "year": 1977,
+    "term": "ht",
+    "source": "1977ht-alla.pdf"
+  },
+  {
+    "word": "integritet",
+    "options": {
+      "A": "okänslighet",
+      "B": "okränkbarhet",
+      "C": "jämvikt",
+      "D": "förtryck",
+      "E": "ansvarsfrihet"
+    },
+    "answer": "B",
+    "questionNumber": 13,
+    "year": 1977,
+    "term": "ht",
+    "source": "1977ht-alla.pdf"
+  },
+  {
+    "word": "imaginär",
+    "options": {
+      "A": "ökänd",
+      "B": "allsidig",
+      "C": "trolig",
+      "D": "overklig",
+      "E": "oväntad"
+    },
+    "answer": "D",
+    "questionNumber": 14,
+    "year": 1977,
+    "term": "ht",
+    "source": "1977ht-alla.pdf"
+  },
+  {
+    "word": "transitering",
+    "options": {
+      "A": "genomförsel",
+      "B": "förvandling",
+      "C": "utsändning",
+      "D": "förvisning",
+      "E": "kontroll"
+    },
+    "answer": "A",
+    "questionNumber": 15,
+    "year": 1977,
+    "term": "ht",
+    "source": "1977ht-alla.pdf"
+  },
+  {
+    "word": "kalfaktor",
+    "options": {
+      "A": "uppassare",
+      "B": "domare",
+      "C": "medbrottsling",
+      "D": "godsägare",
+      "E": "lantmätare"
+    },
+    "answer": "A",
+    "questionNumber": 16,
+    "year": 1977,
+    "term": "ht",
+    "source": "1977ht-alla.pdf"
+  },
+  {
+    "word": "omen",
+    "options": {
+      "A": "misstanke",
+      "B": "anklagelse",
+      "C": "förebud",
+      "D": "synvilla",
+      "E": "bevis"
+    },
+    "answer": "C",
+    "questionNumber": 17,
+    "year": 1977,
+    "term": "ht",
+    "source": "1977ht-alla.pdf"
+  },
+  {
+    "word": "aningslös",
+    "options": {
+      "A": "självklar",
+      "B": "godtrogen",
+      "C": "passiv",
+      "D": "upprymd",
+      "E": "bitter"
+    },
+    "answer": "B",
+    "questionNumber": 18,
+    "year": 1977,
+    "term": "ht",
+    "source": "1977ht-alla.pdf"
+  },
+  {
+    "word": "läkt",
+    "options": {
+      "A": "stängsel",
+      "B": "spricka",
+      "C": "lås",
+      "D": "överbyggnad",
+      "E": "ribba"
+    },
+    "answer": "D",
+    "questionNumber": 19,
+    "year": 1977,
+    "term": "ht",
+    "source": "1977ht-alla.pdf"
+  },
+  {
+    "word": "acklamation",
+    "options": {
+      "A": "kallelse",
+      "B": "klagomål",
+      "C": "tillstånd",
+      "D": "upplysning",
+      "E": "bifall"
+    },
+    "answer": "E",
+    "questionNumber": 20,
+    "year": 1977,
+    "term": "ht",
+    "source": "1977ht-alla.pdf"
+  },
+  {
+    "word": "andäktig",
+    "options": {
+      "A": "uppmärksam",
+      "B": "andfådd",
+      "C": "spännande",
+      "D": "helig",
+      "E": "ödmjuk"
+    },
+    "answer": "D",
+    "questionNumber": 21,
+    "year": 1977,
+    "term": "ht",
+    "source": "1977ht-alla.pdf"
+  },
+  {
+    "word": "burgen",
+    "options": {
+      "A": "förnäm",
+      "B": "artig",
+      "C": "adlig",
+      "D": "välbärgad",
+      "E": "överlägsen"
+    },
+    "answer": "D",
+    "questionNumber": 22,
+    "year": 1977,
+    "term": "ht",
+    "source": "1977ht-alla.pdf"
+  },
+  {
+    "word": "ogin",
+    "options": {
+      "A": "otymplig",
+      "B": "ovillig",
+      "C": "olämplig",
+      "D": "ogiltig",
+      "E": "ofin"
+    },
+    "answer": "B",
+    "questionNumber": 23,
+    "year": 1977,
+    "term": "ht",
+    "source": "1977ht-alla.pdf"
+  },
+  {
+    "word": "konstitutiv",
+    "options": {
+      "A": "fast",
+      "B": "verklig",
+      "C": "utbildad",
+      "D": "påtaglig",
+      "E": "grundläggande"
+    },
+    "answer": "E",
+    "questionNumber": 24,
+    "year": 1977,
+    "term": "ht",
+    "source": "1977ht-alla.pdf"
+  },
+  {
+    "word": "chiffong",
+    "options": {
+      "A": "klänning",
+      "B": "puppa",
+      "C": "skåp",
+      "D": "tyg",
+      "E": "soffa"
+    },
+    "answer": "D",
+    "questionNumber": 25,
+    "year": 1977,
+    "term": "ht",
+    "source": "1977ht-alla.pdf"
+  },
+  {
+    "word": "celeber",
+    "options": {
+      "A": "berömd",
+      "B": "stolt",
+      "C": "elegant",
+      "D": "himmelsk",
+      "E": "besynnerlig"
+    },
+    "answer": "A",
+    "questionNumber": 26,
+    "year": 1977,
+    "term": "ht",
+    "source": "1977ht-alla.pdf"
+  },
+  {
+    "word": "rigorös",
+    "options": {
+      "A": "löjlig",
+      "B": "skrämmande",
+      "C": "kylig",
+      "D": "noggrann",
+      "E": "vansklig"
+    },
+    "answer": "D",
+    "questionNumber": 27,
+    "year": 1977,
+    "term": "ht",
+    "source": "1977ht-alla.pdf"
+  },
+  {
+    "word": "fanerogam",
+    "options": {
+      "A": "svamp",
+      "B": "fågel",
+      "C": "fröväxt",
+      "D": "blötdjur",
+      "E": "insekt"
+    },
+    "answer": "C",
+    "questionNumber": 28,
+    "year": 1977,
+    "term": "ht",
+    "source": "1977ht-alla.pdf"
+  },
+  {
+    "word": "dedikation",
+    "options": {
+      "A": "uppmuntran",
+      "B": "anteckning",
+      "C": "tillägnan",
+      "D": "infall",
+      "E": "belägg"
+    },
+    "answer": "C",
+    "questionNumber": 29,
+    "year": 1977,
+    "term": "ht",
+    "source": "1977ht-alla.pdf"
+  },
+  {
+    "word": "profylaktisk",
+    "options": {
+      "A": "förebyggande",
+      "B": "avgörande",
+      "C": "underlig",
+      "D": "krävande",
+      "E": "föregående"
+    },
+    "answer": "A",
+    "questionNumber": 30,
+    "year": 1977,
+    "term": "ht",
+    "source": "1977ht-alla.pdf"
+  },
+  {
+    "word": "approximativ",
+    "options": {
+      "A": "felaktig",
+      "B": "grundlig",
+      "C": "ungefärlig",
+      "D": "avlägsen",
+      "E": "upprepad"
+    },
+    "answer": "C",
+    "questionNumber": 1,
+    "year": 1977,
+    "term": "vt",
+    "source": "1977vt-alla.pdf"
+  },
+  {
+    "word": "absorbera",
+    "options": {
+      "A": "avgiva",
+      "B": "utdraga",
+      "C": "jämställa",
+      "D": "minska",
+      "E": "upptaga"
+    },
+    "answer": "E",
+    "questionNumber": 2,
+    "year": 1977,
+    "term": "vt",
+    "source": "1977vt-alla.pdf"
+  },
+  {
+    "word": "kartell",
+    "options": {
+      "A": "valv",
+      "B": "fond",
+      "C": "fästning",
+      "D": "sammanslutning",
+      "E": "planritning"
+    },
+    "answer": "D",
+    "questionNumber": 3,
+    "year": 1977,
+    "term": "vt",
+    "source": "1977vt-alla.pdf"
+  },
+  {
+    "word": "distinkt",
+    "options": {
+      "A": "fräck",
+      "B": "tydlig",
+      "C": "sann",
+      "D": "kantig",
+      "E": "rättvis"
+    },
+    "answer": "B",
+    "questionNumber": 4,
+    "year": 1977,
+    "term": "vt",
+    "source": "1977vt-alla.pdf"
+  },
+  {
+    "word": "homogen",
+    "options": {
+      "A": "ojämn",
+      "B": "mänsklig",
+      "C": "avvikande",
+      "D": "enhetlig",
+      "E": "enformig"
+    },
+    "answer": "D",
+    "questionNumber": 5,
+    "year": 1977,
+    "term": "vt",
+    "source": "1977vt-alla.pdf"
+  },
+  {
+    "word": "sensibel",
+    "options": {
+      "A": "vaksam",
+      "B": "ärlig",
+      "C": "känslig",
+      "D": "behaglig",
+      "E": "tilltalande"
+    },
+    "answer": "C",
+    "questionNumber": 6,
+    "year": 1977,
+    "term": "vt",
+    "source": "1977vt-alla.pdf"
+  },
+  {
+    "word": "gebit",
+    "options": {
+      "A": "förkärlek",
+      "B": "intresse",
+      "C": "område",
+      "D": "stil",
+      "E": "ursprung"
+    },
+    "answer": "C",
+    "questionNumber": 7,
+    "year": 1977,
+    "term": "vt",
+    "source": "1977vt-alla.pdf"
+  },
+  {
+    "word": "rangera",
+    "options": {
+      "A": "inhägna",
+      "B": "ordna",
+      "C": "ödelägga",
+      "D": "avskeda",
+      "E": "härja"
+    },
+    "answer": "B",
+    "questionNumber": 8,
+    "year": 1977,
+    "term": "vt",
+    "source": "1977vt-alla.pdf"
+  },
+  {
+    "word": "exponera",
+    "options": {
+      "A": "uttrycka",
+      "B": "utföra",
+      "C": "utställa",
+      "D": "utreda",
+      "E": "utfästa"
+    },
+    "answer": "C",
+    "questionNumber": 9,
+    "year": 1977,
+    "term": "vt",
+    "source": "1977vt-alla.pdf"
+  },
+  {
+    "word": "avlysa",
+    "options": {
+      "A": "förneka",
+      "B": "ersätta",
+      "C": "utropa",
+      "D": "inställa",
+      "E": "döma"
+    },
+    "answer": "D",
+    "questionNumber": 10,
+    "year": 1977,
+    "term": "vt",
+    "source": "1977vt-alla.pdf"
+  },
+  {
+    "word": "obscen",
+    "options": {
+      "A": "förhatlig",
+      "B": "brysk",
+      "C": "dunkel",
+      "D": "oanständig",
+      "E": "oärlig"
+    },
+    "answer": "D",
+    "questionNumber": 11,
+    "year": 1977,
+    "term": "vt",
+    "source": "1977vt-alla.pdf"
+  },
+  {
+    "word": "dementi",
+    "options": {
+      "A": "glömska",
+      "B": "avmattning",
+      "C": "överdrift",
+      "D": "oförstånd",
+      "E": "förnekande"
+    },
+    "answer": "E",
+    "questionNumber": 12,
+    "year": 1977,
+    "term": "vt",
+    "source": "1977vt-alla.pdf"
+  },
+  {
+    "word": "fadd",
+    "options": {
+      "A": "smaklös",
+      "B": "tveksam",
+      "C": "skamlig",
+      "D": "klen",
+      "E": "klumpig"
+    },
+    "answer": "A",
+    "questionNumber": 13,
+    "year": 1977,
+    "term": "vt",
+    "source": "1977vt-alla.pdf"
+  },
+  {
+    "word": "revision",
+    "options": {
+      "A": "översättning",
+      "B": "granskning",
+      "C": "uppträdande",
+      "D": "minnesbild",
+      "E": "återseende"
+    },
+    "answer": "B",
+    "questionNumber": 14,
+    "year": 1977,
+    "term": "vt",
+    "source": "1977vt-alla.pdf"
+  },
+  {
+    "word": "kongruens",
+    "options": {
+      "A": "överensstämmelse",
+      "B": "sammanstötning",
+      "C": "slutsats",
+      "D": "förbindelse",
+      "E": "avvikelse"
+    },
+    "answer": "A",
+    "questionNumber": 15,
+    "year": 1977,
+    "term": "vt",
+    "source": "1977vt-alla.pdf"
   }
 ]
