@@ -1,0 +1,142 @@
+[
+  {
+    "word": "hysa agg",
+    "options": {
+      "A": "vara spydig",
+      "B": "kritisera",
+      "C": "vara fientligt inställd",
+      "D": "irriterar",
+      "E": "göra någon illa"
+    },
+    "answer": "C",
+    "questionNumber": 1,
+    "year": 2024,
+    "term": "ht"
+  },
+  {
+    "word": "kontinuum",
+    "options": {
+      "A": "upplösning",
+      "B": "evigt liv",
+      "C": "motsatsförhållande",
+      "D": "obruten följd",
+      "E": "förlängning"
+    },
+    "answer": "D",
+    "questionNumber": 2,
+    "year": 2024,
+    "term": "ht"
+  },
+  {
+    "word": "vimmelkantig",
+    "options": {
+      "A": "yr",
+      "B": "trött",
+      "C": "osäker",
+      "D": "klumpig",
+      "E": "hjälplös"
+    },
+    "answer": "A",
+    "questionNumber": 3,
+    "year": 2024,
+    "term": "ht"
+  },
+  {
+    "word": "krill",
+    "options": {
+      "A": "korall",
+      "B": "sjögräs",
+      "C": "parasit",
+      "D": "kräftdjur",
+      "E": "grodyngel"
+    },
+    "answer": "D",
+    "questionNumber": 4,
+    "year": 2024,
+    "term": "ht"
+  },
+  {
+    "word": "restriktiv",
+    "options": {
+      "A": "bestämd",
+      "B": "ordentlig",
+      "C": "påfrestande",
+      "D": "motvillig",
+      "E": "återhållsam"
+    },
+    "answer": "E",
+    "questionNumber": 5,
+    "year": 2024,
+    "term": "ht"
+  },
+  {
+    "word": "särdrag",
+    "options": {
+      "A": "avvikande åsikt",
+      "B": "skiljelinje",
+      "C": "klokt agerande",
+      "D": "diskriminering",
+      "E": "utmärkande egenskap"
+    },
+    "answer": "E",
+    "questionNumber": 6,
+    "year": 2024,
+    "term": "ht"
+  },
+  {
+    "word": "osökt",
+    "options": {
+      "A": "rättvist",
+      "B": "naturligt",
+      "C": "intressant",
+      "D": "hoppfullt",
+      "E": "viktigt"
+    },
+    "answer": "B",
+    "questionNumber": 7,
+    "year": 2024,
+    "term": "ht"
+  },
+  {
+    "word": "empati",
+    "options": {
+      "A": "hjälpsamhet",
+      "B": "uppskattning",
+      "C": "tillgivenhet",
+      "D": "inlevelseförmåga",
+      "E": "ömsesidighet"
+    },
+    "answer": "D",
+    "questionNumber": 8,
+    "year": 2024,
+    "term": "ht"
+  },
+  {
+    "word": "bordlägga",
+    "options": {
+      "A": "tilltala",
+      "B": "intyga",
+      "C": "motstå",
+      "D": "förevisa",
+      "E": "uppskjuta"
+    },
+    "answer": "E",
+    "questionNumber": 9,
+    "year": 2024,
+    "term": "ht"
+  },
+  {
+    "word": "taktfull",
+    "options": {
+      "A": "snabb",
+      "B": "högljudd",
+      "C": "finkänslig",
+      "D": "noggrann",
+      "E": "uthållig"
+    },
+    "answer": "C",
+    "questionNumber": 10,
+    "year": 2024,
+    "term": "ht"
+  }
+]
