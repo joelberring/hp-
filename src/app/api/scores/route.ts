@@ -1,13 +1,13 @@
 import { NextResponse } from "next/server";
 import { db } from "@/lib/firebase";
-import { collection, addDoc, query, orderBy, limit, getDocs, serverTimestamp } from "firebase/firestore";
+import { collection, addDoc, query, orderBy, limit, getDocs, serverTimestamp, where } from "firebase/firestore";
 import { getServerSession } from "next-auth/next";
 
 export const dynamic = 'force-dynamic';
 
 export async function POST(request: Request) {
     const session = await getServerSession();
-    const { score, total, time, percentage, guestName } = await request.json();
+    const { score, total, time, percentage, guestName, mode } = await request.json();
 
     try {
         await addDoc(collection(db, "scores"), {
@@ -18,6 +18,7 @@ export async function POST(request: Request) {
             total,
             percentage: percentage || (score / total) * 100,
             time,
+            mode: mode || "stora", // Save the game mode
             createdAt: serverTimestamp()
         });
         return NextResponse.json({ success: true });
@@ -27,12 +28,21 @@ export async function POST(request: Request) {
     }
 }
 
-export async function GET() {
+export async function GET(request: Request) {
     try {
+        const { searchParams } = new URL(request.url);
+        const mode = searchParams.get('mode') || 'maraton';
+
         const scoresRef = collection(db, "scores");
-        // Simplify to single orderBy to avoid missing index error in Firestore
-        // You can add composite index later in Firebase Console
-        const q = query(scoresRef, orderBy("percentage", "desc"), limit(20));
+        // Simple query by mode and percentage
+        // Note: For multi-field ordering, an index might be needed, 
+        // but started with single order to ensure it works.
+        const q = query(
+            scoresRef,
+            where("mode", "==", mode),
+            orderBy("percentage", "desc"),
+            limit(20)
+        );
         const querySnapshot = await getDocs(q);
 
         const leaderboard = querySnapshot.docs.map(doc => ({

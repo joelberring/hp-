@@ -11,6 +11,8 @@ interface Question {
   term: string;
 }
 
+type GameMode = 'stora' | 'snabb' | 'maraton';
+
 export default function Home() {
   const { data: session } = useSession();
   const [view, setView] = useState<'home' | 'game' | 'results' | 'leaderboard'>('home');
@@ -21,7 +23,8 @@ export default function Home() {
   const [score, setScore] = useState(0);
   const [loading, setLoading] = useState(false);
   const [leaderboard, setLeaderboard] = useState<any[]>([]);
-  const [gameMode, setGameMode] = useState<'stora' | 'snabb' | 'maraton'>('stora');
+  const [gameMode, setGameMode] = useState<GameMode>('stora');
+  const [leaderboardMode, setLeaderboardMode] = useState<GameMode>('maraton');
   const [guestName, setGuestName] = useState('');
 
   // Persist guest name in localStorage
@@ -35,7 +38,7 @@ export default function Home() {
     localStorage.setItem('hp_guest_name', name);
   };
 
-  const startMode = (mode: 'stora' | 'snabb' | 'maraton') => {
+  const startMode = (mode: GameMode) => {
     setLoading(true);
     setGameMode(mode);
     const limit = mode === 'stora' ? 40 : mode === 'snabb' ? 10 : 1000;
@@ -61,9 +64,10 @@ export default function Home() {
       });
   };
 
-  const showLeaderboardView = () => {
+  const showLeaderboardView = (mode: GameMode = 'maraton') => {
     setLoading(true);
-    fetch('/api/scores')
+    setLeaderboardMode(mode);
+    fetch(`/api/scores?mode=${mode}`)
       .then(res => res.json())
       .then(data => {
         setLeaderboard(data.leaderboard || []);
@@ -86,7 +90,7 @@ export default function Home() {
     const total = currentIndex + 1;
     const percentage = (score / total) * 100;
 
-    // Save score (works for both logged in and guests)
+    // Save score
     await fetch('/api/scores', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
@@ -95,7 +99,8 @@ export default function Home() {
         total,
         percentage,
         time: 0,
-        guestName: session ? null : guestName
+        guestName: session ? null : guestName,
+        mode: gameMode
       })
     });
   };
@@ -177,11 +182,11 @@ export default function Home() {
               <div style={{ fontSize: '0.8rem', color: '#64748b' }}>10 ord</div>
             </div>
           </button>
-          <button className="option-btn" onClick={showLeaderboardView}>
+          <button className="option-btn" onClick={() => showLeaderboardView('maraton')}>
             <span className="option-label">🏆</span>
             <div>
               <strong>Topplista</strong>
-              <div style={{ fontSize: '0.8rem', color: '#64748b' }}>Bäst precision just nu</div>
+              <div style={{ fontSize: '0.8rem', color: '#64748b' }}>Se vem som är bäst</div>
             </div>
           </button>
         </div>
@@ -193,6 +198,27 @@ export default function Home() {
     return (
       <div className="container">
         <h1>Topplista</h1>
+
+        <div style={{ display: 'flex', gap: '0.5rem', marginBottom: '1.5rem', justifyContent: 'center' }}>
+          {(['maraton', 'stora', 'snabb'] as GameMode[]).map(m => (
+            <button
+              key={m}
+              onClick={() => showLeaderboardView(m)}
+              style={{
+                padding: '0.5rem 1rem',
+                borderRadius: '0.5rem',
+                border: '1px solid var(--border)',
+                background: leaderboardMode === m ? 'var(--foreground)' : 'transparent',
+                color: leaderboardMode === m ? 'var(--background)' : 'var(--foreground)',
+                cursor: 'pointer',
+                fontSize: '0.8rem'
+              }}
+            >
+              {m.charAt(0).toUpperCase() + m.slice(1)}
+            </button>
+          ))}
+        </div>
+
         <div style={{ textAlign: 'left', marginBottom: '2rem' }}>
           <div style={{ display: 'flex', justifyContent: 'space-between', padding: '1rem 0', fontWeight: 'bold', borderBottom: '2px solid var(--border)' }}>
             <span>Namn</span>
@@ -212,7 +238,7 @@ export default function Home() {
               </div>
             ))
           ) : (
-            <p style={{ textAlign: 'center', color: '#64748b', padding: '2rem' }}>Inga resultat än. Bli först!</p>
+            <p style={{ textAlign: 'center', color: '#64748b', padding: '2rem' }}>Här var det tomt än så länge...</p>
           )}
         </div>
         <button className="next-btn" onClick={() => setView('home')}>Tillbaka till menyn</button>
@@ -228,7 +254,7 @@ export default function Home() {
         <h1>Resultat</h1>
         <div className="word" style={{ fontSize: '4rem', margin: '0.5rem 0' }}>{percentage}%</div>
         <div style={{ color: '#64748b', marginBottom: '2rem', fontSize: '1.2rem' }}>
-          {score} rätt av {total} ord
+          {score} rätt av {total} ord ({gameMode})
         </div>
         <p style={{ color: '#64748b', marginBottom: '2rem' }}>
           Ditt resultat har sparats under namnet: <strong>{session?.user?.name || guestName || "Anonym"}</strong>
@@ -245,7 +271,7 @@ export default function Home() {
     <div className="container">
       <div style={{ display: 'flex', justifyContent: 'space-between', color: '#64748b', fontSize: '0.875rem', marginBottom: '1.5rem' }}>
         <span>{currentQuestion.year} {currentQuestion.term.toUpperCase()}</span>
-        <span>{currentIndex + 1} ord körda</span>
+        <span>{currentIndex + 1} ord körda ({gameMode})</span>
       </div>
 
       <div className="word-card">
