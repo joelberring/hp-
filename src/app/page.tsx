@@ -231,8 +231,8 @@ export default function Home() {
       <div className="container">
         <h1>Topplista</h1>
 
-        <div style={{ display: 'flex', gap: '0.5rem', marginBottom: '1.5rem', justifyContent: 'center' }}>
-          {(['maraton', 'stora', 'snabb'] as GameMode[]).map(m => (
+        <div style={{ display: 'flex', gap: '0.5rem', marginBottom: '1.5rem', justifyContent: 'center', flexWrap: 'wrap' }}>
+          {(['maraton', 'stora', 'snabb', 'ai'] as GameMode[]).map(m => (
             <button
               key={m}
               onClick={() => showLeaderboardView(m)}
@@ -240,13 +240,13 @@ export default function Home() {
                 padding: '0.5rem 1rem',
                 borderRadius: '0.5rem',
                 border: '1px solid var(--border)',
-                background: leaderboardMode === m ? 'var(--foreground)' : 'transparent',
+                background: leaderboardMode === m ? (m === 'ai' ? 'linear-gradient(135deg, #8b5cf6, #ec4899)' : 'var(--foreground)') : 'transparent',
                 color: leaderboardMode === m ? 'var(--background)' : 'var(--foreground)',
                 cursor: 'pointer',
                 fontSize: '0.8rem'
               }}
             >
-              {m.charAt(0).toUpperCase() + m.slice(1)}
+              {m === 'ai' ? '🤖 AI' : m.charAt(0).toUpperCase() + m.slice(1)}
             </button>
           ))}
         </div>
