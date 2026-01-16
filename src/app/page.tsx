@@ -42,12 +42,21 @@ export default function Home() {
     fetch(`/api/questions?limit=${limit}`)
       .then(res => res.json())
       .then(data => {
-        setQuestions(data.questions);
-        setScore(0);
-        setCurrentIndex(0);
-        setSelectedOption(null);
-        setShowResult(false);
-        setView('game');
+        if (data.questions && data.questions.length > 0) {
+          setQuestions(data.questions);
+          setScore(0);
+          setCurrentIndex(0);
+          setSelectedOption(null);
+          setShowResult(false);
+          setView('game');
+        } else {
+          alert("Kunde inte hämta frågor. Försök igen!");
+        }
+        setLoading(false);
+      })
+      .catch(err => {
+        console.error(err);
+        alert("Ett fel uppstod. Kontrollera din anslutning.");
         setLoading(false);
       });
   };
@@ -286,7 +295,7 @@ export default function Home() {
         <div
           className="progress-bar"
           style={{
-            width: gameMode === 'maraton' ? '100%' : `${((currentIndex + 1) / questions.length) * 100}%`,
+            width: gameMode === 'maraton' ? '100%' : `${questions.length > 0 ? ((currentIndex + 1) / questions.length) * 100 : 0}%`,
             background: gameMode === 'maraton' ? 'linear-gradient(90deg, #10b981, #3b82f6)' : undefined
           }}
         ></div>
