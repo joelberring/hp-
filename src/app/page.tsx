@@ -11,7 +11,7 @@ interface Question {
   term: string;
 }
 
-type GameMode = 'stora' | 'snabb' | 'maraton';
+type GameMode = 'stora' | 'snabb' | 'maraton' | 'ai';
 
 export default function Home() {
   const { data: session } = useSession();
@@ -60,6 +60,31 @@ export default function Home() {
       .catch(err => {
         console.error(err);
         alert("Ett fel uppstod. Kontrollera din anslutning.");
+        setLoading(false);
+      });
+  };
+
+  const startAIMode = () => {
+    setLoading(true);
+    setGameMode('ai');
+    fetch('/api/ai-questions?count=10')
+      .then(res => res.json())
+      .then(data => {
+        if (data.questions && data.questions.length > 0) {
+          setQuestions(data.questions);
+          setScore(0);
+          setCurrentIndex(0);
+          setSelectedOption(null);
+          setShowResult(false);
+          setView('game');
+        } else {
+          alert('Kunde inte generera AI-frågor. Försök igen!');
+        }
+        setLoading(false);
+      })
+      .catch(err => {
+        console.error(err);
+        alert('Ett fel uppstod vid AI-generering.');
         setLoading(false);
       });
   };
@@ -180,6 +205,13 @@ export default function Home() {
             <div>
               <strong>Snabbträning</strong>
               <div style={{ fontSize: '0.8rem', color: '#64748b' }}>10 ord</div>
+            </div>
+          </button>
+          <button className="option-btn" onClick={startAIMode} style={{ background: 'linear-gradient(135deg, #8b5cf6, #ec4899)', border: 'none' }}>
+            <span className="option-label">🤖</span>
+            <div>
+              <strong>AI-Läge</strong>
+              <div style={{ fontSize: '0.8rem', color: 'rgba(255,255,255,0.8)' }}>Nya ord genererade av AI!</div>
             </div>
           </button>
           <button className="option-btn" onClick={() => showLeaderboardView('maraton')}>
