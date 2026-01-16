@@ -34,21 +34,20 @@ export async function GET(request: Request) {
         const mode = searchParams.get('mode') || 'maraton';
 
         const scoresRef = collection(db, "scores");
-        // Simple query by mode and percentage
-        // Note: For multi-field ordering, an index might be needed, 
-        // but started with single order to ensure it works.
-        const q = query(
-            scoresRef,
-            where("mode", "==", mode),
-            orderBy("percentage", "desc"),
-            limit(20)
-        );
+        // Fetch all scores sorted by percentage, then filter by mode in JS
+        // This avoids needing a composite index in Firestore
+        const q = query(scoresRef, orderBy("percentage", "desc"), limit(100));
         const querySnapshot = await getDocs(q);
 
-        const leaderboard = querySnapshot.docs.map(doc => ({
+        const allScores = querySnapshot.docs.map(doc => ({
             id: doc.id,
             ...doc.data()
         }));
+
+        // Filter by mode in JavaScript
+        const leaderboard = allScores
+            .filter((s: any) => s.mode === mode)
+            .slice(0, 20);
 
         return NextResponse.json({ leaderboard });
     } catch (error: any) {
